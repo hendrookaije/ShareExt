@@ -119,3 +119,131 @@ http://103.130.186.138:8800/getstream.m3u8.php?channel=alkasstwo
 #EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", DUBAI SPORTS 3(set auto)
 http://103.130.186.138:8800/getstream.m3u8.php?channel=dubaisport3
 
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",ZQ DRAMA
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",CCM
+http://62.210.127.144:8080/live/mx2dqFbS4M/15GUEjYfxD/9617.mpeg?token=QhVcUhcJRggXUwYFVgVTUlUEAwtRB1UBBwUCVAQGVFddA1IAXFFWBldGGURBEkJRAFtpWgVEXlBWVgBZSkAXElxFa1oAQ14QAVYNVgNWEhhDQl9eBEReUlNUAVRWVVNWDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox movies
+http://62.210.127.217:8080/P0zgrtbYHX/SE8tqtbfmj/28676?token=QhVcUhcJRggXBVdXAldSUgRQAVBZAAUAVgcGWVABVFFdVlcEXAdQC1BGGURBEkJRAFtpWgVEXlBWVgNYSkAXElxFa1oAQ14QAFIBUgdQEhhDQl9eBEReUlNUBlFeW1ZYDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO
+https://www.dropbox.com/s/dl/lmx3f8dnbe6xee4/hbo_omahtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dPcXVWJ/celestialmovlogo.png" group-title="ShareExt@Cinema", Celestial Movie
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="ShareExt@Cinema", Flix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg" group-title="ShareExt@Cinema", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Privé_HD.jpg" group-title="ShareExt@Cinema", &Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="ShareExt@Cinema", TLC Japan
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="ShareExt@Cinema", Movies Now
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://s7.ollcdn.net/i/73/ff/59/73ff59537x295-hd-vip-megahit-hd.png" group-title="ShareExt@Cinema", Vip Megahit
+http://live-ng-01.more.tv:80/hls/ViP_Megahit_HD/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/ATV.png" group-title="ShareExt@Cinema", ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+     
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LpdWthq/kixlogo.png" group-title="ShareExt@Cinema", KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LRNcnxp/thrilllogo.png" group-title="ShareExt@Cinema", THRILL
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SBmM0M0/mycinemalogo.png" group-title="ShareExt@Cinema", MY CINEMA
+http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zd3btDX/cinemaworldlogo.png" group-title="ShareExt@Cinema", CINEMA WORLD
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jM9pMLT/blueantenterlogo.png" group-title="ShareExt@Cinema", BLUE ANT ENTERTAINMENT
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mh6931c/blueantexlogo.png" group-title="ShareExt@Cinema", BLUE ANT EXTREME
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrJGYyg/SONELOGO.png" group-title="ShareExt@Cinema", SONY ONE
+http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
+http://45.126.83.51/uq2663/h/h143/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/399/742/png-clipart-gem-tv-television-channel-logo-sony-s-gem-tv-television.png", group-title"ShareExt@Cinema",SONY S-GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y78zsL4/kpluslogo.png" group-title="ShareExt@Cinema", K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k6RjQvX/kdramalogo.png" group-title="ShareExt@Cinema", K-DRAMA ID
+http://210.210.155.35:80/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kw9Bp79/hitslogo.png" group-title="ShareExt@Cinema", HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vistapointe.net/images/21-3.jpg", group-title="ShareExt@Cinema", 21 HD
+http://51.158.190.97/hls/stream.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.k-vision.tv/uploads/2018/08/xzeebioskop.png.pagespeed.ic.jUSkZudEpF.png" group-title="ShareExt@Cinema", ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b91220254ac4729e0787f47/1565811502278/84a12a70fdeca4c785565dd4826460d2.jpg" group-title="ShareExt@Cinema", MNX Plus
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d2c2a3630f177f3549bd6cf836f6b57d8243f2c5f0033317b510a4386e74affb.png" group-title="ShareExt@Cinema", WAU MOVIES
+http://nn2.joj.sk/hls/wau-540.m3u8
+  
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1244549856095612929/U0ZY3iYZ_400x400.jpg" group-title="ShareExt@Cinema", Dubai Movie
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="ShareExt@Cinema", Romedy NOW
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 1
+http://tx2play1.douyucdn.cn:80/live/252802rbQGaZXUQi.m3u8
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 2
+http://tx2play1.douyucdn.cn:80/live/2793084rFTCiXXQq.m3u8
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 3
+http://tx2play1.douyucdn.cn:80/live/20415rnWbjg6Ex1K.m3u8
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 4
+http://tx2play1.douyucdn.cn:80/live/263824rWV6uep4vg.m3u8
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 5
+http://tx2play1.douyucdn.cn:80/live/5033502rKMp9RxJ7.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
