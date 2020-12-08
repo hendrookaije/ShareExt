@@ -884,6 +884,23 @@ http://tv.tangyuanya.com:8080/hls/ke9797/199
 
 
 
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN Channel",FoxMovies(set auto)
+http://103.130.186.138:8800/getstream.m3u8.php?channel=foxmovies
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN Channel",lejel hs(set auto)
+http://103.130.186.138:8800/getstream.m3u8.php?channel=lejelhs
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN Channel",Nusantara tv(set auto)
+http://103.130.186.138:8800/getstream.m3u8.php?channel=nusantaratv
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN Channel",Persija Tv(set auto)
+http://103.130.186.138:8800/getstream.m3u8.php?channel=persijatv
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN Channel",O channel(set auto)
+http://103.130.186.138:8800/getstream.m3u8.php?channel=ochannel
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN Channel",Oxygentv(set auto)
 http://103.130.186.138:8800/getstream.m3u8.php?channel=oxygentv
 
