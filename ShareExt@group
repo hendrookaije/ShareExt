@@ -3363,6 +3363,74 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="ShareExt@Cinema", Romedy NOW
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 1
+http://atxone.us:2082/Andre2020/2020andre/88285
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 2
+http://atxone.us:2082/Andre2020/2020andre/96865
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 3
+http://atxone.us:2082/Andre2020/2020andre/88286
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 4
+http://atxone.us:2082/Andre2020/2020andre/96866
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 5
+http://atxone.us:2082/Andre2020/2020andre/88287
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 6
+http://atxone.us:2082/Andre2020/2020andre/96867
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 7
+http://atxone.us:2082/Andre2020/2020andre/88288
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 8
+http://atxone.us:2082/Andre2020/2020andre/96868
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 9
+http://atxone.us:2082/Andre2020/2020andre/88289
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 10
+http://atxone.us:2082/Andre2020/2020andre/96869
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 11
+http://atxone.us:2082/Andre2020/2020andre/88290
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 12
+http://atxone.us:2082/Andre2020/2020andre/97142
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 13
+http://atxone.us:2082/Andre2020/2020andre/88291
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 14
+http://atxone.us:2082/Andre2020/2020andre/97143
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 15
+http://atxone.us:2082/Andre2020/2020andre/93209
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 16
+http://atxone.us:2082/Andre2020/2020andre/97144
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 17
+http://atxone.us:2082/Andre2020/2020andre/93210
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 18
+http://atxone.us:2082/Andre2020/2020andre/97145
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 19
+http://atxone.us:2082/Andre2020/2020andre/93211
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@CINEsKY@MOVIES",CINE SKY 20
+http://atxone.us:2082/Andre2020/2020andre/97146
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 1
 http://tx2play1.douyucdn.cn:80/live/252802rbQGaZXUQi.m3u8
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 2
@@ -3373,6 +3441,16 @@ http://tx2play1.douyucdn.cn:80/live/20415rnWbjg6Ex1K.m3u8
 http://tx2play1.douyucdn.cn:80/live/263824rWV6uep4vg.m3u8
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 5
 http://tx2play1.douyucdn.cn:80/live/5033502rKMp9RxJ7.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 
