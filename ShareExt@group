@@ -6,11 +6,16 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://s3.envato.com/files/1517851/Video_Preview_Image.jpg" group-title="ShareExt@Relax", Showbiz
 http://210.210.155.35/x6bnqe/s/s113/index.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax",MUZIC HIT
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MUZIC HIT
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax",AMOY MUZIC HOUSE
 http://111.73.46.108/video/m3u8/2019/12/09/f05ec51f/playlist.m3u8
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Elektrik Now
+https://bozztv.com:443/veset1/720pHi/playlist_720pHi.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Relaxing Guitar Relax
+https://bozztv.com:443/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fashion tv
+https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
 
 
 
