@@ -8,7 +8,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 http://210.210.155.35/x6bnqe/s/s113/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",MUZIC HIT
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax",AMOY MUZIC HOUSE
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AMOY MUZIC HOUSE
 http://111.73.46.108/video/m3u8/2019/12/09/f05ec51f/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Elektrik Now
 https://bozztv.com:443/veset1/720pHi/playlist_720pHi.m3u8
