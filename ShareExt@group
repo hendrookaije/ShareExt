@@ -3052,19 +3052,43 @@ http://atxone.us:2082/Andre2020/2020andre/97146
 
 
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 1
-http://tx2play1.douyucdn.cn:80/live/252802rbQGaZXUQi.m3u8
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 2
-http://tx2play1.douyucdn.cn:80/live/2793084rFTCiXXQq.m3u8
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 3
-http://tx2play1.douyucdn.cn:80/live/20415rnWbjg6Ex1K.m3u8
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 4
-http://tx2play1.douyucdn.cn:80/live/263824rWV6uep4vg.m3u8
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@Douyu.cdn", Douyu Movie 5
-http://tx2play1.douyucdn.cn:80/live/5033502rKMp9RxJ7.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies", Douyu Movie 1
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/252802rbQGaZXUQi_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies", Douyu Movie 2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/2793084rFTCiXXQq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies", Douyu Movie 3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies", Douyu Movie 4
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/5033502rKMp9RxJ7_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies", Douyu Movie 5
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies", Douyu Movie 6
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies", Douyu Movie 7
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/315457r0LsXadyku_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",一起看萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",一起看狂仔酷炫
+http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",一起看进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",一起看少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",一起看进击の神
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",狂仔酷炫
+http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="ShareExt@DouyuMovies",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
 
 
 
