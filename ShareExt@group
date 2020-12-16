@@ -1264,6 +1264,24 @@ http://tvku.live:8888/Tamtowi/mY6WYb498C/927
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Bein Sport HD 1
+http://135.181.175.161:25461/maxsport2020/magico/1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Bein Sport HD 2
+http://135.181.175.161:25461/maxsport2020/magico/2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Bein Sport HD 3
+http://135.181.175.161:25461/maxsport2020/magico/3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Bein Sport HD 4
+http://135.181.175.161:25461/maxsport2020/magico/4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Bein Sport HD 5
+http://135.181.175.161:25461/maxsport2020/magico/5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Bein Sport HD 6
+http://135.181.175.161:25461/maxsport2020/magico/6
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Bein Sport HD 7
+http://135.181.175.161:25461/maxsport2020/magico/7
+
+
+
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",MOLA TV FREE
 https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
