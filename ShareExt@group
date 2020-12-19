@@ -837,98 +837,24 @@ http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/43
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/44
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",BeIN FATAFEAT
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/50
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein National Geographic Abu Dhabi
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/112
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein Spacetoon
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/221
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein DMAX
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/238
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein Doğuş
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/239
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein EuroStar
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/240
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein TLC
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/262
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein Kral Pop
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/246
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein Kral TV
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/248
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein Natural TV
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/251
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",Bein Star TV
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/256
 
 
-
-
-
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",beIN Sport 1 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",beIN Sport 1 
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/12
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",beIN Sport 2 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",beIN Sport 2 
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/13
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",beIN Sport 3 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",beIN Sport 3 
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/14
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",beIN Sport 4 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",beIN Sport 4 
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/15
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",beIN Sport 5 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",beIN Sport 5 
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/16
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",beIN Sport 6 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",beIN Sport 6 
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/17
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",beIN Sport 7 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",beIN Sport 7 
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/18
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",beIN Sport 8 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GroupBEINN",beIN Sport 8 
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/19
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Nile Sport
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/91
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Abu Dhabi Sports 1
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/94
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Abu Dhabi Sports 2
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/95
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Abu Dhabi Sports 3
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/96
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Abu Dhabi Sports 4
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/97
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Dubai One
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/100
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Dubai Racing
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/101
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Dubai Racing 2
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/102
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Dubai Racing 3
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/103
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Dubai Sports
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/104
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Dubai Sports 2
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/105
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Dubai Sports 3
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/106
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",KTV Sport
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/128
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",KTV Sport Plus
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/129
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Bahrain Sport 1
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/144
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Bahrain Sport 2
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/147
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Al Kass Sports 1
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/190
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Al Kass Sports 2
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/191
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Al Kass Sports 4
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/192
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",Al Kass Sports 5
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/193
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",BeIn Sports 2
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/194
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",BeIn Sports 3
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/195
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",JORDAN SPORTS
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/268
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ArabSport",ON SPORTS
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/269
 
 
 
@@ -1028,20 +954,6 @@ http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/71
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/72
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MBC",MBC 1
 http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/73
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MBC",mbc persia
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/75
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MBC",mbc Kids
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/76
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MBC",mbc Cinema
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/77
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MBC",mbc Classic
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/78
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MBC",mbc Comedy
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/79
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MBC",mbc Drama
-http://best-live-iptv.xyz:2082/BEST-LIVE44688/BEST-LIVE44688/80
-
-
 
 
 
