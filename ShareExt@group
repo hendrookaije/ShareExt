@@ -16,7 +16,18 @@ https://bozztv.com:443/veset1/720pHi/playlist_720pHi.m3u8
 https://bozztv.com:443/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax1
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/427397rs1AEW1gEZ_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/6146690rD70in6gK_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/8901218r5ayitEzb_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax4
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax5
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/329667rnoJ0R33Eh_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax6
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/7971641rNPPF0PQQ_4000p.xs
 
 
 
