@@ -1656,7 +1656,7 @@ http://qqtv.nl:8080/malissa/malissa/7855
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="**HBO COMEDY US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_comedy_east.png" group-title="HBO // LIVE MOVIES",**HBO COMEDY US
 http://qqtv.nl:8080/malissa/malissa/7885
 #EXTINF:-1 tvg-id="HBOZone.us" tvg-name="**HBO ZONE EAST HD US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo-zone-us.png" group-title="HBO // LIVE MOVIES",**HBO ZONE EAST HD US
-http://qqtv.nl:8080/malissa/malissa/7883
+http://qqtv.nl:8080/malissa/malissa/7883 
 #EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="**HBO SIGNATURE US" tvg-logo="http://glmtv.pw/logo/prestige/United-States/hbo_signature_br.png" group-title="HBO // LIVE MOVIES",**HBO SIGNATURE US
 http://qqtv.nl:8080/malissa/malissa/7854
 #EXTINF:-1 tvg-id="Starz.us" tvg-name="**STARZ EAST HD" tvg-logo="http://glmtv.pw/logo/prestige/United-States/starz_us_east.png" group-title="HBO // LIVE MOVIES",**STARZ EAST HD
@@ -2858,6 +2858,21 @@ https://www.livedoomovies.com/02_T_Sports_480p/chunklist.m3u8
 
 
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CelestiaMovie🇲🇾🇲🇾🇲🇾
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",HBO🇲🇾🇲🇾🇲🇾
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",BOO🇲🇾🇲🇾🇲🇾
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",PRIMA🇲🇾🇲🇾🇲🇾
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CERIA🇲🇾🇲🇾🇲🇾
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",XIAOTAIYANG🇲🇾🇲🇾🇲🇾
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",SHUANGXING🇲🇾🇲🇾🇲🇾
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",Xuang xing
 http://62.210.127.217:8080/snwYC0SQEg/rAh0q9pwwq/28702?play_token=cwdhaAv8G9&token=QhVcUhcJRggXUlBfVFFTVVMPV1VXX1BTXVUDWQJQVwQNVFcCAlJQUVRGGURBEkJRAFtpWgVEXlFdUwVVSkAXElxFa1oAQ14QA1cFXwZSEhhDQl9eBEReUlBdBlFWWlNWDhsWQw0FRggXVgxXB1ESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXBwVWFBoRAgkRDREWTENcQDEmGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABfAQFSFEs
