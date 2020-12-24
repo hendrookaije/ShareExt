@@ -2676,7 +2676,58 @@ http://tyciptv.site:8080/ΓΚΕΣΙΟΣ/749cd2af/14
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Ten 3 4K
+http://sonyiptv.net:8080/3463/3463/77765
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Ten 2 4K
+http://sonyiptv.net:8080/3463/3463/77766
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Ten 1 4k
+http://sonyiptv.net:8080/3463/3463/77767
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Stars Sports 2 HD
+http://sonyiptv.net:8080/3463/3463/77770
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Star Sports 1 HD
+http://sonyiptv.net:8080/3463/3463/77773
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Star Sports Select 2 HD
+http://sonyiptv.net:8080/3463/3463/77774
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Star Sports Select 1 HD
+http://sonyiptv.net:8080/3463/3463/77775
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",SONY SIX HD
+http://sonyiptv.net:8080/3463/3463/77796
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",DD Sports
+http://sonyiptv.net:8080/3463/3463/77811
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Willow Cricket HD
+http://sonyiptv.net:8080/3463/3463/77845
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Star Sports 2 HD
+http://sonyiptv.net:8080/3463/3463/77848
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Sony Six HD
+http://sonyiptv.net:8080/3463/3463/77855
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Star Sports Select 2 HD
+http://sonyiptv.net:8080/3463/3463/77856
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Star Sports Select 1 HD
+http://sonyiptv.net:8080/3463/3463/77857
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Star Sprots 1 HD
+http://sonyiptv.net:8080/3463/3463/77860
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Ptv Sports
+http://sonyiptv.net:8080/3463/3463/81319
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Geo Super
+http://sonyiptv.net:8080/3463/3463/81320
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Ptv sports Sd
+http://sonyiptv.net:8080/3463/3463/81321
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Geo Super Hd
+http://sonyiptv.net:8080/3463/3463/81322
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Bein Sports Cricket
+http://sonyiptv.net:8080/3463/3463/81325
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Astro Cricket Hd
+http://sonyiptv.net:8080/3463/3463/81327
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",StarSportSelect1
+http://103.103.43.5:9000/play/a0e7/index.m3u8
+StarSportSelect1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",ZQsport
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",LaoChampa1
