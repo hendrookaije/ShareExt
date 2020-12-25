@@ -1139,6 +1139,22 @@ http://sonyiptv.net:8080/3463/3463/86209
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TesstSport",Assp1
+#EXTVLCOPT:http-user-agent=kite.tvstream
+https://afrohd4k.vip/kitetv.restream/cl94LzJQQL/96
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TesstSport",Assp2
+#EXTVLCOPT:http-user-agent=kite.tvstream
+https://afrohd4k.vip/kitetv.restream/cl94LzJQQL/97
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TesstSport",Assp3
+#EXTVLCOPT:http-user-agent=kite.tvstream
+https://afrohd4k.vip/kitetv.restream/cl94LzJQQL/98
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@TesstSport",Assp4
+#EXTVLCOPT:http-user-agent=kite.tvstream
+https://afrohd4k.vip/kitetv.restream/cl94LzJQQL/99
+
 
 
 
