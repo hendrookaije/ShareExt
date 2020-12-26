@@ -482,7 +482,155 @@ https://cdnjt25.useetv.com/dass/14/rrinet/.m3u8
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN Channel",Oxygentv
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=oxygentv
 
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/797226b837e2ea8f087d.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", MATRIX TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=matrixtv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/dfe1b00e05f7a1a07edc.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", SINEMA INDONESIA
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=sinemaindonesia
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/9fbec8d89033a1fbaeb4.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", SINEMA INDONESIA X
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=sinemaindonesia-x
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/917593205d1b9bef8459.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", NET TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=nettv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/98c35787154a1f8fc6b8.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", METRO TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=metrotv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/16f01924b3993c0a6d70.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", TVRI NASIONAL
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=tvri
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2a7c7490cae3f22e0db6.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", SCTV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=sctv 
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/aec4c474da618fe16c76.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", TRANS 7
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=trans7
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/462e74798400563e56ec.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", TRANS TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=transtv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/50c0931f3cfb5258b972.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", ANTV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=antv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c9917a03b2b782028515.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", TV ONE
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=tvone
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/5edd2dc397034ff6f7c7.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", JAK TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=jaktv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d8611b639307ee6fce8e.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", KOMPAS TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=kompastv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c10eb710b32d995c32eb.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", RTV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=rtv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/fbd60061e32ee1d47ef7.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", LOTUS MACAU
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=lotusmacau
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/3262a3392d5e1d28185d.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", CCTV 4
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=cctv4asia
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e2f668b3dafde7e16652.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", CETV 1
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=cetv1
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/87e30aa5de2af8c31382.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", CGTN
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=cgtn
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ce7793eda5c21349da6a.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", CGTN DOCUMENTARY
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=cgtndocumentary
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1516cfff880cf8f05772.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", B4U MOVIES
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=b4umovieindia
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/690bf312c6d80d78616a.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", DRAKOR
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=drakorplus
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cc206a4b878ea6199f19.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", FASHION TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=fashiontv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/63bd577ca43fdd74052b.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", B4U MUSIC
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=b4umusicindia
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/2d979d476997759e33cb.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", DW TV ASIA
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=dwenglish
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/d0f387d13c1687a7a818.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", TVE ASIA
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=tveasia
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/cfc5d67a54f4e9d00f13.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", TV5 MONDE
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=tv5monde
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/71b6548371859e81ff04.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", SALAM TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=salamtv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/6e1a7e570bc390f9ef9b.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", BERITA SATU
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=beritasatu
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/b82707dfbb58ee23c108.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", iNews TV
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=inews
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8543486df8c9d785112.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", CNBC INDONESIA
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=cnbcindonesia
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1e6dc9e1f7a81aa26de2.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", AL JAZEERA
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=aljazeera
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/c0582b75e7f1d54d62a4.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", TRT WORLD
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=trtworld
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/7e23b41820e0eff52868.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", CHANNEL NEWS ASIA
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=channelnewsasia
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/1e4afd29602b1de683cf.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", EURONEWS
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=euronewsasia
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/20f4250451a65d27750e.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", CNBC
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=cnbc
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba0708dd596e739e5a1c.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", SPACETOON
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=spacetoon
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/12889b4baa56159ed877.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", TOONMAX
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=toonmax
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/e8b160572e513f2f2858.png?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", AL KASS TWO
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=alkasstwo
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", DUBAI SPORTS 3
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=dubaisport3
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", Xingkong
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=xingkong
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", Nusantaratv
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=nusantaratv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", Persijatv
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=persijatv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", Mcine
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=mcine
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", France24
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=france24
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", Ochannel
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=ochannel
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", Ebs Kids
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=ebskids
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", Magnatv
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=magnatv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", Atv
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=atv
+
+#EXTINF:-1 tvg-logo="http://103.130.186.139:12803/oxygentv/assets/upload/channel/ba7209b833b46dec1293.jpg?cdy=8.8.8.8" group-title="ShareExt@OXYGEN Channel", RAI italia
+http://103.130.186.138:8800/4f2334e6a53ada4b5324476a84111f21.m3u8.php?channel=raiitalia
 
 
 
