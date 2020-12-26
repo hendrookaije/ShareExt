@@ -125,6 +125,7 @@ http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/
 http://210.210.155.35:80/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI ID" tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png" group-title="ShareExt@Local", RCTI 
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
