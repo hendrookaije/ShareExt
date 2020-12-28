@@ -3448,6 +3448,16 @@ http://tyciptv.site:8080/ΓΚΕΣΙΟΣ/749cd2af/14
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",ChampionTv1
+http://185.238.0.145:1313/c/ku/see/d.php?a=08b00412925ca3fc9f19ad97fc52af0e&b=15&c=champion1&d=b894100
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",ChampionTv2
+http://185.238.0.145:1313/c/ku/see/d.php?a=7f1e60a81b19143d67fa4a3d71c9e6c7&b=15&c=champion2&d=b894100
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",ChampionTv3
+http://185.238.0.145:1313/c/ku/see/f.php?a=af4f00ca48321fb026865c5a1772dafd&b=geo_6786&c=480p
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",ASSP1
+http://185.238.0.145:1313/c/g/astrosupersoprt.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",ASSP3
+http://185.238.0.145:1313/c/g/astrosupersoprt3.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MY ASTRO SUPERSPORT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@ASIANSports",MY ASTRO SUPERSPORT 1 HD
