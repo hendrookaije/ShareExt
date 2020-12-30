@@ -1492,6 +1492,33 @@ http://51.104.147.231:8080/Amanda1/Nosa2255/682921
 
 
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.02e74f10e0327ad868d138f2b4fdd6f0.Coday" tvg-name"beIN Sport 1 (USEETV)",beIN Sport 1 (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=efd691fcfb139570442e93d2d3af3ce6a3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.e369853df766fa44e1ed0ff613f563bd.Coday" tvg-name"beIN Sport 2 (USEETV)",beIN Sport 2 (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=8492a79c13ef3e4c30f1872d75fd8e81a3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?id=8" group-title="Coday@SPORTS" tvg-id=".Coday" tvg-name"NBA (USEETV)",NBA (USEETV)
+https://streaming.useetv.com/dass/15/nba/manifest_wuseetv.mpd?enc=OzU1YD5jDykM999z8FBEOg&exp=1609255348&encp=WSZKuELKturHXyLZJribig&expp=1609265848&
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.c20ad4d76fe97759aa27a0c99bff6710.Coday" tvg-name"Champion TV 1 (USEETV)",Champion TV 1 (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=08b00412925ca3fc9f19ad97fc52af0ea3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.c9f0f895fb98ab9159f51fd0297e236d.Coday" tvg-name"Champion TV 2 (USEETV)",Champion TV 2 (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=7f1e60a81b19143d67fa4a3d71c9e6c7a3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZZ3eJa1vaev71aUWQo9nM7siO2I=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" tvg-id="RIYAN.2c264862e08ff87cb3535bc3543376ba.SHINTA" tvg-name"Champions TV 3 (VIDIO)" group-title="Coday@SPORTS",Champions TV 3 (VIDIO)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafdc4195da44844bf090c1730f35f20aa65
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.4e732ced3463d06de0ca9a15b6153677.Coday" tvg-name"Fox Sport 1 (USEETV)",Fox Sport 1 (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=4938af744b253b57bcf6f33d3dbf2f38a3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.19ca14e7ea6328a42e0eb13d585e4c22.Coday" tvg-name"Fox Sport 2 (USEETV)",Fox Sport 2 (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=9ca5d4a6246ad7c88e8663da026f1cbda3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.d3d9446802a44259755d38e6d163e820.Coday" tvg-name"Fox Sport 3 (USEETV)",Fox Sport 3 (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=c372de9c52ad3489a20563ceca0ffb48a3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.98f13708210194c475687be6106a3b84.Coday" tvg-name"Golf (USEETV)",Golf (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=85a8ee49afe0dc9d4ee65374857c127ea3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.b6d767d2f8ed5d21a44b0e5886680cb9.Coday" tvg-name"UseeSports (USEETV)",UseeSports (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=4c19ad20295739012508db9f189d9da4a3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.6512bd43d9caa6e02c990b0a82652dca.Coday" tvg-name"UseeSports2 (USEETV)",UseeSports2 (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=411383497a7771cce71f615a99268a43a3d7a7677cdd952fa4bf3de598eeb4e7
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?id=8" group-title="Coday@SPORTS" tvg-id="Riyan.d67d8ab4f4c10bf22aa353e27879133c.Coday" tvg-name"egg network (USEETV)",egg network (USEETV)
+http://coday.masuk.id/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=0e9312087f58f367d001ec9bae8f325aa3d7a7677cdd952fa4bf3de598eeb4e7
+
 
 
 
