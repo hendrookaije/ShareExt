@@ -1423,6 +1423,31 @@ http://iptvtree.net:8080/test-2accba/8702/157562
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",NBC Sports Network HD US
+http://51.104.147.231:8080/Amanda1/Nosa2255/682014
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",SuperSport Premier League FHD VIP AF
+http://51.104.147.231:8080/Amanda1/Nosa2255/682910
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",Optus Sport [Match Time] HD VIP AU
+http://51.104.147.231:8080/Amanda1/Nosa2255/684004
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",Sky Sports Premier League FHD VIP UK
+http://51.104.147.231:8080/Amanda1/Nosa2255/684434
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",Sky Sports Main Event FHD VIP UK
+http://51.104.147.231:8080/Amanda1/Nosa2255/671299
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",Sky Sports Main Event HD VIP UK
+http://51.104.147.231:8080/Amanda1/Nosa2255/683841
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",BT Sport 1 FHD VIP UK
+http://51.104.147.231:8080/Amanda1/Nosa2255/683858
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",BT Sport 2 FHD VIP UK
+http://51.104.147.231:8080/Amanda1/Nosa2255/683861
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",BT Sport 3 VIP UK
+http://51.104.147.231:8080/Amanda1/Nosa2255/683867
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",Bein Sports 11 HD VIP US
+http://51.104.147.231:8080/Amanda1/Nosa2255/682912
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@EPL",Bein Sports 12 HD VIP US
+http://51.104.147.231:8080/Amanda1/Nosa2255/682913
+
+
+
 
 
 
