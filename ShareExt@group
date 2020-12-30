@@ -16,19 +16,10 @@ https://bozztv.com:443/veset1/720pHi/playlist_720pHi.m3u8
 https://bozztv.com:443/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",Fashion tv
 https://bozztv.com:443/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax1
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/427397rs1AEW1gEZ_4000p.xs
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax2
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/6146690rD70in6gK_4000p.xs
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax3
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/8901218r5ayitEzb_4000p.xs
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax5
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelaxs
 http://tx2play1.douyucdn.cn:80/live/dyliveflv3/329667rnoJ0R33Eh_4000p.xs
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",AmoyHouseRelax6
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/7971641rNPPF0PQQ_4000p.xs
-
 
 
 
@@ -1452,35 +1443,6 @@ http://51.104.147.231:8080/Amanda1/Nosa2255/682913
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",Sky DAZN SAT HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685495
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 1 FHD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685300
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 2 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685303
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 3 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685304
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 4 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685305
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 5 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685306
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 6 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685307
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 7 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685308
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 8 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685309
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 9 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685310
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 10 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685311
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 11 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685312
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",DAZN 12 HD IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685313
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SERIE A Italia",Sky Sport Serie A FHD [H256 50FPS] IT
-http://51.104.147.231:8080/Amanda1/Nosa2255/685357
-
 
 
 
@@ -2083,20 +2045,6 @@ http://bestcostiptv.com:8080/13177/d5268ece/174613
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SportsBein2",Bein sport HD 1
-http://135.181.175.161:25461/beinlow2/beinlow2/1
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SportsBein2",Bein sport HD 2
-http://135.181.175.161:25461/beinlow2/beinlow2/2
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SportsBein2",Bein Sport HD 3
-http://135.181.175.161:25461/beinlow2/beinlow2/3
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SportsBein2",Bein Sport HD 4
-http://135.181.175.161:25461/beinlow2/beinlow2/4
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SportsBein2",Bein Sport HD 5
-http://135.181.175.161:25461/beinlow2/beinlow2/5
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SportsBein2",Bein Sport HD 6
-http://135.181.175.161:25461/beinlow2/beinlow2/6
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SportsBein2",Bein saport HD 7
-http://135.181.175.161:25461/beinlow2/beinlow2/7
 
 
 
@@ -2118,60 +2066,6 @@ http://135.181.175.161:25461/beinlow2/beinlow2/7
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Cinema(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/756.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 1(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/757.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Action 1(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/758.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Comedy 1(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/759.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Classic(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/760.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Planet(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/761.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Drama(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/762.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Travel(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/763.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED History(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/764.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Music(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/765.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 2(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/766.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Action 2(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/767.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Comedy 2(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/768.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 3(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/769.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Action 3(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/770.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Comedy 3(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/771.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 4(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/772.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Action 4(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/773.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Comedy 4(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/774.ts(setAuto)
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 5(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/775.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Action 5(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/776.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Comedy 5(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/777.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 6(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/778.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 7(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/779.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 8(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/780.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 9(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/781.ts
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@REDtv",RED Kids 10(setAuto)
-http://185.180.14.120:8889/live/LTHeX7FOht/jMheuwkVy9/782.ts
 
 
 
