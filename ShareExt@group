@@ -361,35 +361,35 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/in
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO HD(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/448
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO 2 HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO 2 HD(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/450
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO 3 HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO 3 HD(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/452
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO Plus
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO Plus(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49947
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO GO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO GO(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49948
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/453
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Movies
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Movies(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/454
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Life
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Life(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/455
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Crime
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Crime(setAuto)
 http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/456
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",+HBO
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",+HBO(setAuto)
 http://136.243.177.164/HBO/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO2
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO2(setAuto)
 http://136.243.177.164/HBO2/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO3(setAuto)
 http://136.243.177.164/HBO3/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",AXN
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",AXN(setAuto)
 http://136.243.177.164/AXN/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",FOX HD
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",FOX HD(setAuto)
 http://136.243.177.164/FOX/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",FOX LIFE
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",FOX LIFE(setAuto)
 http://136.243.177.164/FOXLIFE/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Sbsplus
 http://140.238.16.178:9876/stream/channelid/1434675793
@@ -4231,92 +4231,6 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",DubaiSport3
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 1 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/11
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 2 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/12
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 3 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/13
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 4 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/14
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 5 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/15
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 6 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/16
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 7 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/17
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 8 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/18
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 9 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/19
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BeIN SPORTS 10 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/20
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BEIN SPORTS 11 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/21
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BEIN SPORTS 12 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/22
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",BEIN SPORTS 13 FHD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/23
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",beIN SPORTS News HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/34
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Iraqia Sport
-http://freeiptvgen.com:25461/9236456/freeiptvgen/886
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",AD Sport 2 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/887
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",AD SPORT 1 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/888
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Al Ahly TV
-http://freeiptvgen.com:25461/9236456/freeiptvgen/889
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",ONTIME SPORTS HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/890
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",KSA SPORTS1 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/891
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",KSA SPORTS 2 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/892
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Oman TV Sport HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/893
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Dubai Sports 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/894
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Dubai Racing 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/895
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Dubai Racing 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/896
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Dubai Sports 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/897
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Bahrain Sport 2 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/898
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",TIME SPORTS
-http://freeiptvgen.com:25461/9236456/freeiptvgen/899
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",AD Sports 3 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/900
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",AD Sports 4 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/901
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Sharjah Sport HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/902
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Sharjah Sport 1 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/903
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Jordan Sport
-http://freeiptvgen.com:25461/9236456/freeiptvgen/904
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Alkass one1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/905
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Al kass two 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/906
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Al kass five 5
-http://freeiptvgen.com:25461/9236456/freeiptvgen/907
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",KSA SPORTS 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/908
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",KSA Sports 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/909
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Al kass Four 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/910
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",ONTIME SPORTS2 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/911
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",Dubai Sports 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/912
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",YAS
-http://freeiptvgen.com:25461/9236456/freeiptvgen/913
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARABIASport",HRN
-http://freeiptvgen.com:25461/9236456/freeiptvgen/914
 
 #EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 1 HD" tvg-logo="" group-title="ShareExt@ARABIASport",DUBAI SPORT 1 HD
 http://dimapro.cz:8080/D4:CF:F9:0B:9e:a6/GtvsuptvO00aetorando/38337
@@ -4399,244 +4313,6 @@ http://dimapro.cz:8080/D4:CF:F9:0B:9e:a6/GtvsuptvO00aetorando/3215
 
 
 
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein Movies Premiere 1 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/254
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein Movies Action 2 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/255
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein Movies Drama 3 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/256
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein Movies Family 4 HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/257
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:Series 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/258
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:Series 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/259
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein: FOX_Life
-http://freeiptvgen.com:25461/9236456/freeiptvgen/260
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:Box Office 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/261
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:Box Office 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/262
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:Box Office 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/263
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein: FOX_Rewayat
-http://freeiptvgen.com:25461/9236456/freeiptvgen/264
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:FATAFEAT
-http://freeiptvgen.com:25461/9236456/freeiptvgen/265
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein: Jeem HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/266
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:Docubox
-http://freeiptvgen.com:25461/9236456/freeiptvgen/267
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:AMC
-http://freeiptvgen.com:25461/9236456/freeiptvgen/268
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:DTX
-http://freeiptvgen.com:25461/9236456/freeiptvgen/269
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:Outdoor
-http://freeiptvgen.com:25461/9236456/freeiptvgen/270
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:Gourmet
-http://freeiptvgen.com:25461/9236456/freeiptvgen/271
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein: Baraeem
-http://freeiptvgen.com:25461/9236456/freeiptvgen/272
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:DreamWorks
-http://freeiptvgen.com:25461/9236456/freeiptvgen/273
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:JUNIOR KIDS
-http://freeiptvgen.com:25461/9236456/freeiptvgen/274
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:DISCOVRY KIDS
-http://freeiptvgen.com:25461/9236456/freeiptvgen/275
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein:GULLI BIL ARABIE
-http://freeiptvgen.com:25461/9236456/freeiptvgen/276
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein: FOX
-http://freeiptvgen.com:25461/9236456/freeiptvgen/277
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein: FOX CRIME
-http://freeiptvgen.com:25461/9236456/freeiptvgen/278
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",BBC EARTH ARABIC
-http://freeiptvgen.com:25461/9236456/freeiptvgen/555
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@BeinEntertainment",Bein: DRAMA 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/556
-
-
-
-
-
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Falcon Netflix-Action HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/468
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Falcon Netflix-Action-HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/469
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Falcon Netflix-Comedy HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/470
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Falcon Netflix-Drama HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/471
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Falcon Netflix-Horror HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/472
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Falcon Netflix-KIDS HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/473
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix-Action  HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/474
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix-Arabic HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/475
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix-Comedy HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/476
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix-Disney HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/477
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix-Drama  HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/478
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix - Horror HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/479
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix - Kids  HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/480
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix - Marvel  HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/481
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix - Masrah HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/482
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix - Sci-Fi HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/483
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Telecom Netflix - WWE HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/484
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Shahid Netflix-Action HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/485
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Shahid Netflix-Aflam HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/486
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Shahid Netflix-Arbi HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/487
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Shahid Netflix-Cinema HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/488
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Shahid Netflix-Comedy HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/489
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Shahid Netflix-Horror HD
-http://freeiptvgen.com:25461/9236456/freeiptvgen/490
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/491
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/492
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/493
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/494
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 5
-http://freeiptvgen.com:25461/9236456/freeiptvgen/495
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 6
-http://freeiptvgen.com:25461/9236456/freeiptvgen/496
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 7
-http://freeiptvgen.com:25461/9236456/freeiptvgen/497
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 8
-http://freeiptvgen.com:25461/9236456/freeiptvgen/498
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 9
-http://freeiptvgen.com:25461/9236456/freeiptvgen/499
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 10
-http://freeiptvgen.com:25461/9236456/freeiptvgen/500
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ACTION 11
-http://freeiptvgen.com:25461/9236456/freeiptvgen/501
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX HORROR 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/502
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX HORROR 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/503
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX HORROR 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/504
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX HORROR 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/505
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX HORROR 5
-http://freeiptvgen.com:25461/9236456/freeiptvgen/506
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX HORROR 6
-http://freeiptvgen.com:25461/9236456/freeiptvgen/507
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX HORROR 7
-http://freeiptvgen.com:25461/9236456/freeiptvgen/508
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX HORROR 8
-http://freeiptvgen.com:25461/9236456/freeiptvgen/509
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ANIME 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/510
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ANIME 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/511
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ANIME 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/512
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ANIME 5
-http://freeiptvgen.com:25461/9236456/freeiptvgen/513
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX ANIME 6
-http://freeiptvgen.com:25461/9236456/freeiptvgen/514
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX S-FICTION 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/515
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX S-FICTION 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/516
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX COMEDY 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/517
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX COMEDY 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/518
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX COMEDY 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/519
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX DRAMA 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/520
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX DRAMA 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/521
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX DRAMA 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/522
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",NETFLIX DRAMA 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/523
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action +
-http://freeiptvgen.com:25461/9236456/freeiptvgen/524
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action
-http://freeiptvgen.com:25461/9236456/freeiptvgen/525
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action Top
-http://freeiptvgen.com:25461/9236456/freeiptvgen/526
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/527
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/528
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/529
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/530
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action 5
-http://freeiptvgen.com:25461/9236456/freeiptvgen/531
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Action 6
-http://freeiptvgen.com:25461/9236456/freeiptvgen/532
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Horror
-http://freeiptvgen.com:25461/9236456/freeiptvgen/533
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Horror 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/534
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Horror 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/535
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Horror 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/536
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Horror 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/537
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Horror 5
-http://freeiptvgen.com:25461/9236456/freeiptvgen/538
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Horror 6
-http://freeiptvgen.com:25461/9236456/freeiptvgen/539
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Comedy
-http://freeiptvgen.com:25461/9236456/freeiptvgen/540
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Comedy 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/541
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Comedy 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/542
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Comedy 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/543
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Comedy 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/544
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Comedy 5
-http://freeiptvgen.com:25461/9236456/freeiptvgen/545
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Comedy 6
-http://freeiptvgen.com:25461/9236456/freeiptvgen/546
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Kids 1
-http://freeiptvgen.com:25461/9236456/freeiptvgen/547
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Kids 2
-http://freeiptvgen.com:25461/9236456/freeiptvgen/548
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Kids 3
-http://freeiptvgen.com:25461/9236456/freeiptvgen/549
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Kids 4
-http://freeiptvgen.com:25461/9236456/freeiptvgen/550
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Kids 5
-http://freeiptvgen.com:25461/9236456/freeiptvgen/551
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Kids 6
-http://freeiptvgen.com:25461/9236456/freeiptvgen/552
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Drama
-http://freeiptvgen.com:25461/9236456/freeiptvgen/553
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@NETFLIX@FALCON",Netflix Drama+
-http://freeiptvgen.com:25461/9236456/freeiptvgen/554
 
 
 
