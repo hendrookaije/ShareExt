@@ -361,6 +361,24 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/in
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/448
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO 2 HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/450
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO 3 HD
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/452
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO Plus
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49947
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO GO
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/49948
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/453
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Movies
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/454
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Life
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/455
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Fox Crime
+http://nightfight.xyz:25461/LPGUnJLQvlGQrC1HVipm/GQrC1HVipmLPGUnJLQv/456
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",+HBO
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO2
