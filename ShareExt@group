@@ -4977,6 +4977,994 @@ http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-ID="Equidia.fr" tvg-name="FR:Equidia.Live" tvg-logo="http://xtream.pro:8000/images/logo/channel/equidia-fr.png" group-title="SPORTS FR",FR:Equidia.Live
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1195
+#EXTINF:-1 tvg-ID="EquipeTV.fr" tvg-name="FR:L'Equipe21" tvg-logo="http://xtream.pro:8000/images/logo/channel/l_equipe_fr.png" group-title="SPORTS FR",FR:L'Equipe21
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/94
+#EXTINF:-1 tvg-ID="Infosport.fr" tvg-name="FR:Infosport" tvg-logo="http://xtream.pro:8000/images/logo/channel/canalplus_fr_infosport_plus.png" group-title="SPORTS FR",FR:Infosport
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/92
+#EXTINF:-1 tvg-ID="Foot24.fr" tvg-name="FR:Foot24" tvg-logo="http://xtream.pro:8000/images/logo/channel/canalsat_fr_foot_plus.png" group-title="SPORTS FR",FR:Foot24
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/93
+#EXTINF:-1 tvg-ID="Eurosport1.fr" tvg-name="FR:Eurosport1" tvg-logo="http://xtream.pro:8000/images/logo/channel/eurosport_fr_1.png" group-title="SPORTS FR",FR:Eurosport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/90
+#EXTINF:-1 tvg-ID="Eurosport2.fr" tvg-name="FR:Eurosport2" tvg-logo="http://xtream.pro:8000/images/logo/channel/eurosport_fr_2.png" group-title="SPORTS FR",FR:Eurosport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/91
+#EXTINF:-1 tvg-ID="RMCSport1.fr" tvg-name="FR:RMC.Sport1" tvg-logo="http://xtream.pro:8000/images/logo/channel/rmc-sport-1-fr.png" group-title="SPORTS FR",FR:RMC.Sport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/173
+#EXTINF:-1 tvg-ID="RMCSport2.fr" tvg-name="FR:RMC.Sport2" tvg-logo="http://xtream.pro:8000/images/logo/channel/rmc-sport-2-fr.png" group-title="SPORTS FR",FR:RMC.Sport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/171
+#EXTINF:-1 tvg-ID="RMCSport3.fr" tvg-name="FR:RMC.Sport3" tvg-logo="http://xtream.pro:8000/images/logo/channel/rmc-sport-3-fr.png" group-title="SPORTS FR",FR:RMC.Sport3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1139
+#EXTINF:-1 tvg-ID="RMCSport4.fr" tvg-name="FR:RMC.Sport4.HD" tvg-logo="http://xtream.pro:8000/images/logo/channel/rmc-sport-4-fr.png" group-title="SPORTS FR",FR:RMC.Sport4.HD
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1383
+#EXTINF:-1 tvg-ID="beINSport1.fr" tvg-name="FR:beINSport1" tvg-logo="http://xtream.pro:8000/images/logo/channel/be_in_mena_sports_01.png" group-title="SPORTS FR",FR:beINSport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/82
+#EXTINF:-1 tvg-ID="BeinSports2.fr" tvg-name="FR:beINSport2" tvg-logo="http://xtream.pro:8000/images/logo/channel/be_in_mena_sports_02.png" group-title="SPORTS FR",FR:beINSport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/83
+#EXTINF:-1 tvg-ID="BeinSports3.fr" tvg-name="FR:beINSport3" tvg-logo="http://xtream.pro:8000/images/logo/channel/be_in_mena_sports_03.png" group-title="SPORTS FR",FR:beINSport3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/84
+#EXTINF:-1 tvg-ID="" tvg-name="FR:BeinSport.Max4" tvg-logo="http://xtream.pro:8000/images/logo/channel/be_in_mena_sports_max.png" group-title="SPORTS FR",FR:BeinSport.Max4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/85
+#EXTINF:-1 tvg-ID="" tvg-name="FR:BeinSport.Max5" tvg-logo="http://xtream.pro:8000/images/logo/channel/be_in_mena_sports_max_05_hd.png" group-title="SPORTS FR",FR:BeinSport.Max5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/86
+#EXTINF:-1 tvg-ID="BeInSportMax6.fr" tvg-name="FR:BeinSport.Max6" tvg-logo="http://xtream.pro:8000/images/logo/channel/be_in_mena_sports_max_06_hd.png" group-title="SPORTS FR",FR:BeinSport.Max6
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/87
+#EXTINF:-1 tvg-ID="BeInSportMax7.fr" tvg-name="FR:BeinSport.Max7" tvg-logo="http://xtream.pro:8000/images/logo/channel/be_in_mena_sports_max_07_hd.png" group-title="SPORTS FR",FR:BeinSport.Max7
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/88
+#EXTINF:-1 tvg-ID="BeInSportMax8.fr" tvg-name="FR:BeinSport.Max8" tvg-logo="http://xtream.pro:8000/images/logo/channel/be_in_mena_sports_max_08_hd.png" group-title="SPORTS FR",FR:BeinSport.Max8
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/89
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay1" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/96
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay2" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/97
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay3" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/98
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay4" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/99
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay5" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/100
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay6" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay6
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/101
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay7" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay7
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/102
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay8" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay8
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/103
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay9" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay9
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/104
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Canalplay10" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Canalplay10
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/105
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office1" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/921
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office2" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/922
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office3" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/923
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office4" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/924
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office5" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/925
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office6" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office6
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/926
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office7" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office7
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/927
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office8" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office8
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/928
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office9" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office9
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/929
+#EXTINF:-1 tvg-ID="" tvg-name="FR:Box.Office10" tvg-logo="http://xtream.pro:8000/images/logo/channel/box_office_logo.jpg" group-title="BOX OFFICE",FR:Box.Office10
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/930
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="ES:M.Cine.N" tvg-logo="" group-title="SPAIN",ES:M.Cine.N
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/453
+#EXTINF:-1 tvg-ID="" tvg-name="ES:M.Futbol" tvg-logo="" group-title="SPAIN",ES:M.Futbol
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/458
+#EXTINF:-1 tvg-ID="" tvg-name="ES:M.F1" tvg-logo="" group-title="SPAIN",ES:M.F1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4597
+#EXTINF:-1 tvg-ID="" tvg-name="ES:M.MotoGp" tvg-logo="" group-title="SPAIN",ES:M.MotoGp
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4594
+#EXTINF:-1 tvg-ID="" tvg-name="ES:M.Golf" tvg-logo="" group-title="SPAIN",ES:M.Golf
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4595
+#EXTINF:-1 tvg-ID="" tvg-name="ES:M.Deportes1" tvg-logo="" group-title="SPAIN",ES:M.Deportes1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/457
+#EXTINF:-1 tvg-ID="" tvg-name="ES:VAMOS" tvg-logo="" group-title="SPAIN",ES:VAMOS
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1061
+#EXTINF:-1 tvg-ID="" tvg-name="ES:La.Liga.Bar" tvg-logo="" group-title="SPAIN",ES:La.Liga.Bar
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4614
+#EXTINF:-1 tvg-ID="" tvg-name="ES:beIN.La.Liga1" tvg-logo="" group-title="SPAIN",ES:beIN.La.Liga1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/477
+#EXTINF:-1 tvg-ID="" tvg-name="ES:LaLiga1.2.3" tvg-logo="" group-title="SPAIN",ES:LaLiga1.2.3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/456
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Vamos" tvg-logo="" group-title="SPAIN",ES:Vamos
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5504
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Toros" tvg-logo="" group-title="SPAIN",ES:Toros
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/459
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Eurosport1" tvg-logo="" group-title="SPAIN",ES:Eurosport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5509
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Eurosport2" tvg-logo="" group-title="SPAIN",ES:Eurosport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5508
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Barca.Tv" tvg-logo="" group-title="SPAIN",ES:Barca.Tv
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/176
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Real.Madrid" tvg-logo="" group-title="SPAIN",ES:Real.Madrid
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/174
+#EXTINF:-1 tvg-ID="" tvg-name="ES:M.Liga.de.Campeones" tvg-logo="" group-title="SPAIN",ES:M.Liga.de.Campeones
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4598
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Tele.Deporte" tvg-logo="" group-title="SPAIN",ES:Tele.Deporte
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1063
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Canal.Gol" tvg-logo="" group-title="SPAIN",ES:Canal.Gol
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4612
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Nat.Geo" tvg-logo="" group-title="SPAIN",ES:Nat.Geo
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/470
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Nat.Geo.Wild" tvg-logo="" group-title="SPAIN",ES:Nat.Geo.Wild
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1064
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Casa.Y.Pesca" tvg-logo="" group-title="SPAIN",ES:Casa.Y.Pesca
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/482
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Crimen.e.Investigacion" tvg-logo="" group-title="SPAIN",ES:Crimen.e.Investigacion
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4607
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Discovery.Channel" tvg-logo="" group-title="SPAIN",ES:Discovery.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4606
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Historia" tvg-logo="" group-title="SPAIN",ES:Historia
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4599
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Blaze" tvg-logo="" group-title="SPAIN",ES:Blaze
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5496
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Dmax" tvg-logo="" group-title="SPAIN",ES:Dmax
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4618
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Odisea" tvg-logo="" group-title="SPAIN",ES:Odisea
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4588
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Iberalia.TV" tvg-logo="" group-title="SPAIN",ES:Iberalia.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5497
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Canal.Cocina" tvg-logo="" group-title="SPAIN",ES:Canal.Cocina
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4613
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Canal.Decasa" tvg-logo="" group-title="SPAIN",ES:Canal.Decasa
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5499
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Be.Mad" tvg-logo="" group-title="SPAIN",ES:Be.Mad
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5500
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Nick.Junior" tvg-logo="" group-title="SPAIN",ES:Nick.Junior
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5492
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Nickelodeon" tvg-logo="" group-title="SPAIN",ES:Nickelodeon
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5493
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Disney.Channel" tvg-logo="" group-title="SPAIN",ES:Disney.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4605
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Disney.JR" tvg-logo="" group-title="SPAIN",ES:Disney.JR
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4604
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Disney.XD" tvg-logo="" group-title="SPAIN",ES:Disney.XD
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4603
+#EXTINF:-1 tvg-ID="" tvg-name="ES:BABY.TV" tvg-logo="" group-title="SPAIN",ES:BABY.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4615
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Boing" tvg-logo="" group-title="SPAIN",ES:Boing
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5491
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Canal.Panda" tvg-logo="" group-title="SPAIN",ES:Canal.Panda
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4611
+#EXTINF:-1 tvg-ID="" tvg-name="ES:MTV.Espana" tvg-logo="" group-title="SPAIN",ES:MTV.Espana
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4592
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Hit.TV" tvg-logo="" group-title="SPAIN",ES:Hit.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5498
+#EXTINF:-1 tvg-ID="" tvg-name="ES:MC.Play" tvg-logo="" group-title="SPAIN",ES:MC.Play
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5488
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Alquiler1" tvg-logo="" group-title="SPAIN",ES:Alquiler1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/491
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Alquiler2" tvg-logo="" group-title="SPAIN",ES:Alquiler2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/492
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Alquiler3" tvg-logo="" group-title="SPAIN",ES:Alquiler3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/493
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Alquiler4" tvg-logo="" group-title="SPAIN",ES:Alquiler4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/494
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Alquiler5" tvg-logo="" group-title="SPAIN",ES:Alquiler5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/495
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Alquiler6" tvg-logo="" group-title="SPAIN",ES:Alquiler6
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/496
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Alquiler7" tvg-logo="" group-title="SPAIN",ES:Alquiler7
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/497
+#EXTINF:-1 tvg-ID="" tvg-name="ES:Alquiler8" tvg-logo="" group-title="SPAIN",ES:Alquiler8
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/498
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="PT:TLC" tvg-logo="" group-title="PORTUGAL",PT:TLC
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5378
+#EXTINF:-1 tvg-ID="" tvg-name="PT:AMC" tvg-logo="" group-title="PORTUGAL",PT:AMC
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/673
+#EXTINF:-1 tvg-ID="" tvg-name="PT:SYFY" tvg-logo="" group-title="PORTUGAL",PT:SYFY
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/670
+#EXTINF:-1 tvg-ID="" tvg-name="PT:AXN" tvg-logo="" group-title="PORTUGAL",PT:AXN
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5377
+#EXTINF:-1 tvg-ID="" tvg-name="PT:AXN.White" tvg-logo="" group-title="PORTUGAL",PT:AXN.White
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/675
+#EXTINF:-1 tvg-ID="" tvg-name="PT:AXN.Movies" tvg-logo="" group-title="PORTUGAL",PT:AXN.Movies
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/674
+#EXTINF:-1 tvg-ID="" tvg-name="PT:FOX" tvg-logo="" group-title="PORTUGAL",PT:FOX
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/682
+#EXTINF:-1 tvg-ID="" tvg-name="PT: FOX.Life" tvg-logo="" group-title="PORTUGAL",PT: FOX.Life
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/683
+#EXTINF:-1 tvg-ID="" tvg-name="PT:FOX.Movies" tvg-logo="" group-title="PORTUGAL",PT:FOX.Movies
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/684
+#EXTINF:-1 tvg-ID="" tvg-name="PT:FOX.Crime" tvg-logo="" group-title="PORTUGAL",PT:FOX.Crime
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/681
+#EXTINF:-1 tvg-ID="" tvg-name="PT:FOX.Comedy" tvg-logo="" group-title="PORTUGAL",PT:FOX.Comedy
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/680
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Hollywood" tvg-logo="" group-title="PORTUGAL",PT:Hollywood
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/679
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Cinemundo" tvg-logo="" group-title="PORTUGAL",PT:Cinemundo
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/669
+#EXTINF:-1 tvg-ID="" tvg-name="PT:TVSeries" tvg-logo="" group-title="PORTUGAL",PT:TVSeries
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/694
+#EXTINF:-1 tvg-ID="" tvg-name="PT:TVCine.Top" tvg-logo="" group-title="PORTUGAL",PT:TVCine.Top
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/695
+#EXTINF:-1 tvg-ID="" tvg-name="PT:TVCine.Edition " tvg-logo="" group-title="PORTUGAL",PT:TVCine.Edition 
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/696
+#EXTINF:-1 tvg-ID="" tvg-name="PT:TVCine.Emotion" tvg-logo="" group-title="PORTUGAL",PT:TVCine.Emotion
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/697
+#EXTINF:-1 tvg-ID="" tvg-name="PT:TVCine.Action" tvg-logo="" group-title="PORTUGAL",PT:TVCine.Action
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/698
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Benfica.TV" tvg-logo="" group-title="PORTUGAL",PT:Benfica.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/4855
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Sporting.TV" tvg-logo="" group-title="PORTUGAL",PT:Sporting.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/693
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Sport.TV1" tvg-logo="" group-title="PORTUGAL",PT:Sport.TV1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1060
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Sport.TV2" tvg-logo="" group-title="PORTUGAL",PT:Sport.TV2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/689
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Sport.TV3" tvg-logo="" group-title="PORTUGAL",PT:Sport.TV3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/690
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Sport.TV4" tvg-logo="" group-title="PORTUGAL",PT:Sport.TV4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/691
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Sport.TV5" tvg-logo="" group-title="PORTUGAL",PT:Sport.TV5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/692
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Eleven.Sports1" tvg-logo="" group-title="PORTUGAL",PT:Eleven.Sports1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5374
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Eleven.Sports2" tvg-logo="" group-title="PORTUGAL",PT:Eleven.Sports2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5375
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Eleven.Sports3" tvg-logo="" group-title="PORTUGAL",PT:Eleven.Sports3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5376
+#EXTINF:-1 tvg-ID="" tvg-name="PT:EuroSport1" tvg-logo="" group-title="PORTUGAL",PT:EuroSport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5381
+#EXTINF:-1 tvg-ID="" tvg-name="PT:EuroSport2" tvg-logo="" group-title="PORTUGAL",PT:EuroSport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5382
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Kombat.Sport" tvg-logo="" group-title="PORTUGAL",PT:Kombat.Sport
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5392
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Porto.Canal" tvg-logo="" group-title="PORTUGAL",PT:Porto.Canal
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5391
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Discovery" tvg-logo="" group-title="PORTUGAL",PT:Discovery
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/672
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Crime.Investigation" tvg-logo="" group-title="PORTUGAL",PT:Crime.Investigation
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/671
+#EXTINF:-1 tvg-ID="" tvg-name="PT:National.Geogrphic" tvg-logo="" group-title="PORTUGAL",PT:National.Geogrphic
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5383
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Nat.Geo.Wild" tvg-logo="" group-title="PORTUGAL",PT:Nat.Geo.Wild
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5385
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Travel.Channel" tvg-logo="" group-title="PORTUGAL",PT:Travel.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5390
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Odisseia" tvg-logo="" group-title="PORTUGAL",PT:Odisseia
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5379
+#EXTINF:-1 tvg-ID="" tvg-name="PT:24.Kitchen" tvg-logo="" group-title="PORTUGAL",PT:24.Kitchen
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5389
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Caca.Pesca" tvg-logo="" group-title="PORTUGAL",PT:Caca.Pesca
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5380
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Cacavision" tvg-logo="" group-title="PORTUGAL",PT:Cacavision
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5384
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Disney.Channel" tvg-logo="" group-title="PORTUGAL",PT:Disney.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5371
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Disney.Junior" tvg-logo="" group-title="PORTUGAL",PT:Disney.Junior
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5372
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Cartoon.Network" tvg-logo="" group-title="PORTUGAL",PT:Cartoon.Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5370
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Nickelodeon" tvg-logo="" group-title="PORTUGAL",PT:Nickelodeon
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5388
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Canal.Panda" tvg-logo="" group-title="PORTUGAL",PT:Canal.Panda
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5369
+#EXTINF:-1 tvg-ID="" tvg-name="PT: SIC Kids" tvg-logo="" group-title="PORTUGAL",PT: SIC Kids
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5387
+#EXTINF:-1 tvg-ID="" tvg-name="PT:Jim.Jam" tvg-logo="" group-title="PORTUGAL",PT:Jim.Jam
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5386
+#EXTINF:-1 tvg-ID="" tvg-name="PT:BABY.TV" tvg-logo="" group-title="PORTUGAL",PT:BABY.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/5373
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Discovery" tvg-logo="" group-title="NETHERLAND",NL:Discovery
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1167
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Discovery.ID" tvg-logo="" group-title="NETHERLAND",NL:Discovery.ID
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1166
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Disney.Channel" tvg-logo="" group-title="NETHERLAND",NL:Disney.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1176
+#EXTINF:-1 tvg-ID="" tvg-name="NL:24.Kitchen" tvg-logo="" group-title="NETHERLAND",NL:24.Kitchen
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/146
+#EXTINF:-1 tvg-ID="" tvg-name="NL:FoxSport6" tvg-logo="" group-title="NETHERLAND",NL:FoxSport6
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/702
+#EXTINF:-1 tvg-ID="" tvg-name="NL:History.Channel" tvg-logo="" group-title="NETHERLAND",NL:History.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1169
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Crime&Investigation" tvg-logo="" group-title="NETHERLAND",NL:Crime&Investigation
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1168
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Nat.Geo.Wild" tvg-logo="" group-title="NETHERLAND",NL:Nat.Geo.Wild
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1170
+#EXTINF:-1 tvg-ID="" tvg-name="NL:National.Geographic" tvg-logo="" group-title="NETHERLAND",NL:National.Geographic
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1165
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Nickelodeon.toons" tvg-logo="" group-title="NETHERLAND",NL:Nickelodeon.toons
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1174
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Veronica" tvg-logo="" group-title="NETHERLAND",NL:Veronica
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1173
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Ziggo Sport.Voetba" tvg-logo="" group-title="NETHERLAND",NL:Ziggo Sport.Voetba
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/932
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Ziggo.Sport" tvg-logo="" group-title="NETHERLAND",NL:Ziggo.Sport
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1164
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Ziggo.Sport.Golf" tvg-logo="" group-title="NETHERLAND",NL:Ziggo.Sport.Golf
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/863
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Ziggo.Sport.Racing" tvg-logo="" group-title="NETHERLAND",NL:Ziggo.Sport.Racing
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/864
+#EXTINF:-1 tvg-ID="" tvg-name="NL:Ziggo.Sport.Select" tvg-logo="" group-title="NETHERLAND",NL:Ziggo.Sport.Select
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/865
+#EXTINF:-1 tvg-ID="" tvg-name="NL:FoxSport1" tvg-logo="" group-title="NETHERLAND",NL:FoxSport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/587
+#EXTINF:-1 tvg-ID="" tvg-name="NL:FoxSport2" tvg-logo="" group-title="NETHERLAND",NL:FoxSport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/586
+#EXTINF:-1 tvg-ID="" tvg-name="NL:FoxSport3" tvg-logo="" group-title="NETHERLAND",NL:FoxSport3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/585
+#EXTINF:-1 tvg-ID="" tvg-name="NL:FoxSport4" tvg-logo="" group-title="NETHERLAND",NL:FoxSport4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/584
+#EXTINF:-1 tvg-ID="" tvg-name="NL:FoxSport5" tvg-logo="" group-title="NETHERLAND",NL:FoxSport5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/583
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT1" tvg-logo="" group-title="TURKEY",TR:TRT1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1092
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT.Haber" tvg-logo="" group-title="TURKEY",TR:TRT.Haber
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1105
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TV8" tvg-logo="" group-title="TURKEY",TR:TV8
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1098
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MoviesSmart.Turk" tvg-logo="" group-title="TURKEY",TR:MoviesSmart.Turk
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1104
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Star.TV" tvg-logo="" group-title="TURKEY",TR:Star.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1094
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Show.TV" tvg-logo="" group-title="TURKEY",TR:Show.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1093
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Show.Max" tvg-logo="" group-title="TURKEY",TR:Show.Max
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1099
+#EXTINF:-1 tvg-ID="" tvg-name="TR:PowerTv" tvg-logo="" group-title="TURKEY",TR:PowerTv
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1127
+#EXTINF:-1 tvg-ID="" tvg-name="TR:NTV" tvg-logo="" group-title="TURKEY",TR:NTV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1103
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Kanal7" tvg-logo="" group-title="TURKEY",TR:Kanal7
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1101
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Kanal.D" tvg-logo="" group-title="TURKEY",TR:Kanal.D
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1095
+#EXTINF:-1 tvg-ID="" tvg-name="TR:MoviesSmart.Premium" tvg-logo="" group-title="TURKEY",TR:MoviesSmart.Premium
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1107
+#EXTINF:-1 tvg-ID="" tvg-name="TR:A.TV" tvg-logo="" group-title="TURKEY",TR:A.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1096
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Haber.turk" tvg-logo="" group-title="TURKEY",TR:Haber.turk
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1106
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Fox" tvg-logo="" group-title="TURKEY",TR:Fox
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1097
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Dream.TV" tvg-logo="" group-title="TURKEY",TR:Dream.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1128
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Dream.Turk" tvg-logo="" group-title="TURKEY",TR:Dream.Turk
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1126
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT.Muzik" tvg-logo="" group-title="TURKEY",TR:TRT.Muzik
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1125
+#EXTINF:-1 tvg-ID="" tvg-name="TR:CNN" tvg-logo="" group-title="TURKEY",TR:CNN
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1102
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Beyaz.Tv" tvg-logo="" group-title="TURKEY",TR:Beyaz.Tv
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1100
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BeinMovies.Turk" tvg-logo="" group-title="TURKEY",TR:BeinMovies.Turk
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1113
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BeinMovies.Stars" tvg-logo="" group-title="TURKEY",TR:BeinMovies.Stars
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1115
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Bein.Movies.premier" tvg-logo="" group-title="TURKEY",TR:Bein.Movies.premier
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1114
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BeinMovies.Action" tvg-logo="" group-title="TURKEY",TR:BeinMovies.Action
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1116
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BoxOffice3" tvg-logo="" group-title="TURKEY",TR:BoxOffice3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1112
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BoxOffice2" tvg-logo="" group-title="TURKEY",TR:BoxOffice2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1111
+#EXTINF:-1 tvg-ID="" tvg-name="TR:BoxOffice1" tvg-logo="" group-title="TURKEY",TR:BoxOffice1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1110
+#EXTINF:-1 tvg-ID="" tvg-name="TR:A2" tvg-logo="" group-title="TURKEY",TR:A2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1177
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Yaban.Tv" tvg-logo="" group-title="TURKEY",TR:Yaban.Tv
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1184
+#EXTINF:-1 tvg-ID="" tvg-name="TR:EuroSport1" tvg-logo="" group-title="TURKEY",TR:EuroSport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1191
+#EXTINF:-1 tvg-ID="" tvg-name="TR:EuroSport2" tvg-logo="" group-title="TURKEY",TR:EuroSport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1192
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Sinema.TV.Yerli" tvg-logo="" group-title="TURKEY",TR:Sinema.TV.Yerli
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1185
+#EXTINF:-1 tvg-ID="" tvg-name="TR:FX" tvg-logo="" group-title="TURKEY",TR:FX
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1182
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Sinema.TV" tvg-logo="" group-title="TURKEY",TR:Sinema.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1186
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Sinema.TV.1001" tvg-logo="" group-title="TURKEY",TR:Sinema.TV.1001
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1189
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Sinema.TV.Aile" tvg-logo="" group-title="TURKEY",TR:Sinema.TV.Aile
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1188
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Sinema.TV.Aksiyson" tvg-logo="" group-title="TURKEY",TR:Sinema.TV.Aksiyson
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1190
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Sinema.TV2" tvg-logo="" group-title="TURKEY",TR:Sinema.TV2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1187
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Sinema.TV.Aksiyson2" tvg-logo="" group-title="TURKEY",TR:Sinema.TV.Aksiyson2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1179
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TLC" tvg-logo="" group-title="TURKEY",TR:TLC
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1178
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT.Avaz" tvg-logo="" group-title="TURKEY",TR:TRT.Avaz
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1180
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT.Diyanet" tvg-logo="" group-title="TURKEY",TR:TRT.Diyanet
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1183
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TV360" tvg-logo="" group-title="TURKEY",TR:TV360
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1181
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Nat.Geo." tvg-logo="" group-title="TURKEY",TR:Nat.Geo.
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1120
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Nat.Geo.Wild" tvg-logo="" group-title="TURKEY",TR:Nat.Geo.Wild
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1119
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Nat.Geo.People" tvg-logo="" group-title="TURKEY",TR:Nat.Geo.People
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1121
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Discovery" tvg-logo="" group-title="TURKEY",TR:Discovery
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1117
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Discovery.Science" tvg-logo="" group-title="TURKEY",TR:Discovery.Science
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1118
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Animal.Planet" tvg-logo="" group-title="TURKEY",TR:Animal.Planet
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1122
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TR:Discovery.ID" tvg-logo="" group-title="TURKEY",TR:TR:Discovery.ID
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1123
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT.Belgesel" tvg-logo="" group-title="TURKEY",TR:TRT.Belgesel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1124
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport1" tvg-logo="" group-title="TURKEY",TR:Beinsport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1087
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport2" tvg-logo="" group-title="TURKEY",TR:Beinsport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1088
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport3" tvg-logo="" group-title="TURKEY",TR:Beinsport3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1089
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Tivibu.Sport1" tvg-logo="" group-title="TURKEY",TR:Tivibu.Sport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1109
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Tivibu.Sport2" tvg-logo="" group-title="TURKEY",TR:Tivibu.Sport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1108
+#EXTINF:-1 tvg-ID="" tvg-name="TR:TRT.Sport" tvg-logo="" group-title="TURKEY",TR:TRT.Sport
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1091
+#EXTINF:-1 tvg-ID="" tvg-name="TR:Beinsport4" tvg-logo="" group-title="TURKEY",TR:Beinsport4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1090
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="USA:BeinSports.usa" tvg-logo="" group-title="USA",USA:BeinSports.usa
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/890
+#EXTINF:-1 tvg-ID="" tvg-name="USA:NBC.Sports" tvg-logo="" group-title="USA",USA:NBC.Sports
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/872
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Eleven.Sports-Network" tvg-logo="" group-title="USA",USA:Eleven.Sports-Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/873
+#EXTINF:-1 tvg-ID="" tvg-name="USA:NBC.Golf" tvg-logo="" group-title="USA",USA:NBC.Golf
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/874
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Fight.Network" tvg-logo="" group-title="USA",USA:Fight.Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/875
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Fox.Sport1" tvg-logo="" group-title="USA",USA:Fox.Sport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/870
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Fox.Sport2" tvg-logo="" group-title="USA",USA:Fox.Sport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/871
+#EXTINF:-1 tvg-ID="" tvg-name="USA:ESPN1" tvg-logo="" group-title="USA",USA:ESPN1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/868
+#EXTINF:-1 tvg-ID="" tvg-name="USA:ESPN2" tvg-logo="" group-title="USA",USA:ESPN2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/876
+#EXTINF:-1 tvg-ID="" tvg-name="USA:TSN1" tvg-logo="" group-title="USA",USA:TSN1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/664
+#EXTINF:-1 tvg-ID="" tvg-name="USA:TSN2" tvg-logo="" group-title="USA",USA:TSN2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/663
+#EXTINF:-1 tvg-ID="" tvg-name="USA:TSN3" tvg-logo="" group-title="USA",USA:TSN3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/662
+#EXTINF:-1 tvg-ID="" tvg-name="USA:TSN4" tvg-logo="" group-title="USA",USA:TSN4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/661
+#EXTINF:-1 tvg-ID="" tvg-name="USA:TSN5" tvg-logo="" group-title="USA",USA:TSN5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/192
+#EXTINF:-1 tvg-ID="" tvg-name="USA:WWE.Network" tvg-logo="" group-title="USA",USA:WWE.Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/882
+#EXTINF:-1 tvg-ID="" tvg-name="USA:USA.Network" tvg-logo="" group-title="USA",USA:USA.Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/883
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Showtime" tvg-logo="" group-title="USA",USA:Showtime
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/867
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Showtime2" tvg-logo="" group-title="USA",USA:Showtime2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/866
+#EXTINF:-1 tvg-ID="" tvg-name="USA:HBO" tvg-logo="" group-title="USA",USA:HBO
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/879
+#EXTINF:-1 tvg-ID="" tvg-name="USA:HBO2.Zone" tvg-logo="" group-title="USA",USA:HBO2.Zone
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/880
+#EXTINF:-1 tvg-ID="" tvg-name="USA:HBO.Sinature" tvg-logo="" group-title="USA",USA:HBO.Sinature
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/881
+#EXTINF:-1 tvg-ID="" tvg-name="USA:HBO.Comedy" tvg-logo="" group-title="USA",USA:HBO.Comedy
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/885
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Starz.Encore" tvg-logo="" group-title="USA",USA:Starz.Encore
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/886
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Starz.Starz" tvg-logo="" group-title="USA",USA:Starz.Starz
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/887
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Starz.Comedy" tvg-logo="" group-title="USA",USA:Starz.Comedy
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/888
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Starz..Cinema" tvg-logo="" group-title="USA",USA:Starz..Cinema
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/889
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Cinemax.Moremax" tvg-logo="" group-title="USA",USA:Cinemax.Moremax
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/892
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Cinemax.East" tvg-logo="" group-title="USA",USA:Cinemax.East
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/891
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Hallmark" tvg-logo="" group-title="USA",USA:Hallmark
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1198
+#EXTINF:-1 tvg-ID="" tvg-name="USA:AMC" tvg-logo="" group-title="USA",USA:AMC
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/869
+#EXTINF:-1 tvg-ID="" tvg-name="USA:TNT" tvg-logo="" group-title="USA",USA:TNT
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/884
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Lifetime" tvg-logo="" group-title="USA",USA:Lifetime
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/878
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Bravo" tvg-logo="" group-title="USA",USA:Bravo
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/877
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Discovery" tvg-logo="" group-title="USA",USA:Discovery
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/895
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Discovery.Science" tvg-logo="" group-title="USA",USA:Discovery.Science
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/894
+#EXTINF:-1 tvg-ID="" tvg-name="USA:Animal.Planet" tvg-logo="" group-title="USA",USA:Animal.Planet
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/893
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Sport.Serie.A " tvg-logo="" group-title="ITALY",IT:Sky.Sport.Serie.A 
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/184
+#EXTINF:-1 tvg-ID="" tvg-name="IT:DMAX" tvg-logo="" group-title="ITALY",IT:DMAX
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/197
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium.Cinema" tvg-logo="" group-title="ITALY",IT:Premium.Cinema
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/185
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Mediaset.20" tvg-logo="" group-title="ITALY",IT:Mediaset.20
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/186
+#EXTINF:-1 tvg-ID="" tvg-name="IT:IRIS.Mediaset" tvg-logo="" group-title="ITALY",IT:IRIS.Mediaset
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/187
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium.Crime" tvg-logo="" group-title="ITALY",IT:Premium.Crime
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/188
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Top.Crime" tvg-logo="" group-title="ITALY",IT:Top.Crime
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/189
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium.Action" tvg-logo="" group-title="ITALY",IT:Premium.Action
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/190
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium.Energy" tvg-logo="" group-title="ITALY",IT:Premium.Energy
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/195
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium.Emotion" tvg-logo="" group-title="ITALY",IT:Premium.Emotion
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/196
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium.Comedy" tvg-logo="" group-title="ITALY",IT:Premium.Comedy
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/191
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Premium.Stories" tvg-logo="" group-title="ITALY",IT:Premium.Stories
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/193
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Cielo" tvg-logo="" group-title="ITALY",IT:Cielo
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/194
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Inter.Milan.TV" tvg-logo="" group-title="ITALY",IT:Inter.Milan.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/202
+#EXTINF:-1 tvg-ID="" tvg-name="IT:AC.Milan.TV" tvg-logo="" group-title="ITALY",IT:AC.Milan.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/203
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Roma.Channel" tvg-logo="" group-title="ITALY",IT:Roma.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/204
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Disney.Junior" tvg-logo="" group-title="ITALY",IT:Disney.Junior
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/198
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Disney.Channel" tvg-logo="" group-title="ITALY",IT:Disney.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/199
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Discovery.Sci" tvg-logo="" group-title="ITALY",IT:Discovery.Sci
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/200
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Cartoon.Network" tvg-logo="" group-title="ITALY",IT:Cartoon.Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/201
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Videolina" tvg-logo="" group-title="ITALY",IT:Videolina
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/205
+#EXTINF:-1 tvg-ID="" tvg-name="IT:sardegna.uno" tvg-logo="" group-title="ITALY",IT:sardegna.uno
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/206
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Mediaset.Italia2" tvg-logo="" group-title="ITALY",IT:Mediaset.Italia2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/207
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai1" tvg-logo="" group-title="ITALY",IT:Rai1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/107
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai2" tvg-logo="" group-title="ITALY",IT:Rai2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/108
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai3" tvg-logo="" group-title="ITALY",IT:Rai3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/109
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai4" tvg-logo="" group-title="ITALY",IT:Rai4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/110
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai5" tvg-logo="" group-title="ITALY",IT:Rai5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/111
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai.yoyo" tvg-logo="" group-title="ITALY",IT:Rai.yoyo
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/112
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai.Premium" tvg-logo="" group-title="ITALY",IT:Rai.Premium
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/115
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai.Movie" tvg-logo="" group-title="ITALY",IT:Rai.Movie
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/114
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Rai.Gulp" tvg-logo="" group-title="ITALY",IT:Rai.Gulp
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/113
+#EXTINF:-1 tvg-ID="" tvg-name="IT:RaiSport1" tvg-logo="" group-title="ITALY",IT:RaiSport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/166
+#EXTINF:-1 tvg-ID="" tvg-name="IT:RSI.La1" tvg-logo="" group-title="ITALY",IT:RSI.La1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/116
+#EXTINF:-1 tvg-ID="" tvg-name="IT:RSI.La2" tvg-logo="" group-title="ITALY",IT:RSI.La2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/117
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Mediaset.Extra" tvg-logo="" group-title="ITALY",IT:Mediaset.Extra
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/183
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Italia1" tvg-logo="" group-title="ITALY",IT:Italia1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/118
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Canale5" tvg-logo="" group-title="ITALY",IT:Canale5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/119
+#EXTINF:-1 tvg-ID="" tvg-name="IT:La5" tvg-logo="" group-title="ITALY",IT:La5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/120
+#EXTINF:-1 tvg-ID="" tvg-name="IT:La7" tvg-logo="" group-title="ITALY",IT:La7
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/121
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Fox" tvg-logo="" group-title="ITALY",IT:Fox
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/139
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Fox.Life" tvg-logo="" group-title="ITALY",IT:Fox.Life
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/140
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Fox.Crime" tvg-logo="" group-title="ITALY",IT:Fox.Crime
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/141
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Comedy.Central" tvg-logo="" group-title="ITALY",IT:Comedy.Central
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/142
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Uno" tvg-logo="" group-title="ITALY",IT:Sky.Uno
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/145
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Atlantic" tvg-logo="" group-title="ITALY",IT:Sky.Atlantic
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/144
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Uno" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Uno
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/123
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Uno24" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Uno24
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/125
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Action" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Action
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/128
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Collection" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Collection
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/126
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Family" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Family
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/133
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Comedy" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Comedy
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/131
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Due" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Due
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/127
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Romance" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Romance
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/130
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Cinema.Drama" tvg-logo="" group-title="ITALY",IT:Sky.Cinema.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/132
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Paramount.Channel" tvg-logo="" group-title="ITALY",IT:Paramount.Channel
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/134
+#EXTINF:-1 tvg-ID="" tvg-name="IT:National.Geo" tvg-logo="" group-title="ITALY",IT:National.Geo
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/179
+#EXTINF:-1 tvg-ID="" tvg-name="IT:NatGeo.Wild" tvg-logo="" group-title="ITALY",IT:NatGeo.Wild
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/180
+#EXTINF:-1 tvg-ID="" tvg-name="IT:NatGeo.People" tvg-logo="" group-title="ITALY",IT:NatGeo.People
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/181
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Discovery" tvg-logo="" group-title="ITALY",IT:Discovery
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/177
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Animal.Planet" tvg-logo="" group-title="ITALY",IT:Animal.Planet
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/182
+#EXTINF:-1 tvg-ID="" tvg-name="IT:History" tvg-logo="" group-title="ITALY",IT:History
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/178
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Focus" tvg-logo="" group-title="ITALY",IT:Focus
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/167
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Sport.NBA" tvg-logo="" group-title="ITALY",IT:Sky.Sport.NBA
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/148
+#EXTINF:-1 tvg-ID="" tvg-name="IT:SkySport.Uno" tvg-logo="" group-title="ITALY",IT:SkySport.Uno
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/149
+#EXTINF:-1 tvg-ID="" tvg-name="IT:SkySport.Football" tvg-logo="" group-title="ITALY",IT:SkySport.Football
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/150
+#EXTINF:-1 tvg-ID="" tvg-name="IT:SkySport.Arena" tvg-logo="" group-title="ITALY",IT:SkySport.Arena
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/151
+#EXTINF:-1 tvg-ID="" tvg-name="IT:SkySport.Collection" tvg-logo="" group-title="ITALY",IT:SkySport.Collection
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/157
+#EXTINF:-1 tvg-ID="" tvg-name="IT:SkySport24" tvg-logo="" group-title="ITALY",IT:SkySport24
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/152
+#EXTINF:-1 tvg-ID="" tvg-name="IT:SkySport.F1" tvg-logo="" group-title="ITALY",IT:SkySport.F1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/153
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sky.Moto.Gp" tvg-logo="" group-title="ITALY",IT:Sky.Moto.Gp
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/154
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Super.Tennis" tvg-logo="" group-title="ITALY",IT:Super.Tennis
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/155
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Eurosport" tvg-logo="" group-title="ITALY",IT:Eurosport
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/169
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Eurosport2" tvg-logo="" group-title="ITALY",IT:Eurosport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/170
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Sport.italia" tvg-logo="" group-title="ITALY",IT:Sport.italia
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/168
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila1" tvg-logo="" group-title="ITALY",IT:Prima.fila1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/209
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila2" tvg-logo="" group-title="ITALY",IT:Prima.fila2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/210
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila3" tvg-logo="" group-title="ITALY",IT:Prima.fila3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/211
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila4" tvg-logo="" group-title="ITALY",IT:Prima.fila4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/212
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila5" tvg-logo="" group-title="ITALY",IT:Prima.fila5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/213
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila6" tvg-logo="" group-title="ITALY",IT:Prima.fila6
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/214
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila7" tvg-logo="" group-title="ITALY",IT:Prima.fila7
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/215
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila8" tvg-logo="" group-title="ITALY",IT:Prima.fila8
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/216
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.fila9" tvg-logo="" group-title="ITALY",IT:Prima.fila9
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/217
+#EXTINF:-1 tvg-ID="" tvg-name="IT:Prima.Fila10" tvg-logo="" group-title="ITALY",IT:Prima.Fila10
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/218
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="beinsportsnews.jsc" tvg-name="beIN:Sports.News" tvg-logo="http://xtream.pro:8000/images/logo/beinsport-news.png" group-title="ARABIC",beIN:Sports.News
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/306
+#EXTINF:-1 tvg-ID="MbcMasr.eg" tvg-name="AR:MBC.Masr" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_masr.png" group-title="ARABIC",AR:MBC.Masr
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/346
+#EXTINF:-1 tvg-ID="MbcMasr2.eg" tvg-name="AR:MBC.Masr2" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_masr_2.png" group-title="ARABIC",AR:MBC.Masr2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/347
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC.Drama" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_drama.png" group-title="ARABIC",AR:MBC.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/348
+#EXTINF:-1 tvg-ID="TVBreizh.fr" tvg-name="AR:MBC5" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc-5-ae.png" group-title="ARABIC",AR:MBC5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/341
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC2" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_2.png" group-title="ARABIC",AR:MBC2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/342
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC3" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_3.png" group-title="ARABIC",AR:MBC3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/343
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC4" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_4.png" group-title="ARABIC",AR:MBC4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/344
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC.Max" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_max.png" group-title="ARABIC",AR:MBC.Max
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/345
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC.Action" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_action.png" group-title="ARABIC",AR:MBC.Action
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/350
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC.Bollywood" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc_ae_bollywood.png" group-title="ARABIC",AR:MBC.Bollywood
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/349
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana.Music" tvg-logo="" group-title="ARABIC",AR:Rotana.Music
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/357
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana.Clip" tvg-logo="" group-title="ARABIC",AR:Rotana.Clip
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/356
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana.Cinema.EGY" tvg-logo="" group-title="ARABIC",AR:Rotana.Cinema.EGY
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/353
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana.Comedy" tvg-logo="" group-title="ARABIC",AR:Rotana.Comedy
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/352
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana.Drama" tvg-logo="" group-title="ARABIC",AR:Rotana.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/351
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana.Classic" tvg-logo="" group-title="ARABIC",AR:Rotana.Classic
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/355
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Rotana.Khalijiya" tvg-logo="" group-title="ARABIC",AR:Rotana.Khalijiya
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/354
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Zee.Alwan" tvg-logo="" group-title="ARABIC",AR:Zee.Alwan
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/383
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Zee.Aflam" tvg-logo="" group-title="ARABIC",AR:Zee.Aflam
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/384
+#EXTINF:-1 tvg-ID="" tvg-name="AR:B4U.Aflam" tvg-logo="" group-title="ARABIC",AR:B4U.Aflam
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/385
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Cinema" tvg-logo="" group-title="ARABIC",AR:Cinema
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/358
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Aflam1" tvg-logo="" group-title="ARABIC",AR:Aflam1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/359
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Aflam2" tvg-logo="" group-title="ARABIC",AR:Aflam2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/360
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ART.Hekayat" tvg-logo="" group-title="ARABIC",AR:ART.Hekayat
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/361
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ART.Hekayat2" tvg-logo="" group-title="ARABIC",AR:ART.Hekayat2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/362
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai" tvg-logo="" group-title="ARABIC",AR:Dubai
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/219
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai.Zaman" tvg-logo="" group-title="ARABIC",AR:Dubai.Zaman
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/220
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sama.Dubai" tvg-logo="" group-title="ARABIC",AR:Sama.Dubai
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/221
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Noor.Dubai" tvg-logo="" group-title="ARABIC",AR:Noor.Dubai
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/222
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai.One" tvg-logo="" group-title="ARABIC",AR:Dubai.One
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/223
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Abudhabi.aloula" tvg-logo="" group-title="ARABIC",AR:Abudhabi.aloula
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/288
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AbuDhabi.Drama" tvg-logo="" group-title="ARABIC",AR:AbuDhabi.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/371
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AbuDhabi.Emarat" tvg-logo="" group-title="ARABIC",AR:AbuDhabi.Emarat
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/277
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Lana.Plus" tvg-logo="" group-title="ARABIC",AR:Lana.Plus
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/225
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MBC.IRAQ" tvg-logo="http://xtream.pro:8000/images/logo/channel/mbc-iraq-ae-iq.png" group-title="ARABIC",AR:MBC.IRAQ
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/226
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Dubai.Racing2" tvg-logo="" group-title="ARABIC",AR:Dubai.Racing2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/227
+#EXTINF:-1 tvg-ID="" tvg-name="AR:nahar" tvg-logo="" group-title="ARABIC",AR:nahar
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/253
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC" tvg-logo="" group-title="ARABIC",AR:CBC
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/254
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Nahar.Drama" tvg-logo="" group-title="ARABIC",AR:Nahar.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/255
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Syria.TV" tvg-logo="" group-title="ARABIC",AR:Syria.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/228
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Syria.Satellite" tvg-logo="" group-title="ARABIC",AR:Syria.Satellite
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/229
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Syrian.Drama" tvg-logo="" group-title="ARABIC",AR:Syrian.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/230
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Syria.Nour.El.Sham" tvg-logo="" group-title="ARABIC",AR:Syria.Nour.El.Sham
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/231
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Syria.Education" tvg-logo="" group-title="ARABIC",AR:Syria.Education
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/232
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sama.TV" tvg-logo="" group-title="ARABIC",AR:Sama.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/233
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kuwait.TV1" tvg-logo="" group-title="ARABIC",AR:Kuwait.TV1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/269
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Kuwait.TV2" tvg-logo="" group-title="ARABIC",AR:Kuwait.TV2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/270
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Saudi1" tvg-logo="" group-title="ARABIC",AR:Saudi1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/298
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Saudia.Family" tvg-logo="" group-title="ARABIC",AR:Saudia.Family
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/299
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Ksa.Sport 1" tvg-logo="" group-title="ARABIC",AR:Ksa.Sport 1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/305
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Saudi24" tvg-logo="" group-title="ARABIC",AR:Saudi24
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/303
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Saudia.Alikhbaria" tvg-logo="" group-title="ARABIC",AR:Saudia.Alikhbaria
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/302
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Saudia.Quran.TV" tvg-logo="" group-title="ARABIC",AR:Saudia.Quran.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/301
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Saudia.Sonna.TV" tvg-logo="" group-title="ARABIC",AR:Saudia.Sonna.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/300
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Taha" tvg-logo="" group-title="ARABIC",AR:Taha
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/304
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Oman.TV.General" tvg-logo="" group-title="ARABIC",AR:Oman.TV.General
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/272
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Oman.TV.Live" tvg-logo="" group-title="ARABIC",AR:Oman.TV.Live
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/273
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Oman.TV.Cultural" tvg-logo="" group-title="ARABIC",AR:Oman.TV.Cultural
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/274
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Oman.TV.Sport" tvg-logo="" group-title="ARABIC",AR:Oman.TV.Sport
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/275
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Qatar" tvg-logo="" group-title="ARABIC",AR:Qatar
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/268
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Almanar" tvg-logo="" group-title="ARABIC",AR:Almanar
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/292
+#EXTINF:-1 tvg-ID="" tvg-name="AR:LBC" tvg-logo="" group-title="ARABIC",AR:LBC
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/386
+#EXTINF:-1 tvg-ID="" tvg-name="AR:MTV.Lebanon" tvg-logo="" group-title="ARABIC",AR:MTV.Lebanon
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/234
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Future" tvg-logo="" group-title="ARABIC",AR:Future
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/238
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Aljadeed" tvg-logo="" group-title="ARABIC",AR:Aljadeed
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/236
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alaan" tvg-logo="" group-title="ARABIC",AR:Alaan
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/235
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC.Drama" tvg-logo="" group-title="ARABIC",AR:CBC.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/293
+#EXTINF:-1 tvg-ID="" tvg-name="AR:OTV.Lebanon" tvg-logo="" group-title="ARABIC",AR:OTV.Lebanon
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/237
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Jordan" tvg-logo="" group-title="ARABIC",AR:Jordan
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/285
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alrai" tvg-logo="" group-title="ARABIC",AR:Alrai
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/261
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Almaghribia" tvg-logo="" group-title="MAGHREB",AR:Almaghribia
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/242
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Libya.ALJamahiria" tvg-logo="" group-title="ARABIC",AR:Libya.ALJamahiria
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/258
+#EXTINF:-1 tvg-ID="" tvg-name="AR:HodHod" tvg-logo="" group-title="ARABIC",AR:HodHod
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/257
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Iqraa" tvg-logo="" group-title="ARABIC",AR:Iqraa
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/284
+#EXTINF:-1 tvg-ID="" tvg-name="AR:EL.Badil.TV" tvg-logo="http://xtream.pro:8000/images/logo/channel/chamstv-dz.png" group-title="MAGHREB",AR:EL.Badil.TV
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/290
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alhayat1" tvg-logo="" group-title="ARABIC",AR:Alhayat1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/291
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Disney" tvg-logo="" group-title="ARABIC",AR:Disney
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/286
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sada.El.Balad.2" tvg-logo="" group-title="ARABIC",AR:Sada.El.Balad.2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/265
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Sada.El.Balad" tvg-logo="" group-title="ARABIC",AR:Sada.El.Balad
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/260
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC.Sofra" tvg-logo="" group-title="ARABIC",AR:CBC.Sofra
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/279
+#EXTINF:-1 tvg-ID="" tvg-name="AR:CBC.Extra" tvg-logo="" group-title="ARABIC",AR:CBC.Extra
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/263
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AlKahera.WalNas" tvg-logo="" group-title="ARABIC",AR:AlKahera.WalNas
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1071
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AlHayah2" tvg-logo="" group-title="ARABIC",AR:AlHayah2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1072
+#EXTINF:-1 tvg-ID="" tvg-name="AR:DMC" tvg-logo="" group-title="ARABIC",AR:DMC
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1074
+#EXTINF:-1 tvg-ID="" tvg-name="AR:DMC.Drama" tvg-logo="" group-title="ARABIC",AR:DMC.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/1073
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Panorama.Film" tvg-logo="" group-title="ARABIC",AR:Panorama.Film
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/862
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Panorama.Drama" tvg-logo="" group-title="ARABIC",AR:Panorama.Drama
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/861
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Panorama.Drama2" tvg-logo="" group-title="ARABIC",AR:Panorama.Drama2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/860
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alresalah" tvg-logo="" group-title="ARABIC",AR:Alresalah
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/264
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AlHayat.Musalsalat" tvg-logo="" group-title="ARABIC",AR:AlHayat.Musalsalat
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/266
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALSahraa" tvg-logo="" group-title="ARABIC",AR:ALSahraa
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/280
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AlMajd" tvg-logo="" group-title="ARABIC",AR:AlMajd
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/276
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AlMajd.Quran" tvg-logo="" group-title="ARABIC",AR:AlMajd.Quran
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/267
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Almajd.Scientific" tvg-logo="" group-title="ARABIC",AR:Almajd.Scientific
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/791
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Majd_Hadith" tvg-logo="" group-title="ARABIC",AR:Al_Majd_Hadith
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/340
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Majid.Kids" tvg-logo="" group-title="ARABIC",AR:Majid.Kids
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/835
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Toyor.AlJanah" tvg-logo="" group-title="ARABIC",AR:Toyor.AlJanah
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/819
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Toyor.Baby" tvg-logo="" group-title="ARABIC",AR:Toyor.Baby
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/834
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Spacetoon" tvg-logo="" group-title="ARABIC",AR:Spacetoon
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/815
+#EXTINF:-1 tvg-ID="" tvg-name="AR:karamesh" tvg-logo="" group-title="ARABIC",AR:karamesh
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/813
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Jeem" tvg-logo="" group-title="ARABIC",AR:Jeem
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/823
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Cartoon.Network" tvg-logo="" group-title="ARABIC",AR:Cartoon.Network
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/821
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Baraeem" tvg-logo="" group-title="ARABIC",AR:Baraeem
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/820
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al.Jazeera" tvg-logo="" group-title="ARABIC",AR:Al.Jazeera
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/245
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al.Jazeera.Mubasher" tvg-logo="" group-title="ARABIC",AR:Al.Jazeera.Mubasher
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/249
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Jazeera.Doc" tvg-logo="" group-title="ARABIC",AR:Al_Jazeera.Doc
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/247
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Al_Jazeera.En" tvg-logo="" group-title="ARABIC",AR:Al_Jazeera.En
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/248
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Alarabiya" tvg-logo="" group-title="ARABIC",AR:Alarabiya
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/250
+#EXTINF:-1 tvg-ID="" tvg-name="AR:ALarabia.Hadath" tvg-logo="" group-title="ARABIC",AR:ALarabia.Hadath
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/251
+#EXTINF:-1 tvg-ID="" tvg-name="AR:SKY.News" tvg-logo="" group-title="ARABIC",AR:SKY.News
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/297
+#EXTINF:-1 tvg-ID="" tvg-name="AR:France24.Arabic" tvg-logo="" group-title="ARABIC",AR:France24.Arabic
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/283
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Russia.Alyaum" tvg-logo="" group-title="ARABIC",AR:Russia.Alyaum
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/252
+#EXTINF:-1 tvg-ID="" tvg-name="AR:alhiwar" tvg-logo="" group-title="ARABIC",AR:alhiwar
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/289
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Trt.Arabic" tvg-logo="" group-title="ARABIC",AR:Trt.Arabic
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/296
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Orient News" tvg-logo="" group-title="ARABIC",AR:Orient News
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/287
+#EXTINF:-1 tvg-ID="" tvg-name="AR:BBC.Arabic" tvg-logo="" group-title="ARABIC",AR:BBC.Arabic
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/295
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Ann" tvg-logo="" group-title="ARABIC",AR:Ann
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/294
+#EXTINF:-1 tvg-ID="" tvg-name="AR:Anb" tvg-logo="" group-title="ARABIC",AR:Anb
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/281
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AD.Sport1" tvg-logo="" group-title="ARABIC",AR:AD.Sport1
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/855
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AD.Sport2" tvg-logo="" group-title="ARABIC",AR:AD.Sport2
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/856
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AD.Sport3" tvg-logo="" group-title="ARABIC",AR:AD.Sport3
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/857
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AD.Sport4" tvg-logo="" group-title="ARABIC",AR:AD.Sport4
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/858
+#EXTINF:-1 tvg-ID="" tvg-name="AR:AD.Sport5" tvg-logo="" group-title="ARABIC",AR:AD.Sport5
+http://xtream.ws:8080/fullhdp.servep2p/live.mtg_2406_1/859
 
 
 
