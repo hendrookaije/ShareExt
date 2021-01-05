@@ -4933,6 +4933,904 @@ http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_1_FHD_H265" tvg-logo="http://mych.me/images/be/265/1.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_1_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12499
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_2_FHD_H265" tvg-logo="http://mych.me/images/be/265/2.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_2_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12500
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_3_FHD_H265" tvg-logo="http://mych.me/images/be/265/3.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_3_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12501
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_4_FHD_H265" tvg-logo="http://mych.me/images/be/265/4.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_4_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12502
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_5_FHD_H265" tvg-logo="http://mych.me/images/be/265/5.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_5_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12503
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_6_FHD_H265" tvg-logo="http://mych.me/images/be/265/6.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_6_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12504
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_7_FHD_H265" tvg-logo="http://mych.me/images/be/265/7.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_7_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12505
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_8_FHD_H265" tvg-logo="http://mych.me/images/be/265/8.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_8_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12506
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_9_FHD_H265" tvg-logo="http://mych.me/images/be/265/9.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_9_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12507
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORT_10_FHD_H265" tvg-logo="http://mych.me/images/be/265/10.jpg" group-title="BEIN SPORT  H265 FHD 4M",BEIN_SPORT_10_FHD_H265
+http://mynetworks.info:80/joseph220974/220974joseph/12508
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT SD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT SD
+http://mynetworks.info:80/joseph220974/220974joseph/18989
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT HD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT HD
+http://mynetworks.info:80/joseph220974/220974joseph/18986
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT FHD H265" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT FHD H265
+http://mynetworks.info:80/joseph220974/220974joseph/18985
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2 SD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT 2 SD
+http://mynetworks.info:80/joseph220974/220974joseph/18992
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2 HD" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18991
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2 FHD H265" tvg-logo="" group-title="ARABIC SPORTS",ON TIME SPORT 2 FHD H265
+http://mynetworks.info:80/joseph220974/220974joseph/18990
+#EXTINF:-1 tvg-id="" tvg-name="AL AHLY SD" tvg-logo="" group-title="ARABIC SPORTS",AL AHLY SD
+http://mynetworks.info:80/joseph220974/220974joseph/18995
+#EXTINF:-1 tvg-id="" tvg-name="AL AHLY HD" tvg-logo="" group-title="ARABIC SPORTS",AL AHLY HD
+http://mynetworks.info:80/joseph220974/220974joseph/18994
+#EXTINF:-1 tvg-id="" tvg-name="AL AHLY FHD H265" tvg-logo="" group-title="ARABIC SPORTS",AL AHLY FHD H265
+http://mynetworks.info:80/joseph220974/220974joseph/18993
+#EXTINF:-1 tvg-id="" tvg-name="AL ZAMALEK TV" tvg-logo="" group-title="ARABIC SPORTS",AL ZAMALEK TV
+http://mynetworks.info:80/joseph220974/220974joseph/18996
+#EXTINF:-1 tvg-id="" tvg-name="NILE SPORT" tvg-logo="" group-title="ARABIC SPORTS",NILE SPORT
+http://mynetworks.info:80/joseph220974/220974joseph/18997
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 1 HD " tvg-logo="" group-title="ARABIC SPORTS",AD Sport 1 HD 
+http://mynetworks.info:80/joseph220974/220974joseph/8597
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 2 HD" tvg-logo="" group-title="ARABIC SPORTS",AD Sport 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8596
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 3 HD" tvg-logo="" group-title="ARABIC SPORTS",AD Sport 3 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8595
+#EXTINF:-1 tvg-id="" tvg-name="AD Sport 4 HD" tvg-logo="" group-title="ARABIC SPORTS",AD Sport 4 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8594
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 1 HD" tvg-logo="" group-title="ARABIC SPORTS",Ksa Sport 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8685
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 2 HD" tvg-logo="" group-title="ARABIC SPORTS",Ksa Sport 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8686
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 3 HD" tvg-logo="" group-title="ARABIC SPORTS",Ksa Sport 3 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8603
+#EXTINF:-1 tvg-id="" tvg-name="Ksa Sport 4 HD" tvg-logo="" group-title="ARABIC SPORTS",Ksa Sport 4 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8604
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Two HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Two HD
+http://mynetworks.info:80/joseph220974/220974joseph/19681
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Three HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Three HD
+http://mynetworks.info:80/joseph220974/220974joseph/19680
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Four HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Four HD
+http://mynetworks.info:80/joseph220974/220974joseph/19678
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Five HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Five HD
+http://mynetworks.info:80/joseph220974/220974joseph/19677
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass One HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass One HD
+http://mynetworks.info:80/joseph220974/220974joseph/19682
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Online HD" tvg-logo="" group-title="ARABIC SPORTS",Al Kass Online HD
+http://mynetworks.info:80/joseph220974/220974joseph/19679
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Movies_Premiere_SD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Movies_Premiere_SD
+http://mynetworks.info:80/joseph220974/220974joseph/17880
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Movies_Action_SD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Movies_Action_SD
+http://mynetworks.info:80/joseph220974/220974joseph/17881
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Movies_Drama_SD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Movies_Drama_SD
+http://mynetworks.info:80/joseph220974/220974joseph/17882
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Movies_Family_SD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Movies_Family_SD
+http://mynetworks.info:80/joseph220974/220974joseph/17883
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Movies_Premiere_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Movies_Premiere_HD
+http://mynetworks.info:80/joseph220974/220974joseph/1663
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Movies_Action_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Movies_Action_HD
+http://mynetworks.info:80/joseph220974/220974joseph/1662
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Movies_Drama_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Movies_Drama_HD
+http://mynetworks.info:80/joseph220974/220974joseph/1661
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Movies_Family_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Movies_Family_HD
+http://mynetworks.info:80/joseph220974/220974joseph/1660
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD1 (H265)" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",Bein Movies HD1 (H265)
+http://mynetworks.info:80/joseph220974/220974joseph/16274
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2 (H265)" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",Bein Movies HD2 (H265)
+http://mynetworks.info:80/joseph220974/220974joseph/16275
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3 (H265)" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",Bein Movies HD3 (H265)
+http://mynetworks.info:80/joseph220974/220974joseph/16276
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4 (H265)" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",Bein Movies HD4 (H265)
+http://mynetworks.info:80/joseph220974/220974joseph/16277
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_Fox_Action_Movies_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BEIN_Fox_Action_Movies_HD
+http://mynetworks.info:80/joseph220974/220974joseph/12493
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_FOX_MOVIES" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BEIN_FOX_MOVIES
+http://mynetworks.info:80/joseph220974/220974joseph/1664
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_Series_1_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BeIN_Series_1_HD
+http://mynetworks.info:80/joseph220974/220974joseph/1656
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_Series_2_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BeIN_Series_2_HD
+http://mynetworks.info:80/joseph220974/220974joseph/1665
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_AMC" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BeIN_AMC
+http://mynetworks.info:80/joseph220974/220974joseph/1655
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_DRAMA" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BEIN_DRAMA
+http://mynetworks.info:80/joseph220974/220974joseph/4024
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_CINEMA_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BEIN_CINEMA_HD
+http://mynetworks.info:80/joseph220974/220974joseph/11452
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_Boomerang_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BeIN_Boomerang_HD
+http://mynetworks.info:80/joseph220974/220974joseph/8156
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_JEEM" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BEIN_JEEM
+http://mynetworks.info:80/joseph220974/220974joseph/5220
+#EXTINF:-1 tvg-id="" tvg-name="Bein_Baraem" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",Bein_Baraem
+http://mynetworks.info:80/joseph220974/220974joseph/3951
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_Junior" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BeIN_Junior
+http://mynetworks.info:80/joseph220974/220974joseph/1654
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Dreamworks" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Dreamworks
+http://mynetworks.info:80/joseph220974/220974joseph/1668
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_Cartoon_Network_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BEIN_Cartoon_Network_HD
+http://mynetworks.info:80/joseph220974/220974joseph/12486
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_Fatafeat" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BeIN_Fatafeat
+http://mynetworks.info:80/joseph220974/220974joseph/1666
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Groummet" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",beIN_Groummet
+http://mynetworks.info:80/joseph220974/220974joseph/1667
+#EXTINF:-1 tvg-id="" tvg-name="BeIN_HGTV_HD" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BeIN_HGTV_HD
+http://mynetworks.info:80/joseph220974/220974joseph/8157
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_DMAX" tvg-logo="" group-title="BEIN MOVIES HD-SD-H265",BEIN_DMAX
+http://mynetworks.info:80/joseph220974/220974joseph/4563
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NOVA KIDS 1" tvg-logo="" group-title="KIDS CHANNELS",NOVA KIDS 1
+http://mynetworks.info:80/joseph220974/220974joseph/19625
+#EXTINF:-1 tvg-id="" tvg-name="NOVA TOM & JERRY" tvg-logo="" group-title="KIDS CHANNELS",NOVA TOM & JERRY
+http://mynetworks.info:80/joseph220974/220974joseph/19624
+#EXTINF:-1 tvg-id="" tvg-name="NOVA KIDS ZONE" tvg-logo="" group-title="KIDS CHANNELS",NOVA KIDS ZONE
+http://mynetworks.info:80/joseph220974/220974joseph/16658
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CARTOON" tvg-logo="" group-title="KIDS CHANNELS",NOVA CARTOON
+http://mynetworks.info:80/joseph220974/220974joseph/16606
+#EXTINF:-1 tvg-id="" tvg-name="NOVA JUNIOR" tvg-logo="" group-title="KIDS CHANNELS",NOVA JUNIOR
+http://mynetworks.info:80/joseph220974/220974joseph/16650
+#EXTINF:-1 tvg-id="" tvg-name="ROTANA KIDS" tvg-logo="" group-title="KIDS CHANNELS",ROTANA KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/19630
+#EXTINF:-1 tvg-id="" tvg-name="ATFAL WE MWAHEB" tvg-logo="" group-title="KIDS CHANNELS",ATFAL WE MWAHEB
+http://mynetworks.info:80/joseph220974/220974joseph/19629
+#EXTINF:-1 tvg-id="" tvg-name="MODY KIDS" tvg-logo="" group-title="KIDS CHANNELS",MODY KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/19628
+#EXTINF:-1 tvg-id="" tvg-name="HODHOD KIDS" tvg-logo="" group-title="KIDS CHANNELS",HODHOD KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/19627
+#EXTINF:-1 tvg-id="" tvg-name="KOKY KIDS" tvg-logo="" group-title="KIDS CHANNELS",KOKY KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/19626
+#EXTINF:-1 tvg-id="" tvg-name=" MODY KIDS" tvg-logo="" group-title="KIDS CHANNELS", MODY KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/17702
+#EXTINF:-1 tvg-id="" tvg-name="TOYOR AL JANA" tvg-logo="" group-title="KIDS CHANNELS",TOYOR AL JANA
+http://mynetworks.info:80/joseph220974/220974joseph/17703
+#EXTINF:-1 tvg-id="" tvg-name="TOYOR BABY" tvg-logo="" group-title="KIDS CHANNELS",TOYOR BABY
+http://mynetworks.info:80/joseph220974/220974joseph/17704
+#EXTINF:-1 tvg-id="" tvg-name="SPACE TOON" tvg-logo="" group-title="KIDS CHANNELS",SPACE TOON
+http://mynetworks.info:80/joseph220974/220974joseph/17705
+#EXTINF:-1 tvg-id="" tvg-name="MAJED KIDS" tvg-logo="" group-title="KIDS CHANNELS",MAJED KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/12818
+#EXTINF:-1 tvg-id="" tvg-name="MICKEY KIDS" tvg-logo="" group-title="KIDS CHANNELS",MICKEY KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/12819
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="KIDS CHANNELS",CARTOON NETWORK
+http://mynetworks.info:80/joseph220974/220974joseph/12817
+#EXTINF:-1 tvg-id="" tvg-name="BABY KIDS" tvg-logo="" group-title="KIDS CHANNELS",BABY KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/12812
+#EXTINF:-1 tvg-id="" tvg-name="KIDS HD" tvg-logo="" group-title="KIDS CHANNELS",KIDS HD
+http://mynetworks.info:80/joseph220974/220974joseph/12811
+#EXTINF:-1 tvg-id="" tvg-name="BARAEM KIDS" tvg-logo="" group-title="KIDS CHANNELS",BARAEM KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/12815
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMERANG" tvg-logo="" group-title="KIDS CHANNELS",BLOOMERANG
+http://mynetworks.info:80/joseph220974/220974joseph/12816
+#EXTINF:-1 tvg-id="" tvg-name="k_K id s_Z on e_HD" tvg-logo="" group-title="KIDS CHANNELS",k_K id s_Z on e_HD
+http://mynetworks.info:80/joseph220974/220974joseph/12806
+#EXTINF:-1 tvg-id="" tvg-name="k_ds_J u n i or_HD" tvg-logo="" group-title="KIDS CHANNELS",k_ds_J u n i or_HD
+http://mynetworks.info:80/joseph220974/220974joseph/12807
+#EXTINF:-1 tvg-id="" tvg-name="k_D i s n e y_HD" tvg-logo="" group-title="KIDS CHANNELS",k_D i s n e y_HD
+http://mynetworks.info:80/joseph220974/220974joseph/12808
+#EXTINF:-1 tvg-id="" tvg-name="k_D i s n e y X D_HD" tvg-logo="" group-title="KIDS CHANNELS",k_D i s n e y X D_HD
+http://mynetworks.info:80/joseph220974/220974joseph/12809
+#EXTINF:-1 tvg-id="" tvg-name="k_N i c k e l o de on_HD" tvg-logo="" group-title="KIDS CHANNELS",k_N i c k e l o de on_HD
+http://mynetworks.info:80/joseph220974/220974joseph/12810
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ARABIC HD" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC ARABIC HD
+http://mynetworks.info:80/joseph220974/220974joseph/24812
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC AFLAM HD" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC AFLAM HD
+http://mynetworks.info:80/joseph220974/220974joseph/24811
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC MASRAHYAT HD" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC MASRAHYAT HD
+http://mynetworks.info:80/joseph220974/220974joseph/24810
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC ACTION HD" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC ACTION HD
+http://mynetworks.info:80/joseph220974/220974joseph/24809
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HORROR HD" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC HORROR HD
+http://mynetworks.info:80/joseph220974/220974joseph/24808
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC DERAMA HD" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC DERAMA HD
+http://mynetworks.info:80/joseph220974/220974joseph/24807
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC COMEDY" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC COMEDY
+http://mynetworks.info:80/joseph220974/220974joseph/24806
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC HENDY HD" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC HENDY HD
+http://mynetworks.info:80/joseph220974/220974joseph/24805
+#EXTINF:-1 tvg-id="" tvg-name="MAJESTIC KIDS HD" tvg-logo="" group-title="MAJESTIC CHANNELS",MAJESTIC KIDS HD
+http://mynetworks.info:80/joseph220974/220974joseph/24804
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MAX CINEMA" tvg-logo="" group-title="MAX CHANNELS",MAX CINEMA
+http://mynetworks.info:80/joseph220974/220974joseph/24801
+#EXTINF:-1 tvg-id="" tvg-name="MAX COMEDY" tvg-logo="" group-title="MAX CHANNELS",MAX COMEDY
+http://mynetworks.info:80/joseph220974/220974joseph/24800
+#EXTINF:-1 tvg-id="" tvg-name="MAX DRAMA" tvg-logo="" group-title="MAX CHANNELS",MAX DRAMA
+http://mynetworks.info:80/joseph220974/220974joseph/24799
+#EXTINF:-1 tvg-id="" tvg-name="MAX  FANTAST" tvg-logo="" group-title="MAX CHANNELS",MAX  FANTAST
+http://mynetworks.info:80/joseph220974/220974joseph/24798
+#EXTINF:-1 tvg-id="" tvg-name="MAX ACTION" tvg-logo="" group-title="MAX CHANNELS",MAX ACTION
+http://mynetworks.info:80/joseph220974/220974joseph/24797
+#EXTINF:-1 tvg-id="" tvg-name="MAX KIDS" tvg-logo="" group-title="MAX CHANNELS",MAX KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/24803
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SHOF CINEMA 1 HD" tvg-logo="" group-title="MiX Live Club",SHOF CINEMA 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18839
+#EXTINF:-1 tvg-id="" tvg-name="SHOF CINEMA 2HD" tvg-logo="" group-title="MiX Live Club",SHOF CINEMA 2HD
+http://mynetworks.info:80/joseph220974/220974joseph/18840
+#EXTINF:-1 tvg-id="" tvg-name="SHOF ACTION HD" tvg-logo="" group-title="MiX Live Club",SHOF ACTION HD
+http://mynetworks.info:80/joseph220974/220974joseph/18841
+#EXTINF:-1 tvg-id="" tvg-name="SHOF MAX HD" tvg-logo="" group-title="MiX Live Club",SHOF MAX HD
+http://mynetworks.info:80/joseph220974/220974joseph/18842
+#EXTINF:-1 tvg-id="" tvg-name="FAMLY KIDS" tvg-logo="" group-title="MiX Live Club",FAMLY KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/18850
+#EXTINF:-1 tvg-id="" tvg-name="FAMLY KIDS 2" tvg-logo="" group-title="MiX Live Club",FAMLY KIDS 2
+http://mynetworks.info:80/joseph220974/220974joseph/18849
+#EXTINF:-1 tvg-id="" tvg-name="FAMLY MASRHYAT" tvg-logo="" group-title="MiX Live Club",FAMLY MASRHYAT
+http://mynetworks.info:80/joseph220974/220974joseph/18847
+#EXTINF:-1 tvg-id="" tvg-name="FAMLY MASRHYAT 2" tvg-logo="" group-title="MiX Live Club",FAMLY MASRHYAT 2
+http://mynetworks.info:80/joseph220974/220974joseph/18848
+#EXTINF:-1 tvg-id="" tvg-name="FAMLY MOVIES" tvg-logo="" group-title="MiX Live Club",FAMLY MOVIES
+http://mynetworks.info:80/joseph220974/220974joseph/18846
+#EXTINF:-1 tvg-id="" tvg-name="FAMLY MOVIES 2" tvg-logo="" group-title="MiX Live Club",FAMLY MOVIES 2
+http://mynetworks.info:80/joseph220974/220974joseph/18845
+#EXTINF:-1 tvg-id="" tvg-name="FAMLY HISTORY 2" tvg-logo="" group-title="MiX Live Club",FAMLY HISTORY 2
+http://mynetworks.info:80/joseph220974/220974joseph/18851
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT MOVIES ACTION 1" tvg-logo="" group-title="MiX Live Club",BEOUT MOVIES ACTION 1
+http://mynetworks.info:80/joseph220974/220974joseph/18835
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT MOVIES ACTION 2" tvg-logo="" group-title="MiX Live Club",BEOUT MOVIES ACTION 2
+http://mynetworks.info:80/joseph220974/220974joseph/18836
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT MOVIES 1" tvg-logo="" group-title="MiX Live Club",BEOUT MOVIES 1
+http://mynetworks.info:80/joseph220974/220974joseph/18833
+#EXTINF:-1 tvg-id="" tvg-name="BEOUT MOVIES 2" tvg-logo="" group-title="MiX Live Club",BEOUT MOVIES 2
+http://mynetworks.info:80/joseph220974/220974joseph/18834
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX COMEDY" tvg-logo="" group-title="MiX Live Club",NETFLIX COMEDY
+http://mynetworks.info:80/joseph220974/220974joseph/18828
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX DRAMA" tvg-logo="" group-title="MiX Live Club",NETFLIX DRAMA
+http://mynetworks.info:80/joseph220974/220974joseph/18829
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX HORROR" tvg-logo="" group-title="MiX Live Club",NETFLIX HORROR
+http://mynetworks.info:80/joseph220974/220974joseph/18830
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX ROMANSY" tvg-logo="" group-title="MiX Live Club",NETFLIX ROMANSY
+http://mynetworks.info:80/joseph220974/220974joseph/18831
+#EXTINF:-1 tvg-id="" tvg-name="JAMES BOND" tvg-logo="" group-title="MiX Live Club",JAMES BOND
+http://mynetworks.info:80/joseph220974/220974joseph/18844
+#EXTINF:-1 tvg-id="" tvg-name="STAR FANTASY" tvg-logo="" group-title="MiX Live Club",STAR FANTASY
+http://mynetworks.info:80/joseph220974/220974joseph/18843
+#EXTINF:-1 tvg-id="" tvg-name="PANORAMA ACTION HD" tvg-logo="" group-title="MiX Live Club",PANORAMA ACTION HD
+http://mynetworks.info:80/joseph220974/220974joseph/18838
+#EXTINF:-1 tvg-id="" tvg-name="TOP MOVIES HD" tvg-logo="" group-title="MiX Live Club",TOP MOVIES HD
+http://mynetworks.info:80/joseph220974/220974joseph/18837
+#EXTINF:-1 tvg-id="" tvg-name="NETFLIX KIDS" tvg-logo="" group-title="MiX Live Club",NETFLIX KIDS
+http://mynetworks.info:80/joseph220974/220974joseph/18832
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Aflam 1 HD" tvg-logo="" group-title="SHAHID LIVE",Shahid Aflam 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/17844
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Aflam 2 HD" tvg-logo="" group-title="SHAHID LIVE",Shahid Aflam 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/17845
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Cinema HD" tvg-logo="" group-title="SHAHID LIVE",Shahid Cinema HD
+http://mynetworks.info:80/joseph220974/220974joseph/17846
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Zaman HD" tvg-logo="" group-title="SHAHID LIVE",Shahid Zaman HD
+http://mynetworks.info:80/joseph220974/220974joseph/17847
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Action HD" tvg-logo="" group-title="SHAHID LIVE",Shahid Action HD
+http://mynetworks.info:80/joseph220974/220974joseph/17848
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Horror HD" tvg-logo="" group-title="SHAHID LIVE",Shahid Horror HD
+http://mynetworks.info:80/joseph220974/220974joseph/17849
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Clip HD" tvg-logo="" group-title="SHAHID LIVE",Shahid Clip HD
+http://mynetworks.info:80/joseph220974/220974joseph/17851
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Cartoon HD" tvg-logo="" group-title="SHAHID LIVE",Shahid Cartoon HD
+http://mynetworks.info:80/joseph220974/220974joseph/17852
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC CINEMA H265" tvg-logo="" group-title="MBC PLUS H265",MBC CINEMA H265
+http://mynetworks.info:80/joseph220974/220974joseph/19668
+#EXTINF:-1 tvg-id="" tvg-name="MBC AFLAM H265" tvg-logo="" group-title="MBC PLUS H265",MBC AFLAM H265
+http://mynetworks.info:80/joseph220974/220974joseph/19648
+#EXTINF:-1 tvg-id="" tvg-name="MBC PRIME H265" tvg-logo="" group-title="MBC PLUS H265",MBC PRIME H265
+http://mynetworks.info:80/joseph220974/220974joseph/19641
+#EXTINF:-1 tvg-id="" tvg-name="MBC MOVIES H265" tvg-logo="" group-title="MBC PLUS H265",MBC MOVIES H265
+http://mynetworks.info:80/joseph220974/220974joseph/19642
+#EXTINF:-1 tvg-id="" tvg-name="MBC WAR H265" tvg-logo="" group-title="MBC PLUS H265",MBC WAR H265
+http://mynetworks.info:80/joseph220974/220974joseph/19649
+#EXTINF:-1 tvg-id="" tvg-name="MBC HORROR H265" tvg-logo="" group-title="MBC PLUS H265",MBC HORROR H265
+http://mynetworks.info:80/joseph220974/220974joseph/19667
+#EXTINF:-1 tvg-id="" tvg-name="MBC Junior H265" tvg-logo="" group-title="MBC PLUS H265",MBC Junior H265
+http://mynetworks.info:80/joseph220974/220974joseph/19650
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Change Host" tvg-logo="https://i.ibb.co/4tyyvKq/123.jpg" group-title="NOVA CHANNELS Entertaining",Change Host
+http://mynetworks.info:80/joseph220974/220974joseph/19684
+#EXTINF:-1 tvg-id="" tvg-name="NOVA QURAAN HD" tvg-logo="https://i.ibb.co/MCGkgKJ/123.jpg" group-title="NOVA CHANNELS Entertaining",NOVA QURAAN HD
+http://mynetworks.info:80/joseph220974/220974joseph/19027
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CINEMA 1 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA CINEMA 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18862
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CINEMA 2 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA CINEMA 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18863
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CLASSIC 1 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA CLASSIC 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18967
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CLASSIC 2 SOM3A" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA CLASSIC 2 SOM3A
+http://mynetworks.info:80/joseph220974/220974joseph/18966
+#EXTINF:-1 tvg-id="" tvg-name="NOVA MASRAH MASR 1 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA MASRAH MASR 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/19019
+#EXTINF:-1 tvg-id="" tvg-name="NOVA ACTION 1 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA ACTION 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18968
+#EXTINF:-1 tvg-id="" tvg-name="NOVA ACTION 2 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA ACTION 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18971
+#EXTINF:-1 tvg-id="" tvg-name="NOVA MOVIES 1 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA MOVIES 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18873
+#EXTINF:-1 tvg-id="" tvg-name="NOVA MOVIES 2 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA MOVIES 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18874
+#EXTINF:-1 tvg-id="" tvg-name="NOVA WAR MOVIES HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA WAR MOVIES HD
+http://mynetworks.info:80/joseph220974/220974joseph/19004
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HORROR 1 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA HORROR 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18894
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HORROR 2 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA HORROR 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18907
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HENDY 1 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA HENDY 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18999
+#EXTINF:-1 tvg-id="" tvg-name="NOVA KIDS 1 HD" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA KIDS 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/18964
+#EXTINF:-1 tvg-id="" tvg-name="NOVA KIDS 2 TOM & JERRY" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA KIDS 2 TOM & JERRY
+http://mynetworks.info:80/joseph220974/220974joseph/18970
+#EXTINF:-1 tvg-id="" tvg-name="NOVA WWE LIVE" tvg-logo="" group-title="NOVA CHANNELS Entertaining",NOVA WWE LIVE
+http://mynetworks.info:80/joseph220974/220974joseph/19640
+#EXTINF:-1 tvg-id="" tvg-name="NOVA THOR H265" tvg-logo="" group-title="NOVA VIP H265",NOVA THOR H265
+http://mynetworks.info:80/joseph220974/220974joseph/16536
+#EXTINF:-1 tvg-id="" tvg-name="NOVA X-MEN H265" tvg-logo="" group-title="NOVA VIP H265",NOVA X-MEN H265
+http://mynetworks.info:80/joseph220974/220974joseph/16537
+#EXTINF:-1 tvg-id="" tvg-name="NOVA ZOMBIE H265" tvg-logo="" group-title="NOVA VIP H265",NOVA ZOMBIE H265
+http://mynetworks.info:80/joseph220974/220974joseph/16538
+#EXTINF:-1 tvg-id="" tvg-name="NOVA ZORRO H265" tvg-logo="" group-title="NOVA VIP H265",NOVA ZORRO H265
+http://mynetworks.info:80/joseph220974/220974joseph/16539
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SHARKS H265" tvg-logo="" group-title="NOVA VIP H265",NOVA SHARKS H265
+http://mynetworks.info:80/joseph220974/220974joseph/16535
+#EXTINF:-1 tvg-id="" tvg-name="NOVA BATMAN H265" tvg-logo="" group-title="NOVA VIP H265",NOVA BATMAN H265
+http://mynetworks.info:80/joseph220974/220974joseph/16508
+#EXTINF:-1 tvg-id="" tvg-name="NOVA SUPER MAN H265" tvg-logo="" group-title="NOVA VIP H265",NOVA SUPER MAN H265
+http://mynetworks.info:80/joseph220974/220974joseph/16515
+#EXTINF:-1 tvg-id="" tvg-name="NOVA Spider Man H265" tvg-logo="" group-title="NOVA VIP H265",NOVA Spider Man H265
+http://mynetworks.info:80/joseph220974/220974joseph/16335
+#EXTINF:-1 tvg-id="" tvg-name="NOVA IRON MAN H265" tvg-logo="" group-title="NOVA VIP H265",NOVA IRON MAN H265
+http://mynetworks.info:80/joseph220974/220974joseph/16512
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HULK H265" tvg-logo="" group-title="NOVA VIP H265",NOVA HULK H265
+http://mynetworks.info:80/joseph220974/220974joseph/16511
+#EXTINF:-1 tvg-id="" tvg-name="NOVA FANTASTIC H265" tvg-logo="" group-title="NOVA VIP H265",NOVA FANTASTIC H265
+http://mynetworks.info:80/joseph220974/220974joseph/16510
+#EXTINF:-1 tvg-id="" tvg-name="NOVA DRACULA H265" tvg-logo="" group-title="NOVA VIP H265",NOVA DRACULA H265
+http://mynetworks.info:80/joseph220974/220974joseph/16509
+#EXTINF:-1 tvg-id="" tvg-name="NOVA PREDATOR H265" tvg-logo="" group-title="NOVA VIP H265",NOVA PREDATOR H265
+http://mynetworks.info:80/joseph220974/220974joseph/16513
+#EXTINF:-1 tvg-id="" tvg-name="NOVA STAR WARS H265" tvg-logo="" group-title="NOVA VIP H265",NOVA STAR WARS H265
+http://mynetworks.info:80/joseph220974/220974joseph/16514
+#EXTINF:-1 tvg-id="" tvg-name="NOVA TRANSFORMERS H265" tvg-logo="" group-title="NOVA VIP H265",NOVA TRANSFORMERS H265
+http://mynetworks.info:80/joseph220974/220974joseph/16516
+#EXTINF:-1 tvg-id="" tvg-name="NOVA Dinosaurat H265" tvg-logo="" group-title="NOVA VIP H265",NOVA Dinosaurat H265
+http://mynetworks.info:80/joseph220974/220974joseph/16347
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CINEMA H265" tvg-logo="" group-title="NOVA VIP H265",NOVA CINEMA H265
+http://mynetworks.info:80/joseph220974/220974joseph/15964
+#EXTINF:-1 tvg-id="" tvg-name="NOVA AFLAM H265" tvg-logo="" group-title="NOVA VIP H265",NOVA AFLAM H265
+http://mynetworks.info:80/joseph220974/220974joseph/15963
+#EXTINF:-1 tvg-id="" tvg-name="NOVA CLASSIC H265" tvg-logo="" group-title="NOVA VIP H265",NOVA CLASSIC H265
+http://mynetworks.info:80/joseph220974/220974joseph/15965
+#EXTINF:-1 tvg-id="" tvg-name="NOVA COMEDY H265" tvg-logo="" group-title="NOVA VIP H265",NOVA COMEDY H265
+http://mynetworks.info:80/joseph220974/220974joseph/15966
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HISTORY H265" tvg-logo="" group-title="NOVA VIP H265",NOVA HISTORY H265
+http://mynetworks.info:80/joseph220974/220974joseph/15967
+#EXTINF:-1 tvg-id="" tvg-name="NOVA HORROR H265" tvg-logo="" group-title="NOVA VIP H265",NOVA HORROR H265
+http://mynetworks.info:80/joseph220974/220974joseph/15968
+#EXTINF:-1 tvg-id="" tvg-name="NOVA MIX H265" tvg-logo="" group-title="NOVA VIP H265",NOVA MIX H265
+http://mynetworks.info:80/joseph220974/220974joseph/15969
+#EXTINF:-1 tvg-id="" tvg-name="NOVA MOVIE H265" tvg-logo="" group-title="NOVA VIP H265",NOVA MOVIE H265
+http://mynetworks.info:80/joseph220974/220974joseph/15970
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA : Fight HD" tvg-logo="" group-title="USA",USA : Fight HD
+http://mynetworks.info:80/joseph220974/220974joseph/7916
+#EXTINF:-1 tvg-id="" tvg-name="USA:  NBA TV HD" tvg-logo="" group-title="USA",USA:  NBA TV HD
+http://mynetworks.info:80/joseph220974/220974joseph/7924
+#EXTINF:-1 tvg-id="" tvg-name="USA: A&E HD" tvg-logo="" group-title="USA",USA: A&E HD
+http://mynetworks.info:80/joseph220974/220974joseph/7947
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC HD" tvg-logo="" group-title="USA",USA: ABC HD
+http://mynetworks.info:80/joseph220974/220974joseph/7933
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC NEWS HD" tvg-logo="" group-title="USA",USA: ABC NEWS HD
+http://mynetworks.info:80/joseph220974/220974joseph/7934
+#EXTINF:-1 tvg-id="" tvg-name="USA: Amazing Discoveries HD" tvg-logo="" group-title="USA",USA: Amazing Discoveries HD
+http://mynetworks.info:80/joseph220974/220974joseph/7948
+#EXTINF:-1 tvg-id="" tvg-name="USA: AMC HD" tvg-logo="" group-title="USA",USA: AMC HD
+http://mynetworks.info:80/joseph220974/220974joseph/7909
+#EXTINF:-1 tvg-id="" tvg-name="USA Network (US)" tvg-logo="" group-title="USA",USA Network (US)
+http://mynetworks.info:80/joseph220974/220974joseph/7944
+#EXTINF:-1 tvg-id="" tvg-name="USA: ANIMAL PLANET HD" tvg-logo="" group-title="USA",USA: ANIMAL PLANET HD
+http://mynetworks.info:80/joseph220974/220974joseph/7996
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bein Sports USA HD" tvg-logo="" group-title="USA",USA: Bein Sports USA HD
+http://mynetworks.info:80/joseph220974/220974joseph/8028
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bloomberg Europe" tvg-logo="" group-title="USA",USA: Bloomberg Europe
+http://mynetworks.info:80/joseph220974/220974joseph/7994
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bloomberg TV" tvg-logo="" group-title="USA",USA: Bloomberg TV
+http://mynetworks.info:80/joseph220974/220974joseph/7979
+#EXTINF:-1 tvg-id="" tvg-name="USA: BNN" tvg-logo="" group-title="USA",USA: BNN
+http://mynetworks.info:80/joseph220974/220974joseph/7993
+#EXTINF:-1 tvg-id="" tvg-name="USA: Boomerang" tvg-logo="" group-title="USA",USA: Boomerang
+http://mynetworks.info:80/joseph220974/220974joseph/7992
+#EXTINF:-1 tvg-id="" tvg-name="USA: BRAVO HD(1)" tvg-logo="" group-title="USA",USA: BRAVO HD(1)
+http://mynetworks.info:80/joseph220974/220974joseph/7935
+#EXTINF:-1 tvg-id="" tvg-name="USA: BYU TV" tvg-logo="" group-title="USA",USA: BYU TV
+http://mynetworks.info:80/joseph220974/220974joseph/7910
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 1" tvg-logo="" group-title="USA",USA: C-Span 1
+http://mynetworks.info:80/joseph220974/220974joseph/7997
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 2" tvg-logo="" group-title="USA",USA: C-Span 2
+http://mynetworks.info:80/joseph220974/220974joseph/7998
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 3" tvg-logo="" group-title="USA",USA: C-Span 3
+http://mynetworks.info:80/joseph220974/220974joseph/7999
+#EXTINF:-1 tvg-id="" tvg-name="USA: CA | TSN 2" tvg-logo="" group-title="USA",USA: CA | TSN 2
+http://mynetworks.info:80/joseph220974/220974joseph/8015
+#EXTINF:-1 tvg-id="" tvg-name="USA: CA | TSN 5*" tvg-logo="" group-title="USA",USA: CA | TSN 5*
+http://mynetworks.info:80/joseph220974/220974joseph/8018
+#EXTINF:-1 tvg-id="" tvg-name="USA: CAPITAL TV" tvg-logo="" group-title="USA",USA: CAPITAL TV
+http://mynetworks.info:80/joseph220974/220974joseph/7977
+#EXTINF:-1 tvg-id="" tvg-name="USA: CARTOON NETWORK" tvg-logo="" group-title="USA",USA: CARTOON NETWORK
+http://mynetworks.info:80/joseph220974/220974joseph/7911
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBS" tvg-logo="" group-title="USA",USA: CBS
+http://mynetworks.info:80/joseph220974/220974joseph/7936
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBSN HD" tvg-logo="" group-title="USA",USA: CBSN HD
+http://mynetworks.info:80/joseph220974/220974joseph/7912
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax 5 StarMax" tvg-logo="" group-title="USA",USA: Cinemax 5 StarMax
+http://mynetworks.info:80/joseph220974/220974joseph/8029
+#EXTINF:-1 tvg-id="" tvg-name="USA: CINEMAX ACTION HD" tvg-logo="" group-title="USA",USA: CINEMAX ACTION HD
+http://mynetworks.info:80/joseph220974/220974joseph/8000
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax ActionMax East" tvg-logo="" group-title="USA",USA: Cinemax ActionMax East
+http://mynetworks.info:80/joseph220974/220974joseph/8030
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax East" tvg-logo="" group-title="USA",USA: Cinemax East
+http://mynetworks.info:80/joseph220974/220974joseph/8031
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax East HD" tvg-logo="" group-title="USA",USA: Cinemax East HD
+http://mynetworks.info:80/joseph220974/220974joseph/7991
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax MoreMax" tvg-logo="" group-title="USA",USA: Cinemax MoreMax
+http://mynetworks.info:80/joseph220974/220974joseph/7990
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNBC" tvg-logo="" group-title="USA",USA: CNBC
+http://mynetworks.info:80/joseph220974/220974joseph/7913
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN" tvg-logo="" group-title="USA",USA: ESPN
+http://mynetworks.info:80/joseph220974/220974joseph/7949
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2" tvg-logo="" group-title="USA",USA: ESPN 2
+http://mynetworks.info:80/joseph220974/220974joseph/8002
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN HD" tvg-logo="" group-title="USA",USA: ESPN HD
+http://mynetworks.info:80/joseph220974/220974joseph/7939
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN News US HD" tvg-logo="" group-title="USA",USA: ESPN News US HD
+http://mynetworks.info:80/joseph220974/220974joseph/7967
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN U HD" tvg-logo="" group-title="USA",USA: ESPN U HD
+http://mynetworks.info:80/joseph220974/220974joseph/7966
+#EXTINF:-1 tvg-id="" tvg-name="USA: FIGHT SPORT" tvg-logo="" group-title="USA",USA: FIGHT SPORT
+http://mynetworks.info:80/joseph220974/220974joseph/8019
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fine Living" tvg-logo="" group-title="USA",USA: Fine Living
+http://mynetworks.info:80/joseph220974/220974joseph/7987
+#EXTINF:-1 tvg-id="" tvg-name="USA: Food Network HD" tvg-logo="" group-title="USA",USA: Food Network HD
+http://mynetworks.info:80/joseph220974/220974joseph/8034
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX 43" tvg-logo="" group-title="USA",USA: FOX 43
+http://mynetworks.info:80/joseph220974/220974joseph/8003
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox HD" tvg-logo="" group-title="USA",USA: Fox HD
+http://mynetworks.info:80/joseph220974/220974joseph/7906
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX NEWS HD" tvg-logo="" group-title="USA",USA: FOX NEWS HD
+http://mynetworks.info:80/joseph220974/220974joseph/7940
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports 1 HD" tvg-logo="" group-title="USA",USA: Fox Sports 1 HD
+http://mynetworks.info:80/joseph220974/220974joseph/7950
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox Sports 2 HD" tvg-logo="" group-title="USA",USA: Fox Sports 2 HD
+http://mynetworks.info:80/joseph220974/220974joseph/7951
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox SPORTS 506 HD" tvg-logo="" group-title="USA",USA: Fox SPORTS 506 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8004
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOXX HD" tvg-logo="" group-title="USA",USA: FOXX HD
+http://mynetworks.info:80/joseph220974/220974joseph/8035
+#EXTINF:-1 tvg-id="" tvg-name="USA: FUEL HD" tvg-logo="" group-title="USA",USA: FUEL HD
+http://mynetworks.info:80/joseph220974/220974joseph/7986
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX HD" tvg-logo="" group-title="USA",USA: FX HD
+http://mynetworks.info:80/joseph220974/220974joseph/8036
+#EXTINF:-1 tvg-id="" tvg-name="USA: FXX" tvg-logo="" group-title="USA",USA: FXX
+http://mynetworks.info:80/joseph220974/220974joseph/7917
+#EXTINF:-1 tvg-id="" tvg-name="USA: H2" tvg-logo="" group-title="USA",USA: H2
+http://mynetworks.info:80/joseph220974/220974joseph/8037
+#EXTINF:-1 tvg-id="" tvg-name="USA: HALLMARK" tvg-logo="" group-title="USA",USA: HALLMARK
+http://mynetworks.info:80/joseph220974/220974joseph/8038
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Comedy" tvg-logo="" group-title="USA",USA: HBO Comedy
+http://mynetworks.info:80/joseph220974/220974joseph/7918
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO East" tvg-logo="" group-title="USA",USA: HBO East
+http://mynetworks.info:80/joseph220974/220974joseph/7919
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO HD" tvg-logo="" group-title="USA",USA: HBO HD
+http://mynetworks.info:80/joseph220974/220974joseph/7920
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Signature" tvg-logo="" group-title="USA",USA: HBO Signature
+http://mynetworks.info:80/joseph220974/220974joseph/7921
+#EXTINF:-1 tvg-id="" tvg-name="USA: HBO Zone" tvg-logo="" group-title="USA",USA: HBO Zone
+http://mynetworks.info:80/joseph220974/220974joseph/7922
+#EXTINF:-1 tvg-id="" tvg-name="USA: HGTV HD" tvg-logo="" group-title="USA",USA: HGTV HD
+http://mynetworks.info:80/joseph220974/220974joseph/7985
+#EXTINF:-1 tvg-id="" tvg-name="USA: HIFI" tvg-logo="" group-title="USA",USA: HIFI
+http://mynetworks.info:80/joseph220974/220974joseph/8039
+#EXTINF:-1 tvg-id="" tvg-name="USA: HISTORY HD" tvg-logo="" group-title="USA",USA: HISTORY HD
+http://mynetworks.info:80/joseph220974/220974joseph/7941
+#EXTINF:-1 tvg-id="" tvg-name="USA: HSN YT LIVE 1080p HD" tvg-logo="" group-title="USA",USA: HSN YT LIVE 1080p HD
+http://mynetworks.info:80/joseph220974/220974joseph/7978
+#EXTINF:-1 tvg-id="" tvg-name="USA: Investigation Discovery" tvg-logo="" group-title="USA",USA: Investigation Discovery
+http://mynetworks.info:80/joseph220974/220974joseph/7942
+#EXTINF:-1 tvg-id="" tvg-name="USA: ION Television East HD" tvg-logo="" group-title="USA",USA: ION Television East HD
+http://mynetworks.info:80/joseph220974/220974joseph/7965
+#EXTINF:-1 tvg-id="" tvg-name="USA: Lifetime Movie Network HD" tvg-logo="" group-title="USA",USA: Lifetime Movie Network HD
+http://mynetworks.info:80/joseph220974/220974joseph/7964
+#EXTINF:-1 tvg-id="" tvg-name="USA: MBL HD" tvg-logo="" group-title="USA",USA: MBL HD
+http://mynetworks.info:80/joseph220974/220974joseph/8005
+#EXTINF:-1 tvg-id="" tvg-name="USA: Mello TV" tvg-logo="" group-title="USA",USA: Mello TV
+http://mynetworks.info:80/joseph220974/220974joseph/7976
+#EXTINF:-1 tvg-id="" tvg-name="USA: MelloTV" tvg-logo="" group-title="USA",USA: MelloTV
+http://mynetworks.info:80/joseph220974/220974joseph/8045
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB Network" tvg-logo="" group-title="USA",USA: MLB Network
+http://mynetworks.info:80/joseph220974/220974joseph/8006
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSG HD" tvg-logo="" group-title="USA",USA: MSG HD
+http://mynetworks.info:80/joseph220974/220974joseph/7963
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSNBC HD" tvg-logo="" group-title="USA",USA: MSNBC HD
+http://mynetworks.info:80/joseph220974/220974joseph/8007
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV Rocks" tvg-logo="" group-title="USA",USA: MTV Rocks
+http://mynetworks.info:80/joseph220974/220974joseph/7984
+#EXTINF:-1 tvg-id="" tvg-name="USA: MY9 TV" tvg-logo="" group-title="USA",USA: MY9 TV
+http://mynetworks.info:80/joseph220974/220974joseph/7975
+#EXTINF:-1 tvg-id="" tvg-name="USA: National Geographic" tvg-logo="" group-title="USA",USA: National Geographic
+http://mynetworks.info:80/joseph220974/220974joseph/8040
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBA SD" tvg-logo="" group-title="USA",USA: NBA SD
+http://mynetworks.info:80/joseph220974/220974joseph/7923
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC" tvg-logo="" group-title="USA",USA: NBC
+http://mynetworks.info:80/joseph220974/220974joseph/7980
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC Golf" tvg-logo="" group-title="USA",USA: NBC Golf
+http://mynetworks.info:80/joseph220974/220974joseph/7943
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBCSNHD" tvg-logo="" group-title="USA",USA: NBCSNHD
+http://mynetworks.info:80/joseph220974/220974joseph/7952
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network 1" tvg-logo="" group-title="USA",USA: NFL Network 1
+http://mynetworks.info:80/joseph220974/220974joseph/7995
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network 1080i" tvg-logo="" group-title="USA",USA: NFL Network 1080i
+http://mynetworks.info:80/joseph220974/220974joseph/7908
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network HD" tvg-logo="" group-title="USA",USA: NFL Network HD
+http://mynetworks.info:80/joseph220974/220974joseph/7953
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL REDZONE SD" tvg-logo="" group-title="USA",USA: NFL REDZONE SD
+http://mynetworks.info:80/joseph220974/220974joseph/7907
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL Network(1)" tvg-logo="" group-title="USA",USA: NHL Network(1)
+http://mynetworks.info:80/joseph220974/220974joseph/8008
+#EXTINF:-1 tvg-id="" tvg-name="USA: NICKELODEN HD" tvg-logo="" group-title="USA",USA: NICKELODEN HD
+http://mynetworks.info:80/joseph220974/220974joseph/8041
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nursery Rhymes (Baby Songs)" tvg-logo="" group-title="USA",USA: Nursery Rhymes (Baby Songs)
+http://mynetworks.info:80/joseph220974/220974joseph/7974
+#EXTINF:-1 tvg-id="" tvg-name="USA: Offical Olympic Channel" tvg-logo="" group-title="USA",USA: Offical Olympic Channel
+http://mynetworks.info:80/joseph220974/220974joseph/8009
+#EXTINF:-1 tvg-id="" tvg-name="USA: OUTDOOR CHANNEL HD" tvg-logo="" group-title="USA",USA: OUTDOOR CHANNEL HD
+http://mynetworks.info:80/joseph220974/220974joseph/7983
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Arizona" tvg-logo="" group-title="USA",USA: PAC-12 Arizona
+http://mynetworks.info:80/joseph220974/220974joseph/7954
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Bay Area" tvg-logo="" group-title="USA",USA: PAC-12 Bay Area
+http://mynetworks.info:80/joseph220974/220974joseph/7955
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Los Angeles" tvg-logo="" group-title="USA",USA: PAC-12 Los Angeles
+http://mynetworks.info:80/joseph220974/220974joseph/7956
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Oregon" tvg-logo="" group-title="USA",USA: PAC-12 Oregon
+http://mynetworks.info:80/joseph220974/220974joseph/7957
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAC-12 Washington" tvg-logo="" group-title="USA",USA: PAC-12 Washington
+http://mynetworks.info:80/joseph220974/220974joseph/7958
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAG HD" tvg-logo="" group-title="USA",USA: PAG HD
+http://mynetworks.info:80/joseph220974/220974joseph/8010
+#EXTINF:-1 tvg-id="" tvg-name="USA: SEC Network" tvg-logo="" group-title="USA",USA: SEC Network
+http://mynetworks.info:80/joseph220974/220974joseph/8011
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime 2" tvg-logo="" group-title="USA",USA: Showtime 2
+http://mynetworks.info:80/joseph220974/220974joseph/7925
+#EXTINF:-1 tvg-id="" tvg-name="USA: SHOWTIME HD" tvg-logo="" group-title="USA",USA: SHOWTIME HD
+http://mynetworks.info:80/joseph220974/220974joseph/7926
+#EXTINF:-1 tvg-id="" tvg-name="USA: Showtime West" tvg-logo="" group-title="USA",USA: Showtime West
+http://mynetworks.info:80/joseph220974/220974joseph/7927
+#EXTINF:-1 tvg-id="" tvg-name="USA: Smile Of A Child" tvg-logo="" group-title="USA",USA: Smile Of A Child
+http://mynetworks.info:80/joseph220974/220974joseph/7982
+#EXTINF:-1 tvg-id="" tvg-name="USA: SPIKE HD" tvg-logo="" group-title="USA",USA: SPIKE HD
+http://mynetworks.info:80/joseph220974/220974joseph/8042
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sports-Net" tvg-logo="" group-title="USA",USA: Sports-Net
+http://mynetworks.info:80/joseph220974/220974joseph/8046
+#EXTINF:-1 tvg-id="" tvg-name="USA: Sportsnet 360 HD" tvg-logo="" group-title="USA",USA: Sportsnet 360 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8013
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Cinema" tvg-logo="" group-title="USA",USA: Starz Cinema
+http://mynetworks.info:80/joseph220974/220974joseph/7928
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Comedy" tvg-logo="" group-title="USA",USA: Starz Comedy
+http://mynetworks.info:80/joseph220974/220974joseph/7929
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz East" tvg-logo="" group-title="USA",USA: Starz East
+http://mynetworks.info:80/joseph220974/220974joseph/7930
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ EDGE HD" tvg-logo="" group-title="USA",USA: STARZ EDGE HD
+http://mynetworks.info:80/joseph220974/220974joseph/8043
+#EXTINF:-1 tvg-id="" tvg-name="USA: Starz Encore" tvg-logo="" group-title="USA",USA: Starz Encore
+http://mynetworks.info:80/joseph220974/220974joseph/7931
+#EXTINF:-1 tvg-id="" tvg-name="USA: SYFY HD" tvg-logo="" group-title="USA",USA: SYFY HD
+http://mynetworks.info:80/joseph220974/220974joseph/7945
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS HD" tvg-logo="" group-title="USA",USA: TBS HD
+http://mynetworks.info:80/joseph220974/220974joseph/8012
+#EXTINF:-1 tvg-id="" tvg-name="USA: Tennis Channel HD" tvg-logo="" group-title="USA",USA: Tennis Channel HD
+http://mynetworks.info:80/joseph220974/220974joseph/7932
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE FLORIDA CHANNEL" tvg-logo="" group-title="USA",USA: THE FLORIDA CHANNEL
+http://mynetworks.info:80/joseph220974/220974joseph/7973
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC HD" tvg-logo="" group-title="USA",USA: TLC HD
+http://mynetworks.info:80/joseph220974/220974joseph/7959
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT HD" tvg-logo="" group-title="USA",USA: TNT HD
+http://mynetworks.info:80/joseph220974/220974joseph/7946
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 1" tvg-logo="" group-title="USA",USA: TSN 1
+http://mynetworks.info:80/joseph220974/220974joseph/8014
+#EXTINF:-1 tvg-id="" tvg-name="USA: TSN 3*" tvg-logo="" group-title="USA",USA: TSN 3*
+http://mynetworks.info:80/joseph220974/220974joseph/8016
+#EXTINF:-1 tvg-id="" tvg-name="USA: USA Network HD" tvg-logo="" group-title="USA",USA: USA Network HD
+http://mynetworks.info:80/joseph220974/220974joseph/8044
+#EXTINF:-1 tvg-id="" tvg-name="USA: Versus HD" tvg-logo="" group-title="USA",USA: Versus HD
+http://mynetworks.info:80/joseph220974/220974joseph/7960
+#EXTINF:-1 tvg-id="" tvg-name="USA: VH1 Classic" tvg-logo="" group-title="USA",USA: VH1 Classic
+http://mynetworks.info:80/joseph220974/220974joseph/7981
+#EXTINF:-1 tvg-id="" tvg-name="USA: WEATHERNATION" tvg-logo="" group-title="USA",USA: WEATHERNATION
+http://mynetworks.info:80/joseph220974/220974joseph/7972
+#EXTINF:-1 tvg-id="" tvg-name="USA: WGN America HD" tvg-logo="" group-title="USA",USA: WGN America HD
+http://mynetworks.info:80/joseph220974/220974joseph/7962
+#EXTINF:-1 tvg-id="" tvg-name="USA: WGN News Chicago" tvg-logo="" group-title="USA",USA: WGN News Chicago
+http://mynetworks.info:80/joseph220974/220974joseph/7971
+#EXTINF:-1 tvg-id="" tvg-name="USA: WWE HD" tvg-logo="" group-title="USA",USA: WWE HD
+http://mynetworks.info:80/joseph220974/220974joseph/7961
+#EXTINF:-1 tvg-id="" tvg-name="USA: Yes Network" tvg-logo="" group-title="USA",USA: Yes Network
+http://mynetworks.info:80/joseph220974/220974joseph/7970
+#EXTINF:-1 tvg-id="" tvg-name="USA: YTV" tvg-logo="" group-title="USA",USA: YTV
+http://mynetworks.info:80/joseph220974/220974joseph/7969
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN MOVIE" tvg-logo="" group-title="USA",USA: AFN MOVIE
+http://mynetworks.info:80/joseph220974/220974joseph/8020
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN NEWS" tvg-logo="" group-title="USA",USA: AFN NEWS
+http://mynetworks.info:80/joseph220974/220974joseph/8021
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN PRIME ATLANTIC" tvg-logo="" group-title="USA",USA: AFN PRIME ATLANTIC
+http://mynetworks.info:80/joseph220974/220974joseph/8022
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN PRIME PACIFIC" tvg-logo="" group-title="USA",USA: AFN PRIME PACIFIC
+http://mynetworks.info:80/joseph220974/220974joseph/8023
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN PULSE" tvg-logo="" group-title="USA",USA: AFN PULSE
+http://mynetworks.info:80/joseph220974/220974joseph/8024
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN SPECTRUM" tvg-logo="" group-title="USA",USA: AFN SPECTRUM
+http://mynetworks.info:80/joseph220974/220974joseph/8025
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN SPORTS" tvg-logo="" group-title="USA",USA: AFN SPORTS
+http://mynetworks.info:80/joseph220974/220974joseph/8026
+#EXTINF:-1 tvg-id="" tvg-name="USA: AFN SPORTS 2" tvg-logo="" group-title="USA",USA: AFN SPORTS 2
+http://mynetworks.info:80/joseph220974/220974joseph/8027
+#EXTINF:-1 tvg-id="" tvg-name="USA:CA | TSN 4 HD" tvg-logo="" group-title="USA",USA:CA | TSN 4 HD
+http://mynetworks.info:80/joseph220974/220974joseph/8017
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN HD" tvg-logo="" group-title="USA",USA: CNN HD
+http://mynetworks.info:80/joseph220974/220974joseph/8001
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN US HD" tvg-logo="" group-title="USA",USA: CNN US HD
+http://mynetworks.info:80/joseph220974/220974joseph/7968
+#EXTINF:-1 tvg-id="" tvg-name="USA: COMEDY CENTRAL HD" tvg-logo="" group-title="USA",USA: COMEDY CENTRAL HD
+http://mynetworks.info:80/joseph220974/220974joseph/7937
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW HD" tvg-logo="" group-title="USA",USA: CW HD
+http://mynetworks.info:80/joseph220974/220974joseph/7938
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW11" tvg-logo="" group-title="USA",USA: CW11
+http://mynetworks.info:80/joseph220974/220974joseph/7989
+#EXTINF:-1 tvg-id="" tvg-name="USA: DISCCOVERY HD" tvg-logo="" group-title="USA",USA: DISCCOVERY HD
+http://mynetworks.info:80/joseph220974/220974joseph/7914
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery HD Showcase" tvg-logo="" group-title="USA",USA: Discovery HD Showcase
+http://mynetworks.info:80/joseph220974/220974joseph/7988
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Science HD" tvg-logo="" group-title="USA",USA: Discovery Science HD
+http://mynetworks.info:80/joseph220974/220974joseph/8032
+#EXTINF:-1 tvg-id="" tvg-name="USA: DIY Network" tvg-logo="" group-title="USA",USA: DIY Network
+http://mynetworks.info:80/joseph220974/220974joseph/8033
+#EXTINF:-1 tvg-id="" tvg-name="USA: DW" tvg-logo="" group-title="USA",USA: DW
+http://mynetworks.info:80/joseph220974/220974joseph/7915
+#EXTINF:-1 tvg-id="" tvg-name="USA:BeinSports.usa" tvg-logo="" group-title="USA",USA:BeinSports.usa
+http://mynetworks.info:80/joseph220974/220974joseph/5736
+#EXTINF:-1 tvg-id="" tvg-name="USA:Astro.Supersport1" tvg-logo="" group-title="USA",USA:Astro.Supersport1
+http://mynetworks.info:80/joseph220974/220974joseph/5735
+#EXTINF:-1 tvg-id="" tvg-name="USA:Astro.Supersport2" tvg-logo="" group-title="USA",USA:Astro.Supersport2
+http://mynetworks.info:80/joseph220974/220974joseph/5734
+#EXTINF:-1 tvg-id="" tvg-name="USA:Astro.Supersport3" tvg-logo="" group-title="USA",USA:Astro.Supersport3
+http://mynetworks.info:80/joseph220974/220974joseph/5733
+#EXTINF:-1 tvg-id="" tvg-name="USA:Astro.Supersport 4" tvg-logo="" group-title="USA",USA:Astro.Supersport 4
+http://mynetworks.info:80/joseph220974/220974joseph/5732
+#EXTINF:-1 tvg-id="" tvg-name="USA:AFN.Family" tvg-logo="" group-title="USA",USA:AFN.Family
+http://mynetworks.info:80/joseph220974/220974joseph/5710
+#EXTINF:-1 tvg-id="" tvg-name="USA:AFN.Movie" tvg-logo="" group-title="USA",USA:AFN.Movie
+http://mynetworks.info:80/joseph220974/220974joseph/5711
+#EXTINF:-1 tvg-id="" tvg-name="USA:AFN.Prime.Atlantic" tvg-logo="" group-title="USA",USA:AFN.Prime.Atlantic
+http://mynetworks.info:80/joseph220974/220974joseph/5712
+#EXTINF:-1 tvg-id="" tvg-name="USA:AFN.Prime.Pacific" tvg-logo="" group-title="USA",USA:AFN.Prime.Pacific
+http://mynetworks.info:80/joseph220974/220974joseph/5713
+#EXTINF:-1 tvg-id="" tvg-name="USA:AMC" tvg-logo="" group-title="USA",USA:AMC
+http://mynetworks.info:80/joseph220974/220974joseph/5707
+#EXTINF:-1 tvg-id="" tvg-name="USA:Animal.Planet" tvg-logo="" group-title="USA",USA:Animal.Planet
+http://mynetworks.info:80/joseph220974/220974joseph/5701
+#EXTINF:-1 tvg-id="" tvg-name="USA:Bravo" tvg-logo="" group-title="USA",USA:Bravo
+http://mynetworks.info:80/joseph220974/220974joseph/5704
+#EXTINF:-1 tvg-id="" tvg-name="USA:Cinemax.East" tvg-logo="" group-title="USA",USA:Cinemax.East
+http://mynetworks.info:80/joseph220974/220974joseph/5709
+#EXTINF:-1 tvg-id="" tvg-name="USA:Cinemax.Moremax" tvg-logo="" group-title="USA",USA:Cinemax.Moremax
+http://mynetworks.info:80/joseph220974/220974joseph/5708
+#EXTINF:-1 tvg-id="" tvg-name="USA:Discovery" tvg-logo="" group-title="USA",USA:Discovery
+http://mynetworks.info:80/joseph220974/220974joseph/5703
+#EXTINF:-1 tvg-id="" tvg-name="USA:Discovery.Science" tvg-logo="" group-title="USA",USA:Discovery.Science
+http://mynetworks.info:80/joseph220974/220974joseph/5702
+#EXTINF:-1 tvg-id="" tvg-name="USA:ESPN1" tvg-logo="" group-title="USA",USA:ESPN1
+http://mynetworks.info:80/joseph220974/220974joseph/5729
+#EXTINF:-1 tvg-id="" tvg-name="USA:ESPN2" tvg-logo="" group-title="USA",USA:ESPN2
+http://mynetworks.info:80/joseph220974/220974joseph/5728
+#EXTINF:-1 tvg-id="" tvg-name="USA:Fox.Sport1" tvg-logo="" group-title="USA",USA:Fox.Sport1
+http://mynetworks.info:80/joseph220974/220974joseph/5731
+#EXTINF:-1 tvg-id="" tvg-name="USA:Fox.Sport2" tvg-logo="" group-title="USA",USA:Fox.Sport2
+http://mynetworks.info:80/joseph220974/220974joseph/5730
+#EXTINF:-1 tvg-id="" tvg-name="USA:Hallmark" tvg-logo="" group-title="USA",USA:Hallmark
+http://mynetworks.info:80/joseph220974/220974joseph/5718
+#EXTINF:-1 tvg-id="" tvg-name="USA:HBO" tvg-logo="" group-title="USA",USA:HBO
+http://mynetworks.info:80/joseph220974/220974joseph/5717
+#EXTINF:-1 tvg-id="" tvg-name="USA:HBO.Sinature" tvg-logo="" group-title="USA",USA:HBO.Sinature
+http://mynetworks.info:80/joseph220974/220974joseph/5715
+#EXTINF:-1 tvg-id="" tvg-name="USA:HBO.Zone" tvg-logo="" group-title="USA",USA:HBO.Zone
+http://mynetworks.info:80/joseph220974/220974joseph/5716
+#EXTINF:-1 tvg-id="" tvg-name="USA:HBO2.Comedy" tvg-logo="" group-title="USA",USA:HBO2.Comedy
+http://mynetworks.info:80/joseph220974/220974joseph/5714
+#EXTINF:-1 tvg-id="" tvg-name="USA:Lifetime" tvg-logo="" group-title="USA",USA:Lifetime
+http://mynetworks.info:80/joseph220974/220974joseph/5705
+#EXTINF:-1 tvg-id="" tvg-name="USA:Showtime.Next" tvg-logo="" group-title="USA",USA:Showtime.Next
+http://mynetworks.info:80/joseph220974/220974joseph/5719
+#EXTINF:-1 tvg-id="" tvg-name="USA:Showtime.Showcase" tvg-logo="" group-title="USA",USA:Showtime.Showcase
+http://mynetworks.info:80/joseph220974/220974joseph/5720
+#EXTINF:-1 tvg-id="" tvg-name="USA:TNT" tvg-logo="" group-title="USA",USA:TNT
+http://mynetworks.info:80/joseph220974/220974joseph/5706
+#EXTINF:-1 tvg-id="" tvg-name="USA:TSN1" tvg-logo="" group-title="USA",USA:TSN1
+http://mynetworks.info:80/joseph220974/220974joseph/5727
+#EXTINF:-1 tvg-id="" tvg-name="USA:TSN2" tvg-logo="" group-title="USA",USA:TSN2
+http://mynetworks.info:80/joseph220974/220974joseph/5726
+#EXTINF:-1 tvg-id="" tvg-name="USA:TSN3" tvg-logo="" group-title="USA",USA:TSN3
+http://mynetworks.info:80/joseph220974/220974joseph/5725
+#EXTINF:-1 tvg-id="" tvg-name="USA:TSN4" tvg-logo="" group-title="USA",USA:TSN4
+http://mynetworks.info:80/joseph220974/220974joseph/5724
+#EXTINF:-1 tvg-id="" tvg-name="USA:TSN5" tvg-logo="" group-title="USA",USA:TSN5
+http://mynetworks.info:80/joseph220974/220974joseph/5723
+#EXTINF:-1 tvg-id="" tvg-name="USA:USA.Network" tvg-logo="" group-title="USA",USA:USA.Network
+http://mynetworks.info:80/joseph220974/220974joseph/5721
+#EXTINF:-1 tvg-id="" tvg-name="USA:WWE.Network" tvg-logo="" group-title="USA",USA:WWE.Network
+http://mynetworks.info:80/joseph220974/220974joseph/5722
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport1" tvg-logo="" group-title="FRENCH",FR:BeinSport1
+http://mynetworks.info:80/joseph220974/220974joseph/7718
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport2" tvg-logo="" group-title="FRENCH",FR:BeinSport2
+http://mynetworks.info:80/joseph220974/220974joseph/7716
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport3" tvg-logo="" group-title="FRENCH",FR:BeinSport3
+http://mynetworks.info:80/joseph220974/220974joseph/7714
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport1.HD" tvg-logo="" group-title="FRENCH",FR:BeinSport1.HD
+http://mynetworks.info:80/joseph220974/220974joseph/7717
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport2.HD" tvg-logo="" group-title="FRENCH",FR:BeinSport2.HD
+http://mynetworks.info:80/joseph220974/220974joseph/7715
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport3.HD" tvg-logo="" group-title="FRENCH",FR:BeinSport3.HD
+http://mynetworks.info:80/joseph220974/220974joseph/7713
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport.Max4" tvg-logo="" group-title="FRENCH",FR:BeinSport.Max4
+http://mynetworks.info:80/joseph220974/220974joseph/7712
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport.Max5" tvg-logo="" group-title="FRENCH",FR:BeinSport.Max5
+http://mynetworks.info:80/joseph220974/220974joseph/7711
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport.Max6" tvg-logo="" group-title="FRENCH",FR:BeinSport.Max6
+http://mynetworks.info:80/joseph220974/220974joseph/7710
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport.Max7" tvg-logo="" group-title="FRENCH",FR:BeinSport.Max7
+http://mynetworks.info:80/joseph220974/220974joseph/7709
+#EXTINF:-1 tvg-id="" tvg-name="FR:BeinSport.Max8" tvg-logo="" group-title="FRENCH",FR:BeinSport.Max8
+http://mynetworks.info:80/joseph220974/220974joseph/7708
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsport1.SD" tvg-logo="" group-title="FRENCH",FR:beinsport1.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7568
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports2.SD" tvg-logo="" group-title="FRENCH",FR:beinsports2.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7567
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports3.SD" tvg-logo="" group-title="FRENCH",FR:beinsports3.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7566
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports4.SD" tvg-logo="" group-title="FRENCH",FR:beinsports4.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7565
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports5.SD" tvg-logo="" group-title="FRENCH",FR:beinsports5.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7564
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports6.SD" tvg-logo="" group-title="FRENCH",FR:beinsports6.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7563
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports7.SD" tvg-logo="" group-title="FRENCH",FR:beinsports7.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7562
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports8.SD" tvg-logo="" group-title="FRENCH",FR:beinsports8.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7561
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports9.SD" tvg-logo="" group-title="FRENCH",FR:beinsports9.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7560
+#EXTINF:-1 tvg-id="" tvg-name="FR:beinsports10.SD" tvg-logo="" group-title="FRENCH",FR:beinsports10.SD
+http://mynetworks.info:80/joseph220974/220974joseph/7559
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport1.SD" tvg-logo="" group-title="FRENCH",FR:RMC.Sport1.SD
+http://mynetworks.info:80/joseph220974/220974joseph/8766
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport2" tvg-logo="" group-title="FRENCH",FR:RMC.Sport2
+http://mynetworks.info:80/joseph220974/220974joseph/8765
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport2.HD" tvg-logo="" group-title="FRENCH",FR:RMC.Sport2.HD
+http://mynetworks.info:80/joseph220974/220974joseph/8764
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport2.SD" tvg-logo="" group-title="FRENCH",FR:RMC.Sport2.SD
+http://mynetworks.info:80/joseph220974/220974joseph/8763
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport3" tvg-logo="" group-title="FRENCH",FR:RMC.Sport3
+http://mynetworks.info:80/joseph220974/220974joseph/8762
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport3.HD" tvg-logo="" group-title="FRENCH",FR:RMC.Sport3.HD
+http://mynetworks.info:80/joseph220974/220974joseph/8761
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport3.SD" tvg-logo="" group-title="FRENCH",FR:RMC.Sport3.SD
+http://mynetworks.info:80/joseph220974/220974joseph/8760
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport4.HD" tvg-logo="" group-title="FRENCH",FR:RMC.Sport4.HD
+http://mynetworks.info:80/joseph220974/220974joseph/8759
+#EXTINF:-1 tvg-id="" tvg-name="FR:RMC.Sport4.SD" tvg-logo="" group-title="FRENCH",FR:RMC.Sport4.SD
+http://mynetworks.info:80/joseph220974/220974joseph/8758
+#EXTINF:-1 tvg-id="" tvg-name="[FR] France1" tvg-logo="" group-title="FRENCH",[FR] France1
+http://mynetworks.info:80/joseph220974/220974joseph/2198
+#EXTINF:-1 tvg-id="" tvg-name="[FR] France2" tvg-logo="" group-title="FRENCH",[FR] France2
+http://mynetworks.info:80/joseph220974/220974joseph/2197
+#EXTINF:-1 tvg-id="" tvg-name="[FR] France3" tvg-logo="" group-title="FRENCH",[FR] France3
+http://mynetworks.info:80/joseph220974/220974joseph/2196
+#EXTINF:-1 tvg-id="" tvg-name="[FR] France4" tvg-logo="" group-title="FRENCH",[FR] France4
+http://mynetworks.info:80/joseph220974/220974joseph/2195
+#EXTINF:-1 tvg-id="" tvg-name="[FR] France5" tvg-logo="" group-title="FRENCH",[FR] France5
+http://mynetworks.info:80/joseph220974/220974joseph/2194
+#EXTINF:-1 tvg-id="" tvg-name="FR:ARTE" tvg-logo="" group-title="FRENCH",FR:ARTE
+http://mynetworks.info:80/joseph220974/220974joseph/7694
+#EXTINF:-1 tvg-id="" tvg-name="FR:ARTE.HD" tvg-logo="" group-title="FRENCH",FR:ARTE.HD
+http://mynetworks.info:80/joseph220974/220974joseph/7693
+#EXTINF:-1 tvg-id="" tvg-name="FR:Animaux" tvg-logo="" group-title="FRENCH",FR:Animaux
+http://mynetworks.info:80/joseph220974/220974joseph/7782
+#EXTINF:-1 tvg-id="" tvg-name="FR:Animaux.HD" tvg-logo="" group-title="FRENCH",FR:Animaux.HD
+http://mynetworks.info:80/joseph220974/220974joseph/7781
+#EXTINF:-1 tvg-id="" tvg-name="FR:Beblack" tvg-logo="" group-title="FRENCH",FR:Beblack
+http://mynetworks.info:80/joseph220974/220974joseph/7700
+#EXTINF:-1 tvg-id="" tvg-name="FR:Beblack.Caribbean" tvg-logo="" group-title="FRENCH",FR:Beblack.Caribbean
+http://mynetworks.info:80/joseph220974/220974joseph/7699
+#EXTINF:-1 tvg-id="" tvg-name="FR:!.Entertaiment" tvg-logo="" group-title="FRENCH",FR:!.Entertaiment
+http://mynetworks.info:80/joseph220974/220974joseph/7807
 
 
 
