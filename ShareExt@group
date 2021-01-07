@@ -732,8 +732,8 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CelestiaMovie馃嚥馃嚲馃嚥馃嚲馃嚥馃嚲
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CCM馃嚥馃嚲馃嚥馃嚲馃嚥馃嚲
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CelestiaMovie馃嚥馃嚲馃嚥馃嚲馃嚥馃嚲
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",HBO馃嚥馃嚲馃嚥馃嚲馃嚥馃嚲
