@@ -363,15 +363,15 @@ http://103.55.39.181/~codaymas/coday_play.m3u8?shinta=open_bid_script_codaytv&co
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",Tvone
-http://185.238.0.145:1313/c/ku/see/l.php?a=tvone
+http://185.238.0.145:1313/c/ku/see/l.php?a=tvone(setAuto)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",Antv
-http://185.238.0.145:1313/c/ku/see/l.php?a=antv
+http://185.238.0.145:1313/c/ku/see/l.php?a=antv(setAuto)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",SinemaIndonesia
-http://185.238.0.145:1313/c/ku/see/l.php?a=sinemaindonesia
+http://185.238.0.145:1313/c/ku/see/l.php?a=sinemaindonesia(setAuto)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",SinemaIndonesia X
-http://185.238.0.145:1313/c/ku/see/l.php?a=sinemaindonesia-x
+http://185.238.0.145:1313/c/ku/see/l.php?a=sinemaindonesia-x(setAuto)
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",LotusMacau
-http://185.238.0.145:1313/c/ku/see/l.php?a=lotusmacau
+http://185.238.0.145:1313/c/ku/see/l.php?a=lotusmacau(setAuto)
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="ShareExt@Local", INDOSIAR
