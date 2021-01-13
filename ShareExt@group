@@ -4605,6 +4605,31 @@ http://tyciptv.site:8080/ΓΚΕΣΙΟΣ/749cd2af/14
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Supersports 1 
+http://tv.wakds.xyz:8080/Mission/mulit1222/120
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Supersports 2 
+http://tv.wakds.xyz:8080/Mission/mulit1222/121
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Supersports 3 
+http://tv.wakds.xyz:8080/Mission/mulit1222/122
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Supersports 4 
+http://tv.wakds.xyz:8080/Mission/mulit1222/123
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",BeIN 1 Sports HD
+http://tv.wakds.xyz:8080/Mission/mulit1222/132
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",BeIN 2 Sports HD
+http://tv.wakds.xyz:8080/Mission/mulit1222/133
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",BeIN 3 Sports HD
+http://tv.wakds.xyz:8080/Mission/mulit1222/134
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",BeIN 7 Sports HD
+http://tv.wakds.xyz:8080/Mission/mulit1222/137
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",BeIN 12 Sports HD
+http://tv.wakds.xyz:8080/Mission/mulit1222/142
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",BeIN 13 Sports HD
+http://tv.wakds.xyz:8080/Mission/mulit1222/143
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Fox Sports 3
+http://tv.wakds.xyz:8080/Mission/mulit1222/90
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",Arena
+http://tv.wakds.xyz:8080/Mission/mulit1222/164
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",ASSP1
 http://185.238.0.145:1313/c/g/astrosupersoprt.m3u8
