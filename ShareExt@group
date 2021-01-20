@@ -579,27 +579,6 @@ http://103.55.39.181/~codaymas/coday_play.m3u8?shinta=open_bid_script_codaytv&co
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 1 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3040
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 2 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3041
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 3 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3042
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 4 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3043
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 5 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3044
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 6 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3045
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 7 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3046
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 8 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3047
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 9 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3048
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/C1pQbC1D/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png" group-title="BEINSPORT LIVE",Beln-Sport 10 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3049
-
 
 
 
@@ -4284,29 +4263,6 @@ http://146.59.145.53:80/anna/anna/99255
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 9 HD FR
-http://146.59.145.53:80/anna/anna/170641
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 8 HD FR
-http://146.59.145.53:80/anna/anna/170640
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 7 HD FR
-http://146.59.145.53:80/anna/anna/170639
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 6 HD FR
-http://146.59.145.53:80/anna/anna/170638
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 5 HD FR
-http://146.59.145.53:80/anna/anna/170637
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 4 HD FR
-http://146.59.145.53:80/anna/anna/170636
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 3 HD FR
-http://146.59.145.53:80/anna/anna/170635
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 2 HD FR
-http://146.59.145.53:80/anna/anna/170634
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS MOVIES 1 HD FR
-http://146.59.145.53:80/anna/anna/170633
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|BOSS BOX OFFICE |FR|
-http://146.59.145.53:80/anna/anna/170632
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@FR BOSS MOVIES",|FR|ACTION HD
-http://146.59.145.53:80/anna/anna/170631
-
 
 
 
@@ -4914,80 +4870,6 @@ https://vcdnjt.useetv.com/dass/15/useesports2/chunklist_w1021856449_b1344100_sle
 
 
 
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Беларусь 5 HD
-https://95-213-224-181.livesports24.online/belarusss5.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",ФУТБОЛ 2
-https://95-213-224-181.livesports24.online/fooootball2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Футбол 3
-https://95-213-224-181.livesports24.online/football3ua.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",МАТЧ! ФУТБОЛ 2
-https://95-213-224-181.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",МАТЧ! ФУТБОЛ 1
-https://95-213-224-181.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",МАТЧ! ФУТБОЛ 3
-https://95-213-224-181.livesports24.online/rumatchf3.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport Ukraine
-https://95-213-224-181.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",2+2
-https://95-213-224-181.livesports24.online/ua2plus2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",ФУТБОЛ 1
-https://95-213-224-181.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Унiан
-https://95-213-224-181.livesports24.online/uniantv.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Футбол 3 HD
-https://95-213-224-181.livesports24.online/football3ua.m3u8?415415000861a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",ФУТБОЛ
-https://95-213-224-181.livesports24.online/footballrus.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",КХЛ ТВ HD
-https://95-213-224-181.livesports24.online/khlhdru.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Матч! Боец
-https://95-213-224-181.livesports24.online/matchboetsru.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",МАТЧ! Планета
-https://95-213-224-181.livesports24.online/matchplanetarus.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Матч! Игра
-https://95-213-224-181.livesports24.online/migra.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",МАТЧ! Страна
-https://95-213-224-181.livesports24.online/mnashsport.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",МАТЧ! Премьер
-https://95-213-224-181.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Матч!
-https://95-213-224-181.livesports24.online/ooomatch.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",КХЛ ТВ
-https://95-213-224-181.livesports24.online/rukhl.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Матч! Арена
-https://95-213-224-181.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport 1
-https://95-213-224-181.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Eurosport 2
-https://95-213-224-181.livesports24.online/ruseurosport2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport 2
-https://95-213-224-181.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Setanta Sport + Ukraine
-https://95-213-224-181.livesports24.online/setantaplusukr.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Sport 1
-https://95-213-224-181.livesports24.online/sport1ua.m3u8?415415000861a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",ФУТБОЛ 1 HD
-https://95-213-224-181.livesports24.online/uafootballua1.m3u8?415415000861a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",ФУТБОЛ 2
-https://95-213-224-181.livesports24.online/fooootball2.m3u8?413609997246
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Футбол 3
-https://95-213-224-181.livesports24.online/football3ua.m3u8?415414995869a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",ФУТБОЛ 1
-https://95-213-224-181.livesports24.online/uafootballua1.m3u8?415414995869a?413609997246
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",ФУТБОЛ 2
-https://95-213-224-181.livesports24.online/fooootball2.m3u8?413079063374
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",ФУТБОЛ 1
-https://95-213-224-181.livesports24.online/uafootballua1.m3u8?413079063374
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Спорт 1
-https://95-213-224-181.livesports24.online/sport1ua.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Спорт 1
-https://95-213-224-181.livesports24.online/sport1ua.m3u8?885415001050a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Футбол 1 HD
-https://95-213-224-181.livesports24.online/uafootballua1.m3u8?885415001050a
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@RUSIASport",Футбол 3 HD
-https://95-213-224-181.livesports24.online/football3ua.m3u8?885415001050a
 
 
 
@@ -5637,59 +5519,6 @@ https://edge6a.v2h-cdn.com/v2h/V2H13.stream_360p/playlist.m3u8
 https://edge6a.v2h-cdn.com/v2h/V2H14.stream_360p/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@LAOS/KAMBODIA",ราม่า
 https://edge6a.v2h-cdn.com/v2h/V2H15.stream_360p/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 1 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3040
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 2 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3041
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 3 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3042
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 4 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3043
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 5 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3044
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 6 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3045
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 7 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3046
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 8 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3047
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 9 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3048
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ARbeinsportFullHD",Beln-Sport 10 FULL HD 1080P
-http://anadol.co:25461/52836373/56393627/3049
-
-
-
-
-
-
-
-
-
-
 
 
 
