@@ -195,6 +195,123 @@ http://122.248.43.138:1935/ch3/myStream/live.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/9lMwU2a5XuS_mPbbxiMRIR2ZGfQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" tvg-id="RIYAN.6576cafd489f80bae7b0e1f2f70d0132.SHINTA" tvg-name"[CODAY] Champions TV 1 _VIDIO" group-title="SPORTS",Champions TV 1 _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=f72f78a365657d56853b6867fb37dc3c102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zVTqzS-Vwnp_mhhekbD0xVUdBdI=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" tvg-id="RIYAN.07be6ae49df3e0bf021fea97de5e86f0.SHINTA" tvg-name"[CODAY] Champions TV 2 _VIDIO" group-title="SPORTS",Champions TV 2 _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.ca089a054d629131a6aa002731ceeb33.SHINTA" tvg-name"[CODAY] Champions TV 3 _VIDIO" group-title="SPORTS",Champions TV 3 _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.17e62166fc8586dfa4d1bc0e1742c08b.Coday" tvg-name"[CODAY] beIN Sport 1 _USEETV",beIN Sport 1 _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=efd691fcfb139570442e93d2d3af3ce6cfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.45c48cce2e2d7fbdea1afc51c7c6ad26.Coday" tvg-name"[CODAY] beIN Sport 2 _USEETV",beIN Sport 2 _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=8492a79c13ef3e4c30f1872d75fd8e81cfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.67c6a1e7ce56d3d6fa748ab6d9af3fd7.Coday" tvg-name"[CODAY] NBA _USEETV",NBA _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=8e617358cf86c2b4ce01ad8309d2ac33cfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png?id=8" group-title="SPORTS" tvg-id="Riyan.6c8349cc7260ae62e3b1396831a8398f.Coday" tvg-name"[CODAY] Champion TV 1 _USEETV",Champion TV 1 _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=08b00412925ca3fc9f19ad97fc52af0ecfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png?id=8" group-title="SPORTS" tvg-id="Riyan.6f4922f45568161a8cdf4ad2299f6d23.Coday" tvg-name"[CODAY] Champion TV 2 _USEETV",Champion TV 2 _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=7f1e60a81b19143d67fa4a3d71c9e6c7cfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?id=8" group-title="SPORTS" tvg-id="Riyan.e4da3b7fbbce2345d7772b0674a318d5.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sport 1 _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=4938af744b253b57bcf6f33d3dbf2f38cfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?id=8" group-title="SPORTS" tvg-id="Riyan.b6d767d2f8ed5d21a44b0e5886680cb9.Coday" tvg-name"[CODAY] Fox Sport 2 _USEETV",Fox Sport 2 _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=9ca5d4a6246ad7c88e8663da026f1cbdcfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?id=8" group-title="SPORTS" tvg-id="Riyan.aab3238922bcc25a6f606eb525ffdc56.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sport 3 _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=c372de9c52ad3489a20563ceca0ffb48cfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.e4da3b7fbbce2345d7772b0674a318d5.Coday" tvg-name"[CODAY] Golf _USEETV",Golf _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=85a8ee49afe0dc9d4ee65374857c127ecfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?id=8" group-title="SPORTS" tvg-id="Riyan.d9d4f495e875a2e075a1a4a6e1b9770f.Coday" tvg-name"[CODAY] UseeSports _USEETV",UseeSports _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=4c19ad20295739012508db9f189d9da4cfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png?id=8" group-title="SPORTS" tvg-id="Riyan.c81e728d9d4c2f636f067f89cc14862c.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=411383497a7771cce71f615a99268a43cfe21fd6a6a1cdeef201cc55e4ffd23d
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?id=8" group-title="SPORTS" tvg-id="Riyan.f457c545a9ded88f18ecee47145a72c0.Coday" tvg-name"[CODAY] egg network _USEETV",egg network _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=684dd6fcc268a122d3d8867a18e32164&cdy=0e9312087f58f367d001ec9bae8f325acfe21fd6a6a1cdeef201cc55e4ffd23d
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.38bf90d162fa0af7c8a01ab573acccbf.SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="LOCAL",Indosiar _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4GJ-iEb0yjB6PlyNKbzIuX6Z2yw=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/f05e3e.jpg" tvg-id="RIYAN.4808a44a3368b4007b6aa523ba0f71f5.SHINTA" tvg-name"[CODAY] MNC _VIDIO" group-title="LOCAL",MNC _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/L3oED-RtMvtUmeLXarwNpC9fUSQ=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/635a1c.jpg" tvg-id="RIYAN.4fdb0ff77aeb13a6fbd021058273ced8.SHINTA" tvg-name"[CODAY] RCTI _VIDIO" group-title="LOCAL",RCTI _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qP4ACF-N0i-Oh1GyPZ6wUuWRzvM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/778/41be2c.jpg" tvg-id="RIYAN.2da6ced1e259393f03e20eb12d78df28.SHINTA" tvg-name"[CODAY] GTV _VIDIO" group-title="LOCAL",GTV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708e102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/t4f1piVqNWbpIWO2czRJvu9Ht6g=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/87f1aa.png" tvg-id="RIYAN.d2adbb3bfbe888438011b817a3a9bbe2.SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="LOCAL",SCTV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oznMlqHunOdzDHDYDXWU2PJYK34=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" tvg-id="RIYAN.1e7630899eb4d1ee3333a7b0def34847.SHINTA" tvg-name"[CODAY] Ochannel _VIDIO" group-title="LOCAL",Ochannel _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659f102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="LOCAL",ANTV _DENS
+http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="LOCAL",TVONE _DENS
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LveTiruIzIi7xfIe0bp6BH097SY=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/5ed6aa.png" tvg-id="RIYAN.08ffb81c180d90047381db6c47d427cc.SHINTA" tvg-name"[CODAY] Kompas TV _VIDIO" group-title="LOCAL",Kompas TV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ZMhxlBLkvFjPT9JwTJDQDP03hGo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6165/1cfec2.png" tvg-id="RIYAN.86e5ab41bc898fbf4303e0d2fa76769d.SHINTA" tvg-name"[CODAY] BeritaSatu _VIDIO" group-title="LOCAL",BeritaSatu _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3qJzB7DThwYsbWIrCcCtAnWHoTM=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/6d4e21.png" tvg-id="RIYAN.8518c2a8a3d08cf9a01db3854f2b5198.SHINTA" tvg-name"[CODAY] Metro TV _VIDIO" group-title="LOCAL",Metro TV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8Hhfk0eHDRj61vC5nbyF7TSXPDo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cd8bd1.png" tvg-id="RIYAN.9a959ed2d0ae7f839d1b6f68d9625485.SHINTA" tvg-name"[CODAY] NET TV _VIDIO" group-title="LOCAL",NET TV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/a4gnMcQXpnYE7rArRkCarFdfChc=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/2a938b.jpg" tvg-id="RIYAN.e33677b1b91356ad20df9a2bfb32b6a8.SHINTA" tvg-name"[CODAY] TRANS TV _VIDIO" group-title="LOCAL",TRANS TV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/euAMoMGy4JEKPAe1i-C8WPsvumU=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/333535.png" tvg-id="RIYAN.9f21b43189a1e88c56f428221f9ee765.SHINTA" tvg-name"[CODAY] AJWA TV _VIDIO" group-title="LOCAL",AJWA TV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/IYwlrmKdir0mE1ocM48i8qPHUYk=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/757492.png" tvg-id="RIYAN.3042f7776dc11b722a96265d6b703eec.SHINTA" tvg-name"[CODAY] TVRI _VIDIO" group-title="LOCAL",TVRI _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2ePxful5aXK_9JI_giwMuSYCI10=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/cdc113.jpg" tvg-id="RIYAN.6d7a196967335b3406596585dbef55b8.SHINTA" tvg-name"[CODAY] Trans7 _VIDIO" group-title="LOCAL",Trans7 _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KV55W68ho8bKftLIBDynTHWrn-4=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" tvg-id="RIYAN.fa2ad3c08addda77253ec1a239d2b6f9.SHINTA" tvg-name"[CODAY] Jaktv _VIDIO" group-title="LOCAL",Jaktv _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/XCeHqSuvo96967NGHEDSKN5ljUo=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/ebc26f.png" tvg-id="RIYAN.03572caf7a70d46b18aa6f0805a9850b.SHINTA" tvg-name"[CODAY] RTV _VIDIO" group-title="LOCAL",RTV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qUUDKcQCDBOzImtqFHk7Lm5EA3A=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" tvg-id="RIYAN.aca55341ee9c8a61c36f10bbae1ead04.SHINTA" tvg-name"[CODAY] iNews _VIDIO" group-title="LOCAL",iNews _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kv2lLgdD2PHxccwguz7hULZlrus=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" tvg-id="RIYAN.d780bd9cc2cf1636e10376f414bab62f.SHINTA" tvg-name"[CODAY] OShop _VIDIO" group-title="LOCAL",OShop _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/-phU9_QRjXTgyeaJTGM79SRar3s=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" tvg-id="RIYAN.11fb28d026b0587b6636b41b894b34ca.SHINTA" tvg-name"[CODAY] MyTV _VIDIO" group-title="LOCAL",MyTV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/I_F8gqsVfsGp4MuuBO0Lh35QLOk=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" tvg-id="RIYAN.0c7dd5f638c0e2b222b4fe8fbcce7c24.SHINTA" tvg-name"[CODAY] DAAI TV _VIDIO" group-title="LOCAL",DAAI TV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/yD_Ig6mNztgtUqxRSLjmEwnsJlQ=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" tvg-id="RIYAN.88ceb3cd7d7c1f314136c4c51cb25384.SHINTA" tvg-name"[CODAY] Nusantara TV _VIDIO" group-title="LOCAL",Nusantara TV _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44102a6ed6587b5b8cb4ebbe972864690b
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UHs9VqKCKB3euYDRSERE8I1I6-w=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6550/smithsonian-7073ec.jpg" tvg-id="RIYAN.ed91865377385d7767e0deb324f2408c.SHINTA" tvg-name"[CODAY] Smithsonian _VIDIO" group-title="KNOWLEDGE",Smithsonian _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963a102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/piomt51nAsU9Koux119OWNRtGBg=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6635/love-nature-29f1c8.jpg" tvg-id="RIYAN.7fa5ec90545af054af9db5450fe9d0b6.SHINTA" tvg-name"[CODAY] Love Nature _VIDIO" group-title="KNOWLEDGE",Love Nature _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7102a6ed6587b5b8cb4ebbe972864690b
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/h5vOznosCDqjOS8uzAzYjpcbWYE=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id="RIYAN.b6eba566274ded65fa7a9d2d3119bde0.SHINTA" tvg-name"[CODAY] TV Edukasi _VIDIO" group-title="KNOWLEDGE",TV Edukasi _VIDIO
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce102a6ed6587b5b
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.7776e88b0c189539098176589250bcba.Coday" tvg-name"[CODAY] Nat Geo _USEETV",Nat Geo _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d98136347412c7d30ae6fde3742bbc4f21b9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.39ea40e164f970c54b0530436d5a9f7a.Coday" tvg-name"[CODAY] Nat Geo People _USEETV",Nat Geo People _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d41f2ddc7d689c014ccbe5a65d05578a36347412c7d30ae6fde3742bbc4f21b9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.60243f9b1ac2dba11ff8131c8f4431e0.Coday" tvg-name"[CODAY] Nat Geo Wild _USEETV",Nat Geo Wild _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=757a717ee2ade661c665276734c83b1636347412c7d30ae6fde3742bbc4f21b9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.c4414e538a5475ec0244673b7f2f7dbb.Coday" tvg-name"[CODAY] Discovery Channel _USEETV",Discovery Channel _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4e36347412c7d30ae6fde3742bbc4f21b9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.9978b7063e297d84bb2ac8e46c1c845f.Coday" tvg-name"[CODAY] Crime Investigation _USEETV",Crime Investigation _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=11212100ad02e3b620718062ab1a287f36347412c7d30ae6fde3742bbc4f21b9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.ad68473a64305626a27c32a5408552d7.Coday" tvg-name"[CODAY] CGTN Documentary _USEETV",CGTN Documentary _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=85a7060ea54b0971c1f54b355cf69ad236347412c7d30ae6fde3742bbc4f21b9
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png?id=8" group-title="KNOWLEDGE" tvg-id="Riyan.8c26d2fad09dc76f3ff36b6ea752b0e1.Coday" tvg-name"[CODAY] Lingua _USEETV",Lingua _USEETV
+http://hi.api.play.codaytv.eu/c.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=2a39ee0928adb4aae9ac585e29bcaac236347412c7d30ae6fde3742bbc4f21b9
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://codaytv.eu/coday.jpg" group-title="MOVIES",MOVIE
