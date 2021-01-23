@@ -1386,6 +1386,31 @@ http://tv.wakds.xyz:8080/1month/12345678/3517
 
 
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",SBS International
+http://tv.wakds.xyz:8080/520520/131313/2768
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",SBS Plus
+http://tv.wakds.xyz:8080/520520/131313/2769
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",SBS Star
+http://tv.wakds.xyz:8080/520520/131313/2770
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",TBS
+http://tv.wakds.xyz:8080/520520/131313/2771
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",Japanet Channel DX
+http://tv.wakds.xyz:8080/520520/131313/2778
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",New Japan Pro Wrestling World
+http://tv.wakds.xyz:8080/520520/131313/2779
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",NHK Chinese Vision
+http://tv.wakds.xyz:8080/520520/131313/2780
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",QVC Japan
+http://tv.wakds.xyz:8080/520520/131313/2783
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",TV Tokyo
+http://tv.wakds.xyz:8080/520520/131313/2787
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",Fashion Lifestyle FHD
+http://tv.wakds.xyz:8080/520520/131313/2727
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",BOO恐怖台
+http://tv.wakds.xyz:8080/520520/131313/4382
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",极限电影台
+http://tv.wakds.xyz:8080/520520/131313/2718
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",FOXActionMovies
 http://tv.wakds.xyz:8080/520520/131313/98
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAYcoy",Fox_Family
