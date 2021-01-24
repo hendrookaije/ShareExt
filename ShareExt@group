@@ -2058,6 +2058,15 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AstroArena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",HBO Asia
+http://fdtvapps.xyz/channel/hbo.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AEC
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",HuaHeTai
+http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",ChuanCia
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CCM馃嚥馃嚲馃嚥馃嚲馃嚥馃嚲
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CelestiaMovie馃嚥馃嚲馃嚥馃嚲馃嚥馃嚲
