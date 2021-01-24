@@ -1925,8 +1925,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPapua)/in
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",FoxActionMovies(setAuto)
-http://blacktvone.net/ZpwlGLhadn/wd5sxJ8m5b/79
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",CCM Thai
 http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",FOX ACTION MOVIES Thai
@@ -4691,7 +4689,7 @@ http://tv.nstvlatino.com:8080/jairo1/jairo123/3798
 #EXTINF:-1 tvg-id="BoomerangLatinAmerica.pa" tvg-name="INF - BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="KIDS LATINO",BOOMERANG
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3085
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF - CARTOON NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Cartoon_Network_2004.png" group-title="KIDS LATINO",CARTOON NETWORK
-http://tv.nstvlatino.com:8080/jairo1/jairo123/3249
+http://tv.nstvlatino.com:8080/jairo1/jairo123/3249 
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF - DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS LATINO",DISCOVERY KIDS
 http://tv.nstvlatino.com:8080/jairo1/jairo123/3254
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="INF - DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS LATINO",DISNEY CHANNEL
