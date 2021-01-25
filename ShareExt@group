@@ -27,16 +27,6 @@ http://tx2play1.douyucdn.cn:80/live/dyliveflv3/329667rnoJ0R33Eh_4000p.xs
 
 
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",LotusMacau(setAuto)
-http://185.238.0.145:1313/c/ku/see/l.php?a=lotusmacau
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",Tvone(setAuto)
-http://185.238.0.145:1313/c/ku/see/l.php?a=tvone
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",SinemaIndonesia(setAuto)
-http://185.238.0.145:1313/c/ku/see/l.php?a=sinemaindonesia
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",SinemaIndonesia X(setAuto)
-http://185.238.0.145:1313/c/ku/see/l.php?a=sinemaindonesia-x
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TBJXrmd/gtvlogo.png" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="ShareExt@Local", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="ShareExt@Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="ShareExt@Local", TRANS 7
@@ -99,20 +89,10 @@ http://122.248.43.138:1935/ch26/myStream/live.m3u8
 http://122.248.43.138:1935/ch27/myStream/live.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",TVRI
 http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",RCTI+
-http://chostv.mobie.in/files/iptv/rcti.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",Mnctv
-http://chostv.mobie.in/files/iptv/mnctv.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",Global Tv
-http://chostv.mobie.in/files/iptv/gtv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",ANTV
 http://chostv.mobie.in/files/iptv/antv.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",INDOSIAR HD
 http://chostv.mobie.in/files/iptv/indosiar.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",MNC TV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",CNN Indonesia SD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Local",CNBC Indonesia
