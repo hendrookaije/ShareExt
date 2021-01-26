@@ -1305,6 +1305,416 @@ http://tv.wakds.xyz:8080/1month/12345678/2779
 
 
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Tigo Sports
+http://latvonlive.com:33612/Llanos1/1234/800
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Win Sports HD
+http://latvonlive.com:33612/Llanos1/1234/191
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Win Sports+ HD
+http://latvonlive.com:33612/Llanos1/1234/5715
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Canal Uno HD
+http://latvonlive.com:33612/Llanos1/1234/596
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",beIN Sports En Español HD
+http://latvonlive.com:33612/Llanos1/1234/241
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",DIRECTV Sports Latino HD
+http://latvonlive.com:33612/Llanos1/1234/893
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",DIRECTV Sports 2 Latino HD
+http://latvonlive.com:33612/Llanos1/1234/892
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",DIRECTV Sports Plus Latino HD
+http://latvonlive.com:33612/Llanos1/1234/894
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPN HD
+http://latvonlive.com:33612/Llanos1/1234/530
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPN 2 HD
+http://latvonlive.com:33612/Llanos1/1234/665
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPN 2 Mexico
+http://latvonlive.com:33612/Llanos1/1234/4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPN 3 HD
+http://latvonlive.com:33612/Llanos1/1234/620
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPN Extra HD
+http://latvonlive.com:33612/Llanos1/1234/423
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPN Deportes HD
+http://latvonlive.com:33612/Llanos1/1234/537
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Eurosport 1 HD
+http://latvonlive.com:33612/Llanos1/1234/722
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Deportes HD
+http://latvonlive.com:33612/Llanos1/1234/350
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports HD Argentina
+http://latvonlive.com:33612/Llanos1/1234/20
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports HD Mexico
+http://latvonlive.com:33612/Llanos1/1234/163
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports 2 HD Argentina
+http://latvonlive.com:33612/Llanos1/1234/165
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports 2 HD Mexico
+http://latvonlive.com:33612/Llanos1/1234/162
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports 3 HD Argentina
+http://latvonlive.com:33612/Llanos1/1234/22
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports Premium HD Argentina
+http://latvonlive.com:33612/Llanos1/1234/166
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports 3 HD Mexico
+http://latvonlive.com:33612/Llanos1/1234/161
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",GolTV
+http://latvonlive.com:33612/Llanos1/1234/368
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Real Madrid TV
+http://latvonlive.com:33612/Llanos1/1234/158
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",TNT Sports Argentina
+http://latvonlive.com:33612/Llanos1/1234/637
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Toros TV
+http://latvonlive.com:33612/Llanos1/1234/932
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",TyC Sports HD
+http://latvonlive.com:33612/Llanos1/1234/239
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",AT&T SportsNet Southwest HD
+http://latvonlive.com:33612/Llanos1/1234/736
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",beIN Sports HD
+http://latvonlive.com:33612/Llanos1/1234/261
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Big Ten Network HD
+http://latvonlive.com:33612/Llanos1/1234/260
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",CBS Sports Network
+http://latvonlive.com:33612/Llanos1/1234/483
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Eleven Sports Network
+http://latvonlive.com:33612/Llanos1/1234/256
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPN HD US
+http://latvonlive.com:33612/Llanos1/1234/536
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPN2 HD US
+http://latvonlive.com:33612/Llanos1/1234/670
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPNEWS HD
+http://latvonlive.com:33612/Llanos1/1234/671
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ACC Network HD
+http://latvonlive.com:33612/Llanos1/1234/748
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",SEC Network HD
+http://latvonlive.com:33612/Llanos1/1234/733
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",ESPNU HD
+http://latvonlive.com:33612/Llanos1/1234/726
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",FOX Soccer Plus HD
+http://latvonlive.com:33612/Llanos1/1234/258
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports 1 HD US
+http://latvonlive.com:33612/Llanos1/1234/372
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Fox Sports 2 HD US
+http://latvonlive.com:33612/Llanos1/1234/371
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",GINX eSports HD
+http://latvonlive.com:33612/Llanos1/1234/683
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",GolTV US
+http://latvonlive.com:33612/Llanos1/1234/369
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",MavTV HD
+http://latvonlive.com:33612/Llanos1/1234/831
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",MLB Network HD
+http://latvonlive.com:33612/Llanos1/1234/658
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NBA TV HD
+http://latvonlive.com:33612/Llanos1/1234/262
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NBC Sports Bay Area HD
+http://latvonlive.com:33612/Llanos1/1234/741
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NBC Sports California HD
+http://latvonlive.com:33612/Llanos1/1234/743
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NBC Sports Chicago HD
+http://latvonlive.com:33612/Llanos1/1234/253
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NBC Sports Chicago Plus HD
+http://latvonlive.com:33612/Llanos1/1234/756
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NBCSN HD
+http://latvonlive.com:33612/Llanos1/1234/263
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NFL Network HD
+http://latvonlive.com:33612/Llanos1/1234/425
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NFL RedZone HD
+http://latvonlive.com:33612/Llanos1/1234/424
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",NHL Network HD
+http://latvonlive.com:33612/Llanos1/1234/747
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Olympic Channel HD
+http://latvonlive.com:33612/Llanos1/1234/286
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Outdoor Channel HD
+http://latvonlive.com:33612/Llanos1/1234/822
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Sportsman Channel HD
+http://latvonlive.com:33612/Llanos1/1234/817
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Sportsnet NY HD
+http://latvonlive.com:33612/Llanos1/1234/938
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",Tennis Channel HD
+http://latvonlive.com:33612/Llanos1/1234/951
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",The Fight Network HD
+http://latvonlive.com:33612/Llanos1/1234/281
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",The Golf Channel HD
+http://latvonlive.com:33612/Llanos1/1234/259
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",TVG HD
+http://latvonlive.com:33612/Llanos1/1234/889
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",TVG2 HD
+http://latvonlive.com:33612/Llanos1/1234/132
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",UFC TV
+http://latvonlive.com:33612/Llanos1/1234/757
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",World Fishing Network HD (US)
+http://latvonlive.com:33612/Llanos1/1234/808
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-Sports",WWE Network HD
+http://latvonlive.com:33612/Llanos1/1234/749
+
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",BabyTV Español
+http://latvonlive.com:33612/Llanos1/1234/235
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Boomerang Latinoamérica
+http://latvonlive.com:33612/Llanos1/1234/34
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Cartoon Network HD
+http://latvonlive.com:33612/Llanos1/1234/39
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Discovery Familia HD
+http://latvonlive.com:33612/Llanos1/1234/921
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Discovery Kids HD
+http://latvonlive.com:33612/Llanos1/1234/622
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Disney HD
+http://latvonlive.com:33612/Llanos1/1234/636
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Disney Junior HD
+http://latvonlive.com:33612/Llanos1/1234/37
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Disney XD Latinoamérica
+http://latvonlive.com:33612/Llanos1/1234/496
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Nat Geo Kids HD
+http://latvonlive.com:33612/Llanos1/1234/589
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Nick HD
+http://latvonlive.com:33612/Llanos1/1234/586
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",TeenNick Latinoamérica
+http://latvonlive.com:33612/Llanos1/1234/417
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Nick Jr HD
+http://latvonlive.com:33612/Llanos1/1234/587
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Nick Music Latinoamérica
+http://latvonlive.com:33612/Llanos1/1234/752
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Tooncast
+http://latvonlive.com:33612/Llanos1/1234/639
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Cartoon Network East HD US
+http://latvonlive.com:33612/Llanos1/1234/667
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Discovery Family Channel HD
+http://latvonlive.com:33612/Llanos1/1234/922
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Disney Channel HD US
+http://latvonlive.com:33612/Llanos1/1234/668
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Disney Junior HD US
+http://latvonlive.com:33612/Llanos1/1234/929
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Disney XD HD US
+http://latvonlive.com:33612/Llanos1/1234/656
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Nick Jr HD US
+http://latvonlive.com:33612/Llanos1/1234/136
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Nickelodeon HD US
+http://latvonlive.com:33612/Llanos1/1234/152
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",NickMusic HD
+http://latvonlive.com:33612/Llanos1/1234/154
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Nicktoons HD
+http://latvonlive.com:33612/Llanos1/1234/137
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",TeenNick HD
+http://latvonlive.com:33612/Llanos1/1234/138
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Universal Kids HD
+http://latvonlive.com:33612/Llanos1/1234/279
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-KIDS",Starz Kids & Family
+http://latvonlive.com:33612/Llanos1/1234/695
+
+
+
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Fox Premium Action HD
+http://latvonlive.com:33612/Llanos1/1234/611
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Fox Premium Cinema HD
+http://latvonlive.com:33612/Llanos1/1234/616
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Fox Premium Classics HD
+http://latvonlive.com:33612/Llanos1/1234/615
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Fox Premium Comedy HD
+http://latvonlive.com:33612/Llanos1/1234/614
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Fox Premium Family HD
+http://latvonlive.com:33612/Llanos1/1234/610
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Fox Premium Movies HD
+http://latvonlive.com:33612/Llanos1/1234/609
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Fox Premium Series HD
+http://latvonlive.com:33612/Llanos1/1234/101
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",FX Movie HD
+http://latvonlive.com:33612/Llanos1/1234/581
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Golden Plus HD
+http://latvonlive.com:33612/Llanos1/1234/607
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Latino East HD
+http://latvonlive.com:33612/Llanos1/1234/29
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO HD
+http://latvonlive.com:33612/Llanos1/1234/601
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO 2 HD
+http://latvonlive.com:33612/Llanos1/1234/603
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Family HD
+http://latvonlive.com:33612/Llanos1/1234/602
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Mundi HD
+http://latvonlive.com:33612/Llanos1/1234/594
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Plus HD
+http://latvonlive.com:33612/Llanos1/1234/600
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO POP HD
+http://latvonlive.com:33612/Llanos1/1234/593
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Signature HD
+http://latvonlive.com:33612/Llanos1/1234/599
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Paramount Network HD
+http://latvonlive.com:33612/Llanos1/1234/151
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Smithsonian Channel HD
+http://latvonlive.com:33612/Llanos1/1234/819
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Syfy HD US
+http://latvonlive.com:33612/Llanos1/1234/287
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",TLC HD US
+http://latvonlive.com:33612/Llanos1/1234/664
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",TNT HD US
+http://latvonlive.com:33612/Llanos1/1234/557
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Travel Channel HD
+http://latvonlive.com:33612/Llanos1/1234/359
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",truTV HD US
+http://latvonlive.com:33612/Llanos1/1234/534
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",TV Land HD
+http://latvonlive.com:33612/Llanos1/1234/144
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",USA Network HD
+http://latvonlive.com:33612/Llanos1/1234/285
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Animal Planet HD
+http://latvonlive.com:33612/Llanos1/1234/57
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery Channel HD
+http://latvonlive.com:33612/Llanos1/1234/624
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery en Español US
+http://latvonlive.com:33612/Llanos1/1234/558
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery Home & Health HD
+http://latvonlive.com:33612/Llanos1/1234/623
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery ID HD
+http://latvonlive.com:33612/Llanos1/1234/422
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery Science
+http://latvonlive.com:33612/Llanos1/1234/640
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery Theater HD
+http://latvonlive.com:33612/Llanos1/1234/418
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery Turbo
+http://latvonlive.com:33612/Llanos1/1234/134
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery World HD
+http://latvonlive.com:33612/Llanos1/1234/419
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",History Channel HD
+http://latvonlive.com:33612/Llanos1/1234/598
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",H2 HD
+http://latvonlive.com:33612/Llanos1/1234/19
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Nat Geo Wild HD
+http://latvonlive.com:33612/Llanos1/1234/588
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",National Geographic HD
+http://latvonlive.com:33612/Llanos1/1234/590
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",TLC HD
+http://latvonlive.com:33612/Llanos1/1234/65
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Animal Planet HD US
+http://latvonlive.com:33612/Llanos1/1234/682
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Discovery Channel HD US
+http://latvonlive.com:33612/Llanos1/1234/916
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",History HD US
+http://latvonlive.com:33612/Llanos1/1234/304
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",AXN HD
+http://latvonlive.com:33612/Llanos1/1234/632
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Cine Sony HD
+http://latvonlive.com:33612/Llanos1/1234/493
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Cinecanal HD
+http://latvonlive.com:33612/Llanos1/1234/628
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Cinema Dinamita
+http://latvonlive.com:33612/Llanos1/1234/95
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",CineMax HD
+http://latvonlive.com:33612/Llanos1/1234/96
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Studio Universal
+http://latvonlive.com:33612/Llanos1/1234/109
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",StarzEncore Español HD
+http://latvonlive.com:33612/Llanos1/1234/28
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",TNT HD
+http://latvonlive.com:33612/Llanos1/1234/322
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",TNT HD Mexico
+http://latvonlive.com:33612/Llanos1/1234/331
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Universal Channel HD
+http://latvonlive.com:33612/Llanos1/1234/111
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Comet HD
+http://latvonlive.com:33612/Llanos1/1234/820
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",FX Movie Channel HD
+http://latvonlive.com:33612/Llanos1/1234/292
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Hallmark Channel HD
+http://latvonlive.com:33612/Llanos1/1234/836
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Hallmark Drama HD
+http://latvonlive.com:33612/Llanos1/1234/835
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Hallmark Movies & Mysteries HD
+http://latvonlive.com:33612/Llanos1/1234/834
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Lifetime Movie Network HD
+http://latvonlive.com:33612/Llanos1/1234/503
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Sony Movie Channel HD
+http://latvonlive.com:33612/Llanos1/1234/818
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Cinemax East HD US
+http://latvonlive.com:33612/Llanos1/1234/724
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Moremax East HD
+http://latvonlive.com:33612/Llanos1/1234/779
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Star Max HD
+http://latvonlive.com:33612/Llanos1/1234/737
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",ActionMax East HD
+http://latvonlive.com:33612/Llanos1/1234/735
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",MovieMax HD
+http://latvonlive.com:33612/Llanos1/1234/734
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",OuterMax HD
+http://latvonlive.com:33612/Llanos1/1234/856
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",ThrillerMax East HD
+http://latvonlive.com:33612/Llanos1/1234/679
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO East HD US
+http://latvonlive.com:33612/Llanos1/1234/685
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO 2 East HD
+http://latvonlive.com:33612/Llanos1/1234/686
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Comedy East HD US
+http://latvonlive.com:33612/Llanos1/1234/687
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Family East HD US
+http://latvonlive.com:33612/Llanos1/1234/688
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Signature East HD US
+http://latvonlive.com:33612/Llanos1/1234/690
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",HBO Zone East HD US
+http://latvonlive.com:33612/Llanos1/1234/689
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Showtime Extreme HD
+http://latvonlive.com:33612/Llanos1/1234/699
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Showtime Showcase HD
+http://latvonlive.com:33612/Llanos1/1234/691
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Showtime Next HD
+http://latvonlive.com:33612/Llanos1/1234/585
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Showtime Women HD
+http://latvonlive.com:33612/Llanos1/1234/107
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Showtime Family Zone HD
+http://latvonlive.com:33612/Llanos1/1234/103
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",StarzEncore East HD
+http://latvonlive.com:33612/Llanos1/1234/642
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",StarzEncore Action HD
+http://latvonlive.com:33612/Llanos1/1234/100
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",StarzEncore Black HD
+http://latvonlive.com:33612/Llanos1/1234/98
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",StarzEncore Classic HD
+http://latvonlive.com:33612/Llanos1/1234/93
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",StarzEncore Suspense HD
+http://latvonlive.com:33612/Llanos1/1234/61
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Starz East HD
+http://latvonlive.com:33612/Llanos1/1234/697
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Starz Kids & Family
+http://latvonlive.com:33612/Llanos1/1234/695
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Starz Comedy HD
+http://latvonlive.com:33612/Llanos1/1234/693
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Starz Edge HD
+http://latvonlive.com:33612/Llanos1/1234/694
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Starz in Black HD
+http://latvonlive.com:33612/Llanos1/1234/51
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Starz Cinema HD
+http://latvonlive.com:33612/Llanos1/1234/692
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",StarzEncore Family HD
+http://latvonlive.com:33612/Llanos1/1234/56
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",StarzEncore Westerns HD
+http://latvonlive.com:33612/Llanos1/1234/52
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",SundanceTV HD
+http://latvonlive.com:33612/Llanos1/1234/582
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",BBC World News HD
+http://latvonlive.com:33612/Llanos1/1234/10
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Bloomberg TV
+http://latvonlive.com:33612/Llanos1/1234/5691
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",CNBC HD
+http://latvonlive.com:33612/Llanos1/1234/274
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",CNBC World HD
+http://latvonlive.com:33612/Llanos1/1234/497
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",CNN en Español
+http://latvonlive.com:33612/Llanos1/1234/758
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",CNN HD US
+http://latvonlive.com:33612/Llanos1/1234/650
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",CNN International HD
+http://latvonlive.com:33612/Llanos1/1234/652
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@USA-MOVIES",Fox Business HD
+http://latvonlive.com:33612/Llanos1/1234/272
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="VIP WORLD SPORTZ",DD Sports
 http://stream.streamhubtv.xyz:8080/marina/marina/34541
 #EXTINF:-1 tvg-id="" tvg-name="IN: Sony Six" tvg-logo="" group-title="VIP WORLD SPORTZ",IN:Sony Six
