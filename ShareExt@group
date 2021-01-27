@@ -682,6 +682,405 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 
 
+#EXTINF:-1 tvg-id="SkySpAction.uk" tvg-name="Sky Sports Action (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportsactionhd.png" group-title="UK Sports",Sky Sports Action (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3
+#EXTINF:-1 tvg-id="SkySpAction.uk" tvg-name="Sky Sports Action HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportsactionhd.png" group-title="UK Sports",Sky Sports Action HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/24
+#EXTINF:-1 tvg-id="SkySpArena.uk" tvg-name="Sky Sports Arena" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportsarenahd.png" group-title="UK Sports",Sky Sports Arena
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2802
+#EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-name="Sky Sports Cricket (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportscricket.png" group-title="UK Sports",Sky Sports Cricket (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2
+#EXTINF:-1 tvg-id="SkySpCricket.uk" tvg-name="Sky Sports Cricket HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportscrickethd.png" group-title="UK Sports",Sky Sports Cricket HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/23
+#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="Sky Sports F1 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skyspf1.png" group-title="UK Sports",Sky Sports F1 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/6
+#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="Sky Sports F1 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skyspf1hd.png" group-title="UK Sports",Sky Sports F1 HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/28
+#EXTINF:-1 tvg-id="SkySpTheOpen.uk" tvg-name="Sky Sports GOLF (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportgolfhd.png" group-title="UK Sports",Sky Sports GOLF (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4
+#EXTINF:-1 tvg-id="SkySpTheOpen.uk" tvg-name="Sky Sports GOLF HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportgolfhd.png" group-title="UK Sports",Sky Sports GOLF HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/25
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="Sky Sports Main Event (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/sky_uk_sports_main_event.png" group-title="UK Sports",Sky Sports Main Event (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1
+#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="Sky Sports Main Event HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportsmaineventhd.png" group-title="UK Sports",Sky Sports Main Event HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/22
+#EXTINF:-1 tvg-id="SkySpMix.uk" tvg-name="Sky Sports Mix (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportsmixhd.png" group-title="UK Sports",Sky Sports Mix (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2074
+#EXTINF:-1 tvg-id="SkySpNews.uk" tvg-name="Sky Sports News (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skyspnews.png" group-title="UK Sports",Sky Sports News (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/7
+#EXTINF:-1 tvg-id="SkySpNews.uk" tvg-name="Sky Sports News HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skyspnews.png" group-title="UK Sports",Sky Sports News HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/27
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="Sky Sports Premier League (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportspl.png" group-title="UK Sports",Sky Sports Premier League (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/5
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="Sky Sports Premier League HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportsplhd.png" group-title="UK Sports",Sky Sports Premier League HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/26
+#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="Sky Sport Football HD" tvg-logo="http://srv1.satlover.com/logos/uk-sports/skysportfootballhd.png" group-title="UK Sports",Sky Sport Football HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2803
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="Box Nation HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/boxnation.png" group-title="UK Sports",Box Nation HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3923
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="CHELSEA TV HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/chelsea_tv.png" group-title="UK Sports",CHELSEA TV HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3890
+#EXTINF:-1 tvg-id="eirSport1.ie" tvg-name="EIR Sport 1 HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/EIRSPORTS1.png" group-title="UK Sports",EIR Sport 1 HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3896
+#EXTINF:-1 tvg-id="" tvg-name="EIR Sport 2 HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/EIRSPORTS2.png" group-title="UK Sports",EIR Sport 2 HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3895
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="EUROSPORTS HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/eurosport1hd.png" group-title="UK Sports",EUROSPORTS HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3894
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="EUROSPORTS HD 2 | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/eurosport2hd.png" group-title="UK Sports",EUROSPORTS HD 2 | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3893
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="LFC HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/liverpoolfctv.png" group-title="UK Sports",LFC HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3889
+#EXTINF:-1 tvg-id="" tvg-name="Motors TV HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/Motorsport-UK-Logo_Brand-Blue_CMYK-e1542386290631-800x188.png" group-title="UK Sports",Motors TV HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3897
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/mutvhd.png" group-title="UK Sports",MUTV HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3924
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="RACING UK HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/racing-tv-uk.png" group-title="UK Sports",RACING UK HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3891
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UFC FIGHT PASS HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-sports/fightpass.png" group-title="UK Sports",UFC FIGHT PASS HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4804
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="At The Races (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/sky-sports-racing.png" group-title="UK Sports",At The Races (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/32
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BoxNation (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/boxnation.png" group-title="UK Sports",BoxNation (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/19
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="British Eurosport (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/eurosport1.png" group-title="UK Sports",British Eurosport (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/12
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="British Eurosport 2 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/eurosport2.png" group-title="UK Sports",British Eurosport 2 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/13
+#EXTINF:-1 tvg-id="MadeinLiverpool.uk" tvg-name="BT Sport 1 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/bt-sport-1-uk.png" group-title="UK Sports",BT Sport 1 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/9
+#EXTINF:-1 tvg-id="Hi-ImpactTV.uk" tvg-name="BT Sport 1 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/bt-sport-1-uk.png" group-title="UK Sports",BT Sport 1 HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/29
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/btsport2.png" group-title="UK Sports",BT Sport 2 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/10
+#EXTINF:-1 tvg-id="MadeinLiverpool.uk" tvg-name="BT Sport 2 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/btsport2.png" group-title="UK Sports",BT Sport 2 HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/30
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT SPORT 3 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/bt-sport-3-uk.png" group-title="UK Sports",BT SPORT 3 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/119
+#EXTINF:-1 tvg-id="BTSportEur.uk" tvg-name="BT Sport Europe (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/bt-sport-3-uk.png" group-title="UK Sports",BT Sport Europe (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/11
+#EXTINF:-1 tvg-id="BTSportEur.uk" tvg-name="BT Sport europe HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/bt-sport-3-uk.png" group-title="UK Sports",BT Sport europe HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/31
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport eXtra 1 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/5796.png" group-title="UK Sports",BT Sport eXtra 1 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2804
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport eXtra2 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/5796.png" group-title="UK Sports",BT Sport eXtra2 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2805
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport eXtra3 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/5796.png" group-title="UK Sports",BT Sport eXtra3 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2806
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport eXtra4 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/5796.png" group-title="UK Sports",BT Sport eXtra4 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2807
+#EXTINF:-1 tvg-id="ChelseaTV.uk" tvg-name="Chelsea (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/chelsea_tv.png" group-title="UK Sports",Chelsea (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/17
+#EXTINF:-1 tvg-id="eirSport1.ie" tvg-name="Eir Sport 1 (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/EIRSPORTS1.png" group-title="UK Sports",Eir Sport 1 (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/16
+#EXTINF:-1 tvg-id="ESPN.uk" tvg-name="ESPN (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/btsportespnhd.png" group-title="UK Sports",ESPN (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/8
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/eurosport1hd.png" group-title="UK Sports",Eurosport 1 HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1926
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/eurosport2hd.png" group-title="UK Sports",Eurosport 2 HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1913
+#EXTINF:-1 tvg-id="UFCTV.us" tvg-name="UK: FIGHTBOX HD" tvg-logo="http://srv1.satlover.com/logos/uk-sports/Fightbox_Logo.png" group-title="UK Sports",UK: FIGHTBOX HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1941
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="Liverpool (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/liverpoolfctv.png" group-title="UK Sports",Liverpool (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/20
+#EXTINF:-1 tvg-id="" tvg-name="Motor Sports TV (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/Motorsport-UK-Logo_Brand-Blue_CMYK-e1542386290631-800x188.png" group-title="UK Sports",Motor Sports TV (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/86
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="MUTV (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/mutvhd.png" group-title="UK Sports",MUTV (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/18
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/premiersports.png" group-title="UK Sports",Premier Sports (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/14
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports HD (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/premiersports.png" group-title="UK Sports",Premier Sports HD (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2075
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="Racing UK (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/racing-tv-uk.png" group-title="UK Sports",Racing UK (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/15
+#EXTINF:-1 tvg-id="" tvg-name="RealMadrid (UK)" tvg-logo="http://srv1.satlover.com/logos/uk-sports/REALMADRIDTV.png" group-title="UK Sports",RealMadrid (UK)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/21
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-name="Sky Action | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/skyaction.png" group-title="UK Movies",Sky Action | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/41
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="Sky Comedy | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/sky-cinema-comedy-uk.png" group-title="UK Movies",Sky Comedy | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/43
+#EXTINF:-1 tvg-id="SkyMoviesDrama.uk" tvg-name="Sky Drama | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/skydramaandromhd.png" group-title="UK Movies",Sky Drama | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/40
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="Sky Family | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/skyfamily.png" group-title="UK Movies",Sky Family | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/39
+#EXTINF:-1 tvg-id="SkyBrits.uk" tvg-name="Sky Greats | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/skygreats.png" group-title="UK Movies",Sky Greats | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/38
+#EXTINF:-1 tvg-id="SkyMoviesPremiere.uk" tvg-name="Sky Premier | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/skypremiere.png" group-title="UK Movies",Sky Premier | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/36
+#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-name="Sky Scifi and horror | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/skyscifiandhorhd.png" group-title="UK Movies",Sky Scifi and horror | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/34
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/skyselect.png" group-title="UK Movies",Sky Select | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/33
+#EXTINF:-1 tvg-id="Showcase.uk" tvg-name="Sky ShowCase | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/Sky-Movies-HD-Showcase.png" group-title="UK Movies",Sky ShowCase | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/37
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Thriller | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/skythrillerhd.png" group-title="UK Movies",Sky Thriller | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/42
+#EXTINF:-1 tvg-id="AMC.uk" tvg-name="AMC | UK*" tvg-logo="http://srv1.satlover.com/logos/uk-movies/AMC.png" group-title="UK Movies",AMC | UK*
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3812
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4 | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/film4.png" group-title="UK Movies",Film 4 | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/52
+#EXTINF:-1 tvg-id="HorrorChannel.uk" tvg-name="UK: Horror Channel" tvg-logo="http://srv1.satlover.com/logos/uk-movies/horror_channel_uk.png" group-title="UK Movies",UK: Horror Channel
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/122
+#EXTINF:-1 tvg-id="Movies4MenPlus1.uk" tvg-name="Sony Movies Action +1 | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/sony-movies-action-plus1-us-uk.png" group-title="UK Movies",Sony Movies Action +1 | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1909
+#EXTINF:-1 tvg-id="" tvg-name="Nollywood | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/Nollywood_Movies.png" group-title="UK Movies",Nollywood | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/127
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movie Channel | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/SONY-MOVIES.png" group-title="UK Movies",Sony Movie Channel | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1937
+#EXTINF:-1 tvg-id="SonyMoviesplus1.uk" tvg-name="Sony Movie Channel +1 | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/Sony-movies-plus1.png" group-title="UK Movies",Sony Movie Channel +1 | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1944
+#EXTINF:-1 tvg-id="SonyClassic.uk" tvg-name="Sony Movies Classic | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/SONY-MOVIES-CLASSIC.png" group-title="UK Movies",Sony Movies Classic | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/55
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/SONY-MOVIES.png" group-title="UK Movies",Sony Movies | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/56
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/tcm_global.png" group-title="UK Movies",TCM HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3944
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM HD | UK*" tvg-logo="http://srv1.satlover.com/logos/uk-movies/tcm_global.png" group-title="UK Movies",TCM HD | UK*
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/58
+#EXTINF:-1 tvg-id="SonyCrimeChannel.uk" tvg-name="Sony Crime | UK" tvg-logo="http://srv1.satlover.com/logos/uk-movies/sony-crime-channel-in-uk.png" group-title="UK Movies",Sony Crime | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1927
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV (KiD)" tvg-logo="" group-title="UK | US Kids",Baby TV (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4816
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang (KiD)" tvg-logo="" group-title="UK | US Kids",Boomerang (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4814
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD | US" tvg-logo="" group-title="UK | US Kids",CARTOON NETWORK HD | US
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3963
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito (KiD)" tvg-logo="" group-title="UK | US Kids",Cartoonito (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4815
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (KiD)" tvg-logo="" group-title="UK | US Kids",Disney Channel (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4823
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD | US" tvg-logo="" group-title="UK | US Kids",Disney Channel HD | US
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3961
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD | US" tvg-logo="" group-title="UK | US Kids",Disney Junior HD | US
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3952
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD (KiD)" tvg-logo="" group-title="UK | US Kids",Disney XD (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4821
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD | US" tvg-logo="" group-title="UK | US Kids",Disney XD HD | US
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3926
+#EXTINF:-1 tvg-id="" tvg-name="NICK HD | US" tvg-logo="" group-title="UK | US Kids",NICK HD | US
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/3962
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr Too (KiD)" tvg-logo="" group-title="UK | US Kids",Nick Jr Too (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4820
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. (KiD)" tvg-logo="" group-title="UK | US Kids",Nick Jr. (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4819
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon (KiD)" tvg-logo="" group-title="UK | US Kids",Nickelodeon (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4817
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons (KiD)" tvg-logo="" group-title="UK | US Kids",Nicktoons (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4818
+#EXTINF:-1 tvg-id="" tvg-name="Pop (KiD)" tvg-logo="" group-title="UK | US Kids",Pop (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4812
+#EXTINF:-1 tvg-id="" tvg-name="RTE Junior (KiD)" tvg-logo="" group-title="UK | US Kids",RTE Junior (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4811
+#EXTINF:-1 tvg-id="" tvg-name="Sky Disney (KiD)" tvg-logo="" group-title="UK | US Kids",Sky Disney (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4824
+#EXTINF:-1 tvg-id="" tvg-name="Tiny Pop (KiD)" tvg-logo="" group-title="UK | US Kids",Tiny Pop (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/4813
+#EXTINF:-1 tvg-id="" tvg-name="Baby Tv | UK" tvg-logo="13744_BabyTV.png" group-title="UK | US Kids",Baby Tv | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/94
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang | UK" tvg-logo="56270_Boomerang.png" group-title="UK | US Kids",Boomerang | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/95
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang +1 | UK" tvg-logo="" group-title="UK | US Kids",Boomerang +1 | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1949
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network | UK" tvg-logo="22375_Cartoon Netwrk.png" group-title="UK | US Kids",Cartoon Network | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/89
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito | UK" tvg-logo="" group-title="UK | US Kids",Cartoonito | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/121
+#EXTINF:-1 tvg-id="" tvg-name="Cbeebies | UK" tvg-logo="" group-title="UK | US Kids",Cbeebies | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2073
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel | UK" tvg-logo="40501_Disney Chnl.png" group-title="UK | US Kids",Disney Channel | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/97
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JUNIOR | UK" tvg-logo="12171_Disney Junior.png" group-title="UK | US Kids",DISNEY JUNIOR | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/98
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD | UK" tvg-logo="3073_Disney XD.png" group-title="UK | US Kids",Disney XD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/99
+#EXTINF:-1 tvg-id="Kix.uk" tvg-name="KIX | UK" tvg-logo="91824_Sky Arts 2.png" group-title="UK | US Kids",KIX | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/47
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon | UK" tvg-logo="41996_Nickelodeon.png" group-title="UK | US Kids",Nickelodeon | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/93
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Jr | UK" tvg-logo="29553_Nick Jr..png" group-title="UK | US Kids",Nickelodeon Jr | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/92
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Jr +1 | UK" tvg-logo="" group-title="UK | US Kids",Nickelodeon Jr +1 | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1943
+#EXTINF:-1 tvg-id="" tvg-name="NickJr Too | UK" tvg-logo="" group-title="UK | US Kids",NickJr Too | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1916
+#EXTINF:-1 tvg-id="" tvg-name="Nicktoons | UK" tvg-logo="72022_Nicktoons.png" group-title="UK | US Kids",Nicktoons | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/91
+#EXTINF:-1 tvg-id="" tvg-name="POP | UK" tvg-logo="" group-title="UK | US Kids",POP | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/125
+#EXTINF:-1 tvg-id="" tvg-name="Pop Max HD | UK" tvg-logo="" group-title="UK | US Kids",Pop Max HD | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2809
+#EXTINF:-1 tvg-id="" tvg-name="RTEjr | UK" tvg-logo="" group-title="UK | US Kids",RTEjr | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1903
+#EXTINF:-1 tvg-id="" tvg-name="Sky Disney | UK" tvg-logo="72079_Disney Chnl.png" group-title="UK | US Kids",Sky Disney | UK
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/96
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry (KiD)" tvg-logo="" group-title="UK | US Kids",Tom And Jerry (KiD)
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1946
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 1" tvg-logo="" group-title="US Sports",US: TSN 1
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1042
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 2" tvg-logo="" group-title="US Sports",US: TSN 2
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1043
+#EXTINF:-1 tvg-id="" tvg-name="US: TSN 3" tvg-logo="" group-title="US Sports",US: TSN 3
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1044
+#EXTINF:-1 tvg-id="" tvg-name="US:  TSN 4" tvg-logo="" group-title="US Sports",US:  TSN 4
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1045
+#EXTINF:-1 tvg-id="" tvg-name="US:  TSN 5" tvg-logo="" group-title="US Sports",US:  TSN 5
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1046
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein Sports USA HD" tvg-logo="" group-title="US Sports",US: Bein Sports USA HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1066
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN" tvg-logo="" group-title="US Sports",US: ESPN
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1053
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN2" tvg-logo="" group-title="US Sports",US: ESPN2
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1052
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sport 1" tvg-logo="" group-title="US Sports",US: FOX Sport 1
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1050
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Sport 2" tvg-logo="" group-title="US Sports",US: FOX Sport 2
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1051
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports Ohio HD -US" tvg-logo="" group-title="US Sports",US: Fox Sports Ohio HD -US
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1101
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX Soccer Plus-US HD" tvg-logo="" group-title="US Sports",US: FOX Soccer Plus-US HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1100
+#EXTINF:-1 tvg-id="" tvg-name="US: NBA TV" tvg-logo="" group-title="US Sports",US: NBA TV
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1047
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF" tvg-logo="" group-title="US Sports",US: NBC GOLF
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1049
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network HD" tvg-logo="13163_nfl-network.png" group-title="US Sports",US: NFL Network HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1054
+#EXTINF:-1 tvg-id="" tvg-name="US: SportsNet 360" tvg-logo="" group-title="US Sports",US: SportsNet 360
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2066
+#EXTINF:-1 tvg-id="" tvg-name="US: SportsNet One HD" tvg-logo="" group-title="US Sports",US: SportsNet One HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/2065
+#EXTINF:-1 tvg-id="" tvg-name="US: Tennis Channel HD" tvg-logo="85191_nickelodeon.png" group-title="US Sports",US: Tennis Channel HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1105
+#EXTINF:-1 tvg-id="" tvg-name="US: W*E Network HD" tvg-logo="" group-title="US Sports",US: W*E Network HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1099
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: Bloomberg" tvg-logo="" group-title="US",US: Bloomberg
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1108
+#EXTINF:-1 tvg-id="" tvg-name="US:  HBO Family HD" tvg-logo="" group-title="US",US:  HBO Family HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1058
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO HD" tvg-logo="" group-title="US",US: HBO HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1056
+#EXTINF:-1 tvg-id="" tvg-name="US:  HBO Zone HD" tvg-logo="" group-title="US",US:  HBO Zone HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1059
+#EXTINF:-1 tvg-id="" tvg-name="US: A&E" tvg-logo="" group-title="US",US: A&E
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1083
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC" tvg-logo="" group-title="US",US: ABC
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1092
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC News" tvg-logo="" group-title="US",US: ABC News
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1091
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC" tvg-logo="" group-title="US",US: AMC
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1097
+#EXTINF:-1 tvg-id="" tvg-name="US: Animal Planet HD" tvg-logo="" group-title="US",US: Animal Planet HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1078
+#EXTINF:-1 tvg-id="" tvg-name="US: Bravo HD" tvg-logo="" group-title="US",US: Bravo HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1055
+#EXTINF:-1 tvg-id="" tvg-name="US: Boomerang" tvg-logo="" group-title="US",US: Boomerang
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1085
+#EXTINF:-1 tvg-id="" tvg-name="US: Cartoon Network" tvg-logo="" group-title="US",US: Cartoon Network
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1103
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS HD" tvg-logo="" group-title="US",US: CBS HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1065
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax 5 StarMax" tvg-logo="" group-title="US",US: Cinemax 5 StarMax
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1067
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax ActionMax East" tvg-logo="" group-title="US",US: Cinemax ActionMax East
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1069
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax East" tvg-logo="" group-title="US",US: Cinemax East
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1068
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax Moremax" tvg-logo="" group-title="US",US: Cinemax Moremax
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1070
+#EXTINF:-1 tvg-id="" tvg-name="US: CNBC" tvg-logo="" group-title="US",US: CNBC
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1090
+#EXTINF:-1 tvg-id="" tvg-name="US: CNN" tvg-logo="" group-title="US",US: CNN
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1107
+#EXTINF:-1 tvg-id="" tvg-name="US: Comedy Central" tvg-logo="" group-title="US",US: Comedy Central
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1094
+#EXTINF:-1 tvg-id="" tvg-name="US: CW" tvg-logo="" group-title="US",US: CW
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1071
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Channel HD" tvg-logo="" group-title="US",US: Discovery Channel HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1080
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Science HD" tvg-logo="" group-title="US",US: Discovery Science HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1081
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY Network" tvg-logo="" group-title="US",US: DIY Network
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1079
+#EXTINF:-1 tvg-id="" tvg-name="US: Food Network HD" tvg-logo="" group-title="US",US: Food Network HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1084
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox HD" tvg-logo="" group-title="US",US: Fox HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1093
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies & Mysteries HD" tvg-logo="" group-title="US",US: Hallmark Movies & Mysteries HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1041
+#EXTINF:-1 tvg-id="" tvg-name="US: FX" tvg-logo="" group-title="US",US: FX
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1061
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX" tvg-logo="" group-title="US",US: FXX
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1086
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Channel HD" tvg-logo="" group-title="US",US: Hallmark Channel HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1088
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO Signature HD" tvg-logo="52413_hbo.png" group-title="US",US: HBO Signature HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1057
+#EXTINF:-1 tvg-id="" tvg-name="US: HISTORY" tvg-logo="" group-title="US",US: HISTORY
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1077
+#EXTINF:-1 tvg-id="" tvg-name="US: Investigation Discovery" tvg-logo="" group-title="US",US: Investigation Discovery
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1082
+#EXTINF:-1 tvg-id="" tvg-name="US: KTLA /CW" tvg-logo="" group-title="US",US: KTLA /CW
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1089
+#EXTINF:-1 tvg-id="" tvg-name="US: National Geographic" tvg-logo="" group-title="US",US: National Geographic
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1076
+#EXTINF:-1 tvg-id="" tvg-name="US: NHL Network" tvg-logo="" group-title="US",US: NHL Network
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1106
+#EXTINF:-1 tvg-id="" tvg-name="US: Nickelodeon" tvg-logo="" group-title="US",US: Nickelodeon
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1064
+#EXTINF:-1 tvg-id="" tvg-name="US: ShowTime 2 HD" tvg-logo="" group-title="US",US: ShowTime 2 HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1060
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime HD East" tvg-logo="" group-title="US",US: Showtime HD East
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1074
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime Showcase" tvg-logo="" group-title="US",US: Showtime Showcase
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1087
+#EXTINF:-1 tvg-id="" tvg-name="US: Showtime West HD" tvg-logo="45221_showtime.png" group-title="US",US: Showtime West HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1063
+#EXTINF:-1 tvg-id="" tvg-name="US: Spike" tvg-logo="" group-title="US",US: Spike
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1062
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ CINEMA HD" tvg-logo="" group-title="US",US: STARZ CINEMA HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1075
+#EXTINF:-1 tvg-id="" tvg-name="US: Starz Comedy" tvg-logo="" group-title="US",US: Starz Comedy
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1072
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EDGE HD" tvg-logo="" group-title="US",US: STARZ EDGE HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1073
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS HD" tvg-logo="18949_tbs.png" group-title="US",US: TBS HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1098
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT" tvg-logo="96844_tnt.png" group-title="US",US: TNT
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1096
+#EXTINF:-1 tvg-id="" tvg-name="US: TRU TV HD" tvg-logo="" group-title="US",US: TRU TV HD
+http://box.slweb.tv:8880/fantom_zzp/SPnhB1c1lY/1104
+
+
+
+
+
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GROUP-BEIN",beIN Sport HD1
 http://jo.sarhantv.xyz:8880/omohak/131313/1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@GROUP-BEIN",beIN Sport HD2
