@@ -104,16 +104,10 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=1c7cd47eb6d44a98d7dfb408ac93346b36347412c7d30ae6fde3742bbc4f21b9
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.11c484ea9305ea4c7bb6b2e6d570d466.Coday" tvg-name"[CODAY] Celestial Movie _USEETV",Celestial Movie _USEETV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=ef2848a81b28e96ff815e4def1d96de436347412c7d30ae6fde3742bbc4f21b9
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.36ed197b3f31618fdbadb3df86f804bd.Coday" tvg-name"[CODAY] Cinema World _USEETV",Cinema World _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=009323e07bdb197e0315fe8bb52864d336347412c7d30ae6fde3742bbc4f21b9
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png?id=8" group-title="MOVIES" tvg-id="Riyan.4a64d913220fca4c33c140c6952688a8.Coday" tvg-name"[CODAY] Flik _USEETV",Flik _USEETV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=974a977ed8c481816eab7f4fdf6cfc2d36347412c7d30ae6fde3742bbc4f21b9
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxypremium_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.cc638784cf213986ec75983a4aa08cdb.Coday" tvg-name"[CODAY] Galaxy Premium _USEETV",Galaxy Premium _USEETV
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=e91c148e4a522735af840d330b2c4c9e36347412c7d30ae6fde3742bbc4f21b9
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png?id=8" group-title="MOVIES" tvg-id="Riyan.64c31821603ab476a318839606743bd6.Coday" tvg-name"[CODAY] Galaxy _USEETV",Galaxy _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=e03239b27e34a5f7f3bde739459dd53736347412c7d30ae6fde3742bbc4f21b9
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png?id=8" group-title="MOVIES" tvg-id="Riyan.cd63a3eec3319fd9c84c942a08316e00.Coday" tvg-name"[CODAY] IMC _USEETV",IMC _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5c36347412c7d30ae6fde3742bbc4f21b9
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="MOVIES",ID:HBO SD 
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764da202cb962ac59075b964b07152d234b70
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="MOVIES",ID:HBO Signature SD 
