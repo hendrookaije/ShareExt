@@ -1,5 +1,34 @@
 
-
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony SIX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Sony SIX HD
+http://iptvtree.net:8080/Line1051/f4fffd47/4853
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Sony TEN 1 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/74893
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Sony TEN 2 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/56190
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TEN 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Sony TEN 3
+http://iptvtree.net:8080/Line1051/f4fffd47/56191
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORT 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: STAR SPORT 3 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/62584
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Star Sports 1 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/3630
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 Hindi" tvg-logo="" group-title="ShareExt@Sport-KUY",IN: Star Sports 1 Hindi
+http://iptvtree.net:8080/Line1051/f4fffd47/247516
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: STAR SPORTS 2 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/3631
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2 Select HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Star Sports 2 Select HD
+http://iptvtree.net:8080/Line1051/f4fffd47/201082
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Star Sports Select 1 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/82628
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: STAR SPORTS SELECT 2 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/16619
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ten Golf FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Ten Golf FHD
+http://iptvtree.net:8080/Line1051/f4fffd47/196097
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ten Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Ten Sports
+http://iptvtree.net:8080/Line1051/f4fffd47/82635
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ten Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Ten Sports 3 HD
+http://iptvtree.net:8080/Line1051/f4fffd47/82633
+#EXTINF:-1 tvg-id="" tvg-name="IN: Willow Cricket HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ShareExt@Sport-KUY",IN: Willow Cricket HD
+http://iptvtree.net:8080/Line1051/f4fffd47/165776
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sport-KUY",Supersports 1 backup
 http://tv.wakds.xyz:8080/@multi2021/@multi202110/120
