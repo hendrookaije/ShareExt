@@ -1005,12 +1005,6 @@ http://rv.therevenge.co:80/307213231550/307213231550/85164
 http://rv.therevenge.co:80/307213231550/307213231550/85163
 #EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="SPORT LIVE",SUPERSPORT 8 HD
 http://rv.therevenge.co:80/307213231550/307213231550/85162
-#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="SPORT LIVE",Sony Ten 1
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="SPORT LIVE",Sony Ten 2
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-#EXTINF:-1tvg-logo="https://i.postimg.cc/8k4wT1gJ/Sony-Ten.png" group-title="SPORT LIVE",Sony Six
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/HLHjpDTy/images-2.png" group-title="SPORT LIVE",Super tenis
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
@@ -1035,6 +1029,186 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 
 
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Astro Supersports
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/796
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Astro SuperSport2
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/798
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Astro SuperSport3
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/799
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Astro SuperSport4
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/800
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",BEINSPORT 1 FR HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/843
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",BEINSPORT 2 FR HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/844
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",BEINSPORT 3 FR HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/845
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",RMC SPORT 1 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/846
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",RMC SPORT 2 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/847
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",RMC SPORT 3 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/848
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",RMC SPORT 4 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/849
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",UK:Sk Sports Main Event HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/874
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",SETANTA SPORTS HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/968
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Bein Liga HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1009
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 1 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1097
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Bein Sports 1 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/614
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 2 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/615
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 3 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/616
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 4 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/617
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 5 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/618
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 6 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/619
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 7 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/620
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 8 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/621
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 9 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/622
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 10 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/623
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Bein Sports 11 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/629
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",AR|Bein Sports 12 English HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1101
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Bein Sports 13 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1102
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Bein Sports 14 HD (Match Days Only)
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1103
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",Bein Sports 15 HD (Match Days Only)
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1104
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",[CA]BEIN LaLiga HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1106
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",TR:beIN SPORTS 1
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1107
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",TR:beIN SPORTS 2
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1108
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",TR:beIN SPORTS 3
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1109
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",TR:beIN SPORTS 4
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1110
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",US:Bein Sports USA
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1111
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",ES:BEIN LA LIGA
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1112
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",ES:BEIN LA LIGA1
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1113
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|FR|BEIN SPORT 1
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1114
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|FR|BEIN SPORT 2
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1115
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|FR|BEIN SPORT 3
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1116
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",NOW Sports 1 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1117
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",NOW Sports 2 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1118
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",NOW Sports 3 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1119
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",NOW Sports 4 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1120
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",NOW Sports 5 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1121
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",NOW Sports 6 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1122
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",SKYNET HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1137
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|SPORTV1 FHD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1146
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|SPORT TV2 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1152
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|SPORT TV1
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1153
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|SPORT TV NBA
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1154
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|Sport TV 4HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1155
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|SPORT TV 3 FHD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1156
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|ELEVEN SPORTS 6
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1158
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|ELEVEN SPORTS 5
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1159
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|ELEVEN SPORTS 4 FHD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1160
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|ELEVEN SPORTS 3 FHD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1161
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|ELEVEN SPORTS 2 FHD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1162
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|ELEVEN SPORTS 1 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1163
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|SPORT TV +
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1164
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",PT:SPORTV + HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1165
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",PT:SPORTV5 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1169
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|M.GOLF
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1199
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|M.FORMULA 1
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1200
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|M.MULTIDEPORTE
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1201
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|M.DEPORTES
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1202
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|LIGA DE CAMPEONES
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1203
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|GOL TV
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1204
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|TELEDEPORTE
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1205
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|REAL MADRID TV
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1206
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|BARCA TV
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1207
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|ES|EUROSPORT 1
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1208
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|BENFICA TV
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1371
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|PFC INTERNACIONAL
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1372
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|MOTORVISION
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1373
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|KOMBAT SPORT
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1374
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",|PT|SPORTING TV
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1375
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",CANAL+SPORT HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1547
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",EUROSPORT 1 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1590
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",EUROSPORT 2 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1591
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",INFOSPORT HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1592
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",L'EQUIPE 21 HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1593
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",GOLF CHANNEL HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1594
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",GOLF+HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1595
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",EQUIDIA LIVE HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1596
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",MOTORSPORT.TV HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1597
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",EURONEWS HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1630
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SISTERSports",MYSPORT ONE HD
+http://senensisters.live:8080/MiZoehq0l4/88Fz8SpDXI/1637
 
 
 
