@@ -165,6 +165,171 @@ http://103.55.39.182/~dusktil2/a.m3u8?q=dubaisport2
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",OXYGEN.ID
+http://oxygen.cpdev.us/oxygen/play/oxygentv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",NET TV
+http://oxygen.cpdev.us/oxygen/play/nettv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",METRO TV
+http://oxygen.cpdev.us/oxygen/play/metrotv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",KOMPAS TV
+http://oxygen.cpdev.us/oxygen/play/kompastv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TVRI NASIONAL
+http://oxygen.cpdev.us/oxygen/play/tvri
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",SCTV
+http://oxygen.cpdev.us/oxygen/play/sctv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TRANS 7
+http://oxygen.cpdev.us/oxygen/play/trans7
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TRANS TV
+http://oxygen.cpdev.us/oxygen/play/transtv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",INDOSIAR
+http://oxygen.cpdev.us/oxygen/play/indosiar
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",ANTV
+http://oxygen.cpdev.us/oxygen/play/antv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TV ONE
+http://oxygen.cpdev.us/oxygen/play/tvone
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",RTV
+http://oxygen.cpdev.us/oxygen/play/rtv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",JAK TV
+http://oxygen.cpdev.us/oxygen/play/jaktv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",O CHANNEL
+http://oxygen.cpdev.us/oxygen/play/ochannel
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",MATRIX TV
+http://oxygen.cpdev.us/oxygen/play/matrixtv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",DAAI INDONESIA
+http://oxygen.cpdev.us/oxygen/play/daaitv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",LEJEL HOME SHOPING
+http://oxygen.cpdev.us/oxygen/play/lejelhs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",NUSANTARA TV
+http://oxygen.cpdev.us/oxygen/play/nusantaratv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",MAGNA TV
+http://oxygen.cpdev.us/oxygen/play/magnatv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",BN TV
+http://oxygen.cpdev.us/oxygen/play/bn-tv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",RRI NET
+http://oxygen.cpdev.us/oxygen/play/rri-net
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",PERSIJA TV
+http://oxygen.cpdev.us/oxygen/play/persijatv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",MYTV
+http://oxygen.cpdev.us/oxygen/play/mytv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",ELSHINTA
+http://oxygen.cpdev.us/oxygen/play/elshinta
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",NHK WORLD
+http://oxygen.cpdev.us/oxygen/play/nhkworld
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",PHOENIX HK
+http://oxygen.cpdev.us/oxygen/play/phoenixhongkong
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",DW TV ASIA
+http://oxygen.cpdev.us/oxygen/play/dwenglish
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",FRANCE 24
+http://oxygen.cpdev.us/oxygen/play/france24
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",ARIRANG WORLD
+http://oxygen.cpdev.us/oxygen/play/arirangworld
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",CCTV 4
+http://oxygen.cpdev.us/oxygen/play/cctv4asia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",VOA
+http://oxygen.cpdev.us/oxygen/play/voa
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",RAI ITALIA
+http://oxygen.cpdev.us/oxygen/play/raiitalia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",CETV 1
+http://oxygen.cpdev.us/oxygen/play/cetv1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TVE ASIA
+http://oxygen.cpdev.us/oxygen/play/tveasia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",CGTN DOCUMENTARY
+http://oxygen.cpdev.us/oxygen/play/cgtndocumentary
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TV5 MONDE
+http://oxygen.cpdev.us/oxygen/play/tv5monde
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",NIPPON TV
+http://oxygen.cpdev.us/oxygen/play/nihontv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",SALAM TV
+http://oxygen.cpdev.us/oxygen/play/salamtv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",RODJA TV
+http://oxygen.cpdev.us/oxygen/play/rodjatv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",U CHANNEL
+http://oxygen.cpdev.us/oxygen/play/uchannel
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TAWAF TV
+http://oxygen.cpdev.us/oxygen/play/tawaftv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",QUR'AN TV
+http://oxygen.cpdev.us/oxygen/play/qurantv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",BERITA SATU
+http://oxygen.cpdev.us/oxygen/play/beritasatu
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",iNews TV
+http://oxygen.cpdev.us/oxygen/play/inews
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",CNBC INDONESIA
+http://oxygen.cpdev.us/oxygen/play/cnbcindonesia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",ALJAZEERA
+http://oxygen.cpdev.us/oxygen/play/aljazeera
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TRT WORLD
+http://oxygen.cpdev.us/oxygen/play/trtworld
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",PHOENIX CHINESE
+http://oxygen.cpdev.us/oxygen/play/phoenixchinese
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",CHANNEL NEWS ASIA
+http://oxygen.cpdev.us/oxygen/play/channelnewsasia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",RUSSIA TODAY
+http://oxygen.cpdev.us/oxygen/play/russiatoday
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",PHOENIX INFO NEWS
+http://oxygen.cpdev.us/oxygen/play/phoenixnews
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",EURONEWS
+http://oxygen.cpdev.us/oxygen/play/euronewsasia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",CGTN
+http://oxygen.cpdev.us/oxygen/play/cgtn
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TVB NEWS
+http://oxygen.cpdev.us/oxygen/play/tvbnews
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",BLOOMBERG
+http://oxygen.cpdev.us/oxygen/play/bloomberg
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",CNBC
+http://oxygen.cpdev.us/oxygen/play/cnbc
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",SINEMA INDONESIA
+http://oxygen.cpdev.us/oxygen/play/sinemaindonesia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",SINEMA INDONESIA X
+http://oxygen.cpdev.us/oxygen/play/sinemaindonesia-x
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",B4U MOVIES
+http://oxygen.cpdev.us/oxygen/play/b4umovieindia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",XING KONG CHINA
+http://oxygen.cpdev.us/oxygen/play/xingkong
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",LOTUS MACAU
+http://oxygen.cpdev.us/oxygen/play/lotusmacau
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",ATV
+http://oxygen.cpdev.us/oxygen/play/atv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",MCINE
+http://oxygen.cpdev.us/oxygen/play/mcine
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",DRAKOR
+http://oxygen.cpdev.us/oxygen/play/drakorplus
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",FASHION TV
+http://oxygen.cpdev.us/oxygen/play/fashiontv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",GO TO LUXE
+http://oxygen.cpdev.us/oxygen/play/gotoluxe
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",K DRAMA
+http://oxygen.cpdev.us/oxygen/play/k-drama
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",CHANNEL V CHINA
+http://oxygen.cpdev.us/oxygen/play/vchina
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",B4U MUSIC
+http://oxygen.cpdev.us/oxygen/play/b4umusicindia
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",EDUKASI
+http://oxygen.cpdev.us/oxygen/play/tvedukasi
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TOONMAX
+http://oxygen.cpdev.us/oxygen/play/toonmax
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",SPACETOON
+http://oxygen.cpdev.us/oxygen/play/spacetoon
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",EBS KIDS
+http://oxygen.cpdev.us/oxygen/play/ebskids
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",MENTARI TV
+http://oxygen.cpdev.us/oxygen/play/mentaritv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",TVRI SPORT
+http://oxygen.cpdev.us/oxygen/play/tvrisport
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",SPORT ONE
+http://oxygen.cpdev.us/oxygen/play/sportone
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",DUBAI SPORTS 3
+http://oxygen.cpdev.us/oxygen/play/dubaisport3
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@OXYGEN TV",RED BULL TV
+http://oxygen.cpdev.us/oxygen/play/redbulltv
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="ShareExt@Local", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="ShareExt@Local", TRANS 7
