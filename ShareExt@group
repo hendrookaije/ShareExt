@@ -25,7 +25,138 @@ http://tx2play1.douyucdn.cn:80/live/dyliveflv3/329667rnoJ0R33Eh_4000p.xs
 
 
 
-
+#EXTINF:-1 tvg-id="oxygentv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/oxygen.png" group-title="OXYGEN",Oxygen TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=oxygentv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/net.png" group-title="OXYGEN",NET.
+http://103.55.39.182/~dusktil2/a.m3u8?q=nettv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="OXYGEN",METRO TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=metrotv 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvri.png" group-title="OXYGEN",TVRI
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvri
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sctv.png" group-title="OXYGEN",SCTV
+http://103.55.39.182/~dusktil2/a.m3u8?q=sctv 
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://202.74.236.189/~uzbwkzam/img/trans7.png" group-title="OXYGEN",TRANS 7
+http://103.55.39.182/~dusktil2/a.m3u8?q=trans7 
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/transtv.png" group-title="OXYGEN",TRANS TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=transtv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/indosiar.png" group-title="OXYGEN",INDOSIAR
+http://103.55.39.182/~dusktil2/a.m3u8?q=indosiar
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="OXYGEN",ANTV
+http://103.55.39.182/~dusktil2/a.m3u8?q=antv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvone.png" group-title="OXYGEN",TV ONE
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvone 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/jaktv.png" group-title="OXYGEN",JAKTV
+http://103.55.39.182/~dusktil2/a.m3u8?q=jaktv 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/matrixtv.png" group-title="OXYGEN",MATRIX TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=matrixtv 
+#EXTINF:-1 tvg-id="lejelhomeshopping" tvg-logo="http://202.74.236.189/~uzbwkzam/img/lejelhs.png" group-title="OXYGEN",LEJEL HS
+http://103.55.39.182/~dusktil2/a.m3u8?q=lejelhs 
+#EXTINF:-1 tvg-id="nusantaratv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ntv.png" group-title="OXYGEN",NUSANTARA TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=nusantaratv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/kompastv.png" group-title="OXYGEN",KOMPAS TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=kompastv
+#EXTINF:-1 tvg-id="rtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/rtv.png" group-title="OXYGEN",RTV
+http://103.55.39.182/~dusktil2/a.m3u8?q=rtv
+#EXTINF:-1 tvg-id="ochannel" tvg-logo="http://202.74.236.189/~uzbwkzam/img/ochannel.png" group-title="OXYGEN",O CHANNEL
+http://103.55.39.182/~dusktil2/a.m3u8?q=ochannel
+#EXTINF:-1 tvg-id="nhkworld" tvg-logo="http://202.74.236.189/~uzbwkzam/img/nhkworld.png" group-title="OXYGEN",NHK WORLD
+http://103.55.39.182/~dusktil2/a.m3u8?q=nhkworld 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixhk.png" group-title="OXYGEN",PHOENIX HK
+http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixhongkong
+#EXTINF:-1 tvg-id="dwtv" tvg-logo="http://202.74.236.189/~uzbwkzam/img/dw.png" group-title="OXYGEN",DW TV ASIA
+http://103.55.39.182/~dusktil2/a.m3u8?q=dwenglish
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/france24.png" group-title="OXYGEN",FRANCE 24
+http://103.55.39.182/~dusktil2/a.m3u8?q=france24
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/arirang.png" group-title="OXYGEN",ARIRANG
+http://103.55.39.182/~dusktil2/a.m3u8?q=arirangworld
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cctv4.png" group-title="OXYGEN",CCTV4
+http://103.55.39.182/~dusktil2/a.m3u8?q=cctv4asia
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/voa.png" group-title="OXYGEN",VOA
+http://103.55.39.182/~dusktil2/a.m3u8?q=voa
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/raiitalia.png" group-title="OXYGEN",RAI ITALIA
+http://103.55.39.182/~dusktil2/a.m3u8?q=raiitalia
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cetv1.png" group-title="OXYGEN",CETV 1
+http://103.55.39.182/~dusktil2/a.m3u8?q=cetv1
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tve.png" group-title="OXYGEN",TVE ASIA
+http://103.55.39.182/~dusktil2/a.m3u8?q=tveasia
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tv5monde.png" group-title="OXYGEN",TV5MONDE
+http://103.55.39.182/~dusktil2/a.m3u8?q=tv5monde
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtndoc.png" group-title="OXYGEN",CGTN DOCUMENTARY
+http://103.55.39.182/~dusktil2/a.m3u8?q=cgtndocumentary
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/salamtv.png" group-title="OXYGEN",SALAM TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=salamtv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rodjatv.png" group-title="OXYGEN",RODJA TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=rodjatv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/daaitv.png" group-title="OXYGEN",DAAI TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=daaitv
+#EXTINF:-1 tvg-id="alquran" tvg-logo="http://202.74.236.189/~uzbwkzam/img/mekkah.png" group-title="OXYGEN",QUR'AN TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=qurantv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tawaf.png" group-title="OXYGEN",TAWAF TV
+http://103.55.39.182/~dusktil2/a.m3u8?q=tawaftv
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bs.png" group-title="OXYGEN",BERITA SATU
+http://103.55.39.182/~dusktil2/a.m3u8?q=beritasatu
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/inews.png" group-title="OXYGEN",iNews
+http://103.55.39.182/~dusktil2/a.m3u8?q=inews
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcindonesia.png" group-title="OXYGEN",CNBC INDONESIA
+http://103.55.39.182/~dusktil2/a.m3u8?q=cnbcindonesia
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="http://202.74.236.189/~uzbwkzam/img/aljazeera.png" group-title="OXYGEN",AL JAZEERA
+http://103.55.39.182/~dusktil2/a.m3u8?q=aljazeera
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/trt.png" group-title="OXYGEN",TRT WORLD
+//http://103.55.39.182/~dusktil2/a.m3u8?q=trtworld 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixchinese.png" group-title="OXYGEN",PHOENIX CHINESE
+http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixchinese
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cna.png" group-title="OXYGEN",CHANNEL NEWS ASIA
+http://103.55.39.182/~dusktil2/a.m3u8?q=channelnewsasia
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/rt.png" group-title="OXYGEN",RUSSIA TODAY
+http://103.55.39.182/~dusktil2/a.m3u8?q=russiatoday
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/phoenixinfonews.png" group-title="OXYGEN",PHOENIX INFO NEWS
+http://103.55.39.182/~dusktil2/a.m3u8?q=phoenixnews
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/euronews.png" group-title="OXYGEN",EURONEWS
+http://103.55.39.182/~dusktil2/a.m3u8?q=euronewsasia
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cgtn.png" group-title="OXYGEN",CGTN
+http://103.55.39.182/~dusktil2/a.m3u8?q=cgtn
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvbnews.png" group-title="OXYGEN",TVB NEWS
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvbnews
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/bloomberg.png" group-title="OXYGEN",BLOOMBERG
+http://103.55.39.182/~dusktil2/a.m3u8?q=bloomberg
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/cnbcasia.png" group-title="OXYGEN",CNBC
+http://103.55.39.182/~dusktil2/a.m3u8?q=cnbc
+#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesia.png" group-title="OXYGEN",SINEMA INDONESIA
+http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia
+#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="http://202.74.236.189/~uzbwkzam/img/sinemaindonesiax.png" group-title="OXYGEN",SINEMA INDONESIA X
+http://103.55.39.182/~dusktil2/a.m3u8?q=sinemaindonesia-x
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umovies.png" group-title="OXYGEN",B4U MOVIES
+http://103.55.39.182/~dusktil2/a.m3u8?q=b4umovieindia
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/xingxong.png" group-title="OXYGEN",XING KONG CHINA
+http://103.55.39.182/~dusktil2/a.m3u8?q=xingkong
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lotusmacau.png" group-title="OXYGEN",LOTUS MACAU
+http://103.55.39.182/~dusktil2/a.m3u8?q=lotusmacau
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/drakor.png" group-title="OXYGEN",Drakor Plus
+http://103.55.39.182/~dusktil2/a.m3u8?q=drakorplus
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/lbs.png" group-title="OXYGEN",K DRAMA
+http://103.55.39.182/~dusktil2/a.m3u8?q=k-drama
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/luxetv.png" group-title="OXYGEN",GO TO LUXE
+http://103.55.39.182/~dusktil2/a.m3u8?q=gotoluxe 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/channelvchina.png" group-title="OXYGEN",CHANNEL V CHINA
+http://103.55.39.182/~dusktil2/a.m3u8?q=vchina
+#EXTINF:-1 tvg-id="b4umovies" tvg-logo="http://202.74.236.189/~uzbwkzam/img/b4umusic.png" group-title="OXYGEN",B4U MUSIC
+http://103.55.39.182/~dusktil2/a.m3u8?q=b4umusicindia
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/mtvchina.png" group-title="OXYGEN",MTV CHINA
+http://103.55.39.182/~dusktil2/a.m3u8?q=mtvchina 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/spacetoon.png" group-title="OXYGEN",SPACETOON
+http://103.55.39.182/~dusktil2/a.m3u8?q=spacetoon
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvedukasi.png" group-title="OXYGEN",TV EDUKASI
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvedukasi
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/toonmax.png" group-title="OXYGEN",TOONMAX
+http://103.55.39.182/~dusktil2/a.m3u8?q=toonmax
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/tvrisports.png" group-title="OXYGEN",TVRI SPORT
+http://103.55.39.182/~dusktil2/a.m3u8?q=tvrisport
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/sportsone.png" group-title="OXYGEN",SPORT ONE
+http://103.55.39.182/~dusktil2/a.m3u8?q=sportone
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/alkasstwo.png" group-title="OXYGEN",AL KASS TWO
+http://103.55.39.182/~dusktil2/a.m3u8?q=alkasstwo
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/dubaisports3.png" group-title="OXYGEN",DUBAI SPORTS 3
+http://103.55.39.182/~dusktil2/a.m3u8?q=dubaisport2
 
 
 
@@ -1086,31 +1217,6 @@ http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=1458c6647dbf7cca56dff7bfe0576ebb102a6ed6587b5b8cb4ebbe972864690b
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/0CyFv4-SR0eH_tbFi6pDnecZyx8=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-f32604.jpg" tvg-id="RIYAN.4b5303d6ba2ccdbcbdff88d095330cba.SHINTA" tvg-name"[CODAY] Champions TV 3 _VIDIO" group-title="SPORT LIVE",Champions TV 3 _VIDIO
 http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafd102a6ed6587b5b8cb4ebbe972864690b
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_big1.png?v=2.0.0.13" group-title="SPORT LIVE"  tvg-id="Riyan.d67d8ab4f4c10bf22aa353e27879133c.Coday" tvg-name"[CODAY] beIN Sport 1 _USEETV",beIN Sport 1 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=a1d0c6e83f027327d8461063f4ac58a677c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_big1.png?v=2.0.0.13" group-title="SPORT LIVE"  tvg-id="Riyan.1679091c5a880faf6fb5e6087eb1b2dc.Coday" tvg-name"[CODAY] beIN Sport 2 _USEETV",beIN Sport 2 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=17e62166fc8586dfa4d1bc0e1742c08b77c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesport_big.png?v=2.0.0.13" group-title="SPORT LIVE"  tvg-id="Riyan.98f13708210194c475687be6106a3b84.Coday" tvg-name"[CODAY] UseeSports _USEETV",UseeSports _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=a3c65c2974270fd093ee8a9bf8ae7d0b77c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useesports2_big.png" group-title="SPORT LIVE"  tvg-id="Riyan.1ff1de774005f8da13f42943881c655f.Coday" tvg-name"[CODAY] UseeSports2 _USEETV",UseeSports2 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=49182f81e6a13cf5eaa496d51fea640677c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_big.png" group-title="SPORT LIVE"  tvg-id="Riyan.4e732ced3463d06de0ca9a15b6153677.Coday" tvg-name"[CODAY] Champion TV 1 _USEETV",Champion TV 1 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=53c3bce66e43be4f209556518c2fcb5477c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_big.png" group-title="SPORT LIVE"  tvg-id="Riyan.f7177163c833dff4b38fc8d2872f1ec6.Coday" tvg-name"[CODAY] Champion TV 2 _USEETV",Champion TV 2 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=6883966fd8f918a4aa29be29d2c386fb77c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_big.png?v=2.0.0.13" group-title="SPORT LIVE"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] Fox Sport 1 _USEETV",Fox Sport 1 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=45fbc6d3e05ebd93369ce542e8f2322d77c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_big.png?v=2.0.0.13" group-title="SPORT LIVE"  tvg-id="Riyan.c0c7c76d30bd3dcaefc96f40275bdc0a.Coday" tvg-name"[CODAY] Fox Sport 2 _USEETV",Fox Sport 2 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=63dc7ed1010d3c3b8269faf0ba7491d477c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_big.png?v=2.0.0.13" group-title="SPORT LIVE"  tvg-id="Riyan.c51ce410c124a10e0db5e4b97fc2af39.Coday" tvg-name"[CODAY] Fox Sport 3 _USEETV",Fox Sport 3 _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=e96ed478dab8595a7dbda4cbcbee168f77c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_golf_big1.png?v=2.0.0.14" group-title="SPORT LIVE"  tvg-id="Riyan.f457c545a9ded88f18ecee47145a72c0.Coday" tvg-name"[CODAY] Golf _USEETV",Golf _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=ac627ab1ccbdb62ec96e702f07f6425b77c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nba_big1.png?v=2.0.0.13" group-title="SPORT LIVE"  tvg-id="Riyan.6f4922f45568161a8cdf4ad2299f6d23.Coday" tvg-name"[CODAY] NBA _USEETV",NBA _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=f899139df5e1059396431415e770c6dd77c3a624b0b2fdb97736848805156a71
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_egg_big1.png?v=2.0.0.13" group-title="SPORT LIVE"  tvg-id="Riyan.a87ff679a2f3e71d9181a67b7542122c.Coday" tvg-name"[CODAY] egg network _USEETV",egg network _USEETV
-http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=684dd6fcc268a122d3d8867a18e32164&cdy=38b3eff8baf56627478ec76a704e9b5277c3a624b0b2fdb97736848805156a71
-
 
 
 
