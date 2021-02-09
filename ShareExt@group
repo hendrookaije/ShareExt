@@ -288,6 +288,166 @@ http://122.248.43.138:1935/ch3/myStream/live.m3u8
 
 
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",GINXsport
+http://185.238.242.136:20000/hls/play/id/425.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Gsport
+http://185.238.242.136:20000/hls/play/id/426.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Astro chuanCia
+http://185.238.242.136:20000/hls/play/id/427.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",AOD
+http://185.238.242.136:20000/hls/play/id/428.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",TVB
+http://185.238.242.136:20000/hls/play/id/429.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",KIX
+http://185.238.242.136:20000/hls/play/id/430.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",ChuanCia
+http://185.238.242.136:20000/hls/play/id/431.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",HuaHeeTai
+http://185.238.242.136:20000/hls/play/id/432.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",AEC
+http://185.238.242.136:20000/hls/play/id/433.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",MediaCops
+http://185.238.242.136:20000/hls/play/id/434.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Tv1
+http://185.238.242.136:20000/hls/play/id/435.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Tv2
+http://185.238.242.136:20000/hls/play/id/436.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Tv3
+http://185.238.242.136:20000/hls/play/id/437.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",TV9
+http://185.238.242.136:20000/hls/play/id/438.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Ntv7
+http://185.238.242.136:20000/hls/play/id/439.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Awani
+http://185.238.242.136:20000/hls/play/id/440.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",CelestialMovie
+http://185.238.242.136:20000/hls/play/id/441.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",8tv
+http://185.238.242.136:20000/hls/play/id/442.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",XiaoThaiYang
+http://185.238.242.136:20000/hls/play/id/443.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",AstroSport1
+http://185.238.242.136:20000/hls/play/id/444.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",AstroSport2
+http://185.238.242.136:20000/hls/play/id/445.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",AstroSport3
+http://185.238.242.136:20000/hls/play/id/446.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",AstroSport4
+http://185.238.242.136:20000/hls/play/id/447.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",MediaCorp
+http://185.238.242.136:20000/hls/play/id/448.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Mediacorp5
+http://185.238.242.136:20000/hls/play/id/449.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Xingkong
+http://185.238.242.136:20000/hls/play/id/56.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Boomerang
+http://185.238.242.136:20000/hls/play/id/57.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Animax
+http://185.238.242.136:20000/hls/play/id/59.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Mezzo
+http://185.238.242.136:20000/hls/play/id/60.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",DisneyJunior
+http://185.238.242.136:20000/hls/play/id/47.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Dreamworks
+http://185.238.242.136:20000/hls/play/id/48.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Nick
+http://185.238.242.136:20000/hls/play/id/50.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",TravelChanel
+http://185.238.242.136:20000/hls/play/id/63.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Seti
+http://185.238.242.136:20000/hls/play/id/64.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",LotusMacau
+http://185.238.242.136:20000/hls/play/id/70.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",CBCsport
+http://185.238.242.136:20000/hls/play/id/80.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Gtv
+http://185.238.242.136:20000/hls/play/id/81.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",WBtv
+http://185.238.242.136:20000/hls/play/id/83.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",TLC
+http://185.238.242.136:20000/hls/play/id/102.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",BlueExtreme
+http://185.238.242.136:20000/hls/play/id/103.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Hbohits
+http://185.238.242.136:20000/hls/play/id/329.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",HboSig
+http://185.238.242.136:20000/hls/play/id/330.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",HboFamily
+http://185.238.242.136:20000/hls/play/id/331.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Hbo
+http://185.238.242.136:20000/hls/play/id/332.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Sport+1
+http://185.238.242.136:20000/hls/play/id/356.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Yoyo
+http://185.238.242.136:20000/hls/play/id/371.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",TimeMovies
+http://185.238.242.136:20000/hls/play/id/373.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Outdoor
+http://185.238.242.136:20000/hls/play/id/374.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",FoxSport3
+http://185.238.242.136:20000/hls/play/id/376.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Sporty1
+http://185.238.242.136:20000/hls/play/id/379.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Sporty2
+http://185.238.242.136:20000/hls/play/id/380.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",FoxFamilyMovies
+http://185.238.242.136:20000/hls/play/id/383.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Fox
+http://185.238.242.136:20000/hls/play/id/384.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",FoxActionMovies
+http://185.238.242.136:20000/hls/play/id/385.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Fox crime
+http://185.238.242.136:20000/hls/play/id/386.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",FoxMoviesHD
+http://185.238.242.136:20000/hls/play/id/387.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Eleven+
+http://185.238.242.136:20000/hls/play/id/419.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",SkysportGolf
+http://185.238.242.136:20000/hls/play/id/417.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",SkysportPremierLiga
+http://185.238.242.136:20000/hls/play/id/418.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",AXN
+http://185.238.242.136:20000/hls/play/id/423.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",BBc lifestyle
+http://185.238.242.136:20000/hls/play/id/424.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",GinxSport
+http://185.238.242.136:20000/hls/play/id/425.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Eurosport
+http://185.238.242.136:20000/hls/play/id/426.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",CctvSport
+http://185.238.242.136:20000/hls/play/id/463.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",ZeeNews
+http://185.238.242.136:20000/hls/play/id/464.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",SbsSport
+http://185.238.242.136:20000/hls/play/id/487.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",SbsGolf
+http://185.238.242.136:20000/hls/play/id/486.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Inet
+http://185.238.242.136:20000/hls/play/id/490.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",CTS
+http://185.238.242.136:20000/hls/play/id/491.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",YTN
+http://185.238.242.136:20000/hls/play/id/492.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",KPop
+http://185.238.242.136:20000/hls/play/id/493.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Memo
+http://185.238.242.136:20000/hls/play/id/494.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",SCM
+http://185.238.242.136:20000/hls/play/id/496.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Moviechina2
+http://185.238.242.136:20000/hls/play/id/497.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@MALAY_20000",Ysport
+http://185.238.242.136:20000/hls/play/id/498.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO RIA HD
 https://nonton.site:8443/provision/pp/37332
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASTRO-MY",ASTRO PRIMA HD
