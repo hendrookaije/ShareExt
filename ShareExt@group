@@ -2722,6 +2722,41 @@ http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",ChuanCia
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",FOX CRIME
+http://50.7.161.82:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",FOX ACTION
+http://50.7.161.82:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",FOX LIFE
+http://50.7.161.82:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",FOX MOVIES
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",FOX HD
+http://50.7.161.82:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",QIYI
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AEC 1511
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AOD HD
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",HBO
+http://158.140.171.166/utv/hbo.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",HBO FAMILY
+http://158.140.171.166/utv/hbofam.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",HBO SIGNATURE
+http://158.140.171.166/utv/hbosig.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CINEMAX
+http://158.140.171.166/utv/cinemax.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",RED BY HBO
+http://158.140.171.166/utv/red.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",TVB星河台
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",NEXTTV
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CCM馃嚥馃嚲馃嚥馃嚲馃嚥馃嚲
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",CelestiaMovie馃嚥馃嚲馃嚥馃嚲馃嚥馃嚲
