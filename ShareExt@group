@@ -1842,6 +1842,9 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORT LIVE",Halow Sport HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
+
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/kGm9D69n/Super-Sport-HD.png" group-title="SPORT LIVE",SUPERSPORT 1 HD
 http://rv.therevenge.co:80/307213231550/307213231550/85169
@@ -2918,6 +2921,13 @@ https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/famhd/playlist.m3u8
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/red/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",CINEMAX
 https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/maxhd/playlist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Halow Movies HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/138
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",Halow Kids HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/139
+
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",+HBO(setAuto)
