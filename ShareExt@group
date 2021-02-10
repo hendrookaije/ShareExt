@@ -2898,6 +2898,28 @@ http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",FOX ACTION MOVIES Thai
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",LOTUS MACAU
+http://live-hls.macaulotustv.com:80/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",MAHA Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",BlueEntertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",BlueExtreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO(Thai)
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/hbohd/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO signature(Thai)
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/sighd/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO Family(Thai)
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/famhd/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",REDbyHBO(Thai)
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/red/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",CINEMAX
+https://dootvthai-hd.com/cmd/ThaiDreambox/hbo/maxhd/playlist.m3u8
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",+HBO(setAuto)
 http://136.243.177.164/HBO/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",HBO2(setAuto)
