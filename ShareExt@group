@@ -3043,6 +3043,214 @@ http://185.238.242.136:20000/hls/play/id/498.m3u8
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",FoxMoviesHD
+http://thaicable.myftp.org:8000/live/infosat/2020/1.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Cinemax
+http://thaicable.myftp.org:8000/live/infosat/2020/2.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Box Film
+http://thaicable.myftp.org:8000/live/infosat/2020/4.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",CTB
+http://thaicable.myftp.org:8000/live/infosat/2020/.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Skynet SportHD
+http://thaicable.myftp.org:8000/live/infosat/2020/7.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",True Premier1
+http://thaicable.myftp.org:8000/live/infosat/2020/8.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",T Sport
+http://thaicable.myftp.org:8000/live/infosat/2020/9.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Assp1
+http://thaicable.myftp.org:8000/live/infosat/2020/10.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Assp2
+http://thaicable.myftp.org:8000/live/infosat/2020/11.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Assp3
+http://thaicable.myftp.org:8000/live/infosat/2020/12.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Assp4
+http://thaicable.myftp.org:8000/live/infosat/2020/13.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Movies HD
+http://thaicable.myftp.org:8000/live/infosat/2020/14.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Action Movies
+http://thaicable.myftp.org:8000/live/infosat/2020/15.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Family
+http://thaicable.myftp.org:8000/live/infosat/2020/16.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Life
+http://thaicable.myftp.org:8000/live/infosat/2020/17.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Cinemax HD
+http://thaicable.myftp.org:8000/live/infosat/2020/18.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",HBO Th
+http://thaicable.myftp.org:8000/live/infosat/2020/20.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",HBO HD
+http://thaicable.myftp.org:8000/live/infosat/2020/21.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",HBO Hits
+http://thaicable.myftp.org:8000/live/infosat/2020/22.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Hbo Signature
+http://thaicable.myftp.org:8000/live/infosat/2020/23.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Animal Planet
+http://thaicable.myftp.org:8000/live/infosat/2020/24.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Discovery
+http://thaicable.myftp.org:8000/live/infosat/2020/25.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Love Nature
+http://thaicable.myftp.org:8000/live/infosat/2020/26.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Outdoor
+http://thaicable.myftp.org:8000/live/infosat/2020/27.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Nat Geo
+http://thaicable.myftp.org:8000/live/infosat/2020/28.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Nat Geo Wild
+http://thaicable.myftp.org:8000/live/infosat/2020/29.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",H2
+http://thaicable.myftp.org:8000/live/infosat/2020/30.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",History
+http://thaicable.myftp.org:8000/live/infosat/2020/31.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Bbc Earth
+http://thaicable.myftp.org:8000/live/infosat/2020/32.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Bbc Lifestyle
+http://thaicable.myftp.org:8000/live/infosat/2020/33.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Thai
+http://thaicable.myftp.org:8000/live/infosat/2020/34.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Axn
+http://thaicable.myftp.org:8000/live/infosat/2020/36.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",WB
+http://thaicable.myftp.org:8000/live/infosat/2020/37.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Sport News
+http://thaicable.myftp.org:8000/live/infosat/2020/38.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Astro Sport1
+http://thaicable.myftp.org:8000/live/infosat/2020/40.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Astro Sport2
+http://thaicable.myftp.org:8000/live/infosat/2020/41.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Euro News
+http://thaicable.myftp.org:8000/live/infosat/2020/42.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Alzajeerah
+http://thaicable.myftp.org:8000/live/infosat/2020/44.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Red Bull
+http://thaicable.myftp.org:8000/live/infosat/2020/45.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Bein Sport1
+http://thaicable.myftp.org:8000/live/infosat/2020/46.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Bein Sport2
+http://thaicable.myftp.org:8000/live/infosat/2020/47.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",True EPL
+http://thaicable.myftp.org:8000/live/infosat/2020/48.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",True EPL2
+http://thaicable.myftp.org:8000/live/infosat/2020/49.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Premier Hd 1
+http://thaicable.myftp.org:8000/live/infosat/2020/50.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Premier Hd 2
+http://thaicable.myftp.org:8000/live/infosat/2020/51.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",True Sport2
+http://thaicable.myftp.org:8000/live/infosat/2020/52.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",True Sport5
+http://thaicable.myftp.org:8000/live/infosat/2020/53.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",True Sport6
+http://thaicable.myftp.org:8000/live/infosat/2020/54.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",True Sport7
+http://thaicable.myftp.org:8000/live/infosat/2020/55.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",EuroSport1
+http://thaicable.myftp.org:8000/live/infosat/2020/56.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Eurosport2
+http://thaicable.myftp.org:8000/live/infosat/2020/57.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Sport 1
+http://thaicable.myftp.org:8000/live/infosat/2020/58.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Sport 2
+http://thaicable.myftp.org:8000/live/infosat/2020/59.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Fox Sport3
+http://thaicable.myftp.org:8000/live/infosat/2020/60
+60.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",TrueSport1
+http://thaicable.myftp.org:8000/live/infosat/2020/61.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",TrueSport2
+http://thaicable.myftp.org:8000/live/infosat/2020/62.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",TrueSport3
+http://thaicable.myftp.org:8000/live/infosat/2020/63.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",TrueSport4
+http://thaicable.myftp.org:8000/live/infosat/2020/64.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Nba
+http://thaicable.myftp.org:8000/live/infosat/2020/65.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Tennis
+http://thaicable.myftp.org:8000/live/infosat/2020/66.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Golf
+http://thaicable.myftp.org:8000/live/infosat/2020/67.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Premier3
+http://thaicable.myftp.org:8000/live/infosat/2020/68.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Premier4
+http://thaicable.myftp.org:8000/live/infosat/2020/69.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Premier5 
+http://thaicable.myftp.org:8000/live/infosat/2020/70.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",CGTN
+http://thaicable.myftp.org:8000/live/infosat/2020/71.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SK 1
+http://thaicable.myftp.org:8000/live/infosat/2020/73.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SK 2
+http://thaicable.myftp.org:8000/live/infosat/2020/74.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SK 3
+http://thaicable.myftp.org:8000/live/infosat/2020/75.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SK 4
+http://thaicable.myftp.org:8000/live/infosat/2020/76.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",MU Tv
+http://thaicable.myftp.org:8000/live/infosat/2020/77.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",LFCTV
+http://thaicable.myftp.org:8000/live/infosat/2020/78.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Skysport1
+http://thaicable.myftp.org:8000/live/infosat/2020/79.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Skysport Football
+http://thaicable.myftp.org:8000/live/infosat/2020/80.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Tennis Chanel
+http://thaicable.myftp.org:8000/live/infosat/2020/81.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Kix
+http://thaicable.myftp.org:8000/live/infosat/2020/82.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SkyBundes Liga
+http://thaicable.myftp.org:8000/live/infosat/2020/83.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Premier Sport
+http://thaicable.myftp.org:8000/live/infosat/2020/84.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",One Golf
+http://thaicable.myftp.org:8000/live/infosat/2020/85.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Bbc Wolrd
+http://thaicable.myftp.org:8000/live/infosat/2020/86.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",SkyNews America
+http://thaicable.myftp.org:8000/live/infosat/2020/87.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Flix
+http://thaicable.myftp.org:8000/live/infosat/2020/91.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",Prive HD
+http://thaicable.myftp.org:8000/live/infosat/2020/92.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",DOCURAMA
+http://thaicable.myftp.org:8000/live/infosat/2020/93.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",HIYAH MOVIES
+http://thaicable.myftp.org:8000/live/infosat/2020/94.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",ARIRANG KOREA
+http://thaicable.myftp.org:8000/live/infosat/2020/95.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",NHK JAPAN
+http://thaicable.myftp.org:8000/live/infosat/2020/96.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",M Chanel
+http://thaicable.myftp.org:8000/live/infosat/2020/98.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",TVB
+http://thaicable.myftp.org:8000/live/infosat/2020/99.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",MOVIES 4
+http://thaicable.myftp.org:8000/live/infosat/2020/100.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",STAR CHINESE
+http://thaicable.myftp.org:8000/live/infosat/2020/101.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",JASMIN TV
+http://thaicable.myftp.org:8000/live/infosat/2020/102.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",FOX SPORT1
+http://thaicable.myftp.org:8000/live/infosat/2020/103.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",FOX SPORT2
+http://thaicable.myftp.org:8000/live/infosat/2020/104.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",FOX SPORT3
+http://thaicable.myftp.org:8000/live/infosat/2020/105.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",FOX SPORT4
+http://thaicable.myftp.org:8000/live/infosat/2020/106.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",FOX SPORT5
+http://thaicable.myftp.org:8000/live/infosat/2020/107.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",FOX SPORT6
+http://thaicable.myftp.org:8000/live/infosat/2020/108.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",EUROSPORT1
+http://thaicable.myftp.org:8000/live/infosat/2020/109.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",EUROSPORT2
+http://thaicable.myftp.org:8000/live/infosat/2020/110.ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ThaicableTV",THAI FILM
+http://thaicable.myftp.org:8000/live/infosat/2020/116.ts
+
+
+
+
+
+
+
 
 
 
