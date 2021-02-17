@@ -2688,6 +2688,501 @@ http://14.192.144.14:8000/play/a01u/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",beIN Sports 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/37164
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",beIN Sports 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1737
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR beIN Sports 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",beIN Sports 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/37167
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",beIN Sports 4 HD
+http://tyciptv.site:8080/393e2766/c723f42a/7450
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: beIN Sports Haber FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",beIN Sports Haber FHD
+http://tyciptv.site:8080/393e2766/c723f42a/7448
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: beIN Sports MAX 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",beIN Sports MAX 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/8224
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: beIN Sports MAX 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",beIN Sports MAX 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/16878
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN TURK HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",beIN TURK HD
+http://tyciptv.site:8080/393e2766/c723f42a/201137
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S-SPORT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Turkey",S-SPORT FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1753
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports 10 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",beIN Sports 10 HD
+http://tyciptv.site:8080/393e2766/c723f42a/276875
+#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports 11 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",beIN Sports 11 HD
+http://tyciptv.site:8080/393e2766/c723f42a/192635
+#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports 12 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",beIN Sports 12 HD
+http://tyciptv.site:8080/393e2766/c723f42a/157396
+#EXTINF:-1 tvg-id="" tvg-name="UK BT ESPN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT ESPN HD
+http://tyciptv.site:8080/393e2766/c723f42a/275073
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: BT Sport 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK BT Sport 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT Sport 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/28348
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport Extra 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT Sport Extra 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/274017
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT Sport Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/276908
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT Sport europe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT Sport europe HD
+http://tyciptv.site:8080/393e2766/c723f42a/32220
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport EXtra 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT Sport EXtra 2 HD
+http://tyciptv.site:8080/393e2766/c723f42a/274024
+#EXTINF:-1 tvg-id="btsportx4.uk" tvg-name="UK: BT Sport EXtra 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT Sport EXtra 4 HD
+http://tyciptv.site:8080/393e2766/c723f42a/47961
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sport EXtra 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",BT Sport EXtra 5 HD
+http://tyciptv.site:8080/393e2766/c723f42a/274018
+#EXTINF:-1 tvg-id="" tvg-name="UK: EDGE Sport HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="UK",EDGE Sport HD
+http://tyciptv.site:8080/393e2766/c723f42a/54012
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",EIR SPORTS 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/4725
+#EXTINF:-1 tvg-id="" tvg-name="UK: EIR SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",EIR SPORTS 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/67830
+#EXTINF:-1 tvg-id="" tvg-name="UK: ELEVEN SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",ELEVEN SPORTS 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/23514
+#EXTINF:-1 tvg-id="" tvg-name="UK: ESPN HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",ESPN HD
+http://tyciptv.site:8080/393e2766/c723f42a/44557
+#EXTINF:-1 tvg-id="" tvg-name="UK: FOX SOCCER PLUS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",FOX SOCCER PLUS HD
+http://tyciptv.site:8080/393e2766/c723f42a/227104
+#EXTINF:-1 tvg-id="france24.uk" tvg-name="UK: France 24 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",France 24 HD
+http://tyciptv.site:8080/393e2766/c723f42a/11560
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: Free Sports FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Free Sports FHD
+http://tyciptv.site:8080/393e2766/c723f42a/37876
+#EXTINF:-1 tvg-id="" tvg-name="UK: GINX ESPORTS TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",GINX ESPORTS TV
+http://tyciptv.site:8080/393e2766/c723f42a/192866
+#EXTINF:-1 tvg-id="" tvg-name="UK: NBA TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",NBA TV
+http://tyciptv.site:8080/393e2766/c723f42a/182451
+#EXTINF:-1 tvg-id="" tvg-name="UK: NBC SPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",NBC SPORT
+http://tyciptv.site:8080/393e2766/c723f42a/12499
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Premier Sport 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/1097
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: PREMIER SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",PREMIER SPORTS 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/4723
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premium Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Premium Sport 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/1552
+#EXTINF:-1 tvg-id="" tvg-name="UK: SETANTA SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",SETANTA SPORTS 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/70109
+#EXTINF:-1 tvg-id="" tvg-name="UK: SIS RACING HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",SIS RACING HD
+http://tyciptv.site:8080/393e2766/c723f42a/85434
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Box Office HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Box Office HD
+http://tyciptv.site:8080/393e2766/c723f42a/273438
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports 2 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273431
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Action FHD
+http://tyciptv.site:8080/393e2766/c723f42a/268
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports ACTIVE FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports ACTIVE FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273442
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Cricket FHD
+http://tyciptv.site:8080/393e2766/c723f42a/269
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK Sky Sports Football HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Football HD
+http://tyciptv.site:8080/393e2766/c723f42a/37178
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Main Event FHD
+http://tyciptv.site:8080/393e2766/c723f42a/698
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Mix HD
+http://tyciptv.site:8080/393e2766/c723f42a/37181
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports News FHD
+http://tyciptv.site:8080/393e2766/c723f42a/260
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports NFL FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports NFL FHD
+http://tyciptv.site:8080/393e2766/c723f42a/158510
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Premier League FHD
+http://tyciptv.site:8080/393e2766/c723f42a/263
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Arena FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Arena FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273425
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports F1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/265
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports GBI RACING" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports GBI RACING
+http://tyciptv.site:8080/393e2766/c723f42a/163132
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports Golf
+http://tyciptv.site:8080/393e2766/c723f42a/264
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",Sky Sports
+http://tyciptv.site:8080/393e2766/c723f42a/273430
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN Sport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",AFN Sport
+http://tyciptv.site:8080/393e2766/c723f42a/52010
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",AFN Sport 2
+http://tyciptv.site:8080/393e2766/c723f42a/33604
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: beIN Sports 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",beIN Sports 6 HD
+http://tyciptv.site:8080/393e2766/c723f42a/151030
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: beIN Sports 7 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",beIN Sports 7 HD
+http://tyciptv.site:8080/393e2766/c723f42a/151028
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",beIN Sports FHD
+http://tyciptv.site:8080/393e2766/c723f42a/2272
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports Ñ" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",beIN Sports Ñ
+http://tyciptv.site:8080/393e2766/c723f42a/147547
+#EXTINF:-1 tvg-id="" tvg-name="US: BTN FOX SPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",BTN FOX SPORT
+http://tyciptv.site:8080/393e2766/c723f42a/196341
+#EXTINF:-1 tvg-id="" tvg-name="US: BYU Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",BYU Sports
+http://tyciptv.site:8080/393e2766/c723f42a/6301
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",CBS Sports HD
+http://tyciptv.site:8080/393e2766/c723f42a/6444
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS Sports Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",CBS Sports Network HD
+http://tyciptv.site:8080/393e2766/c723f42a/267357
+#EXTINF:-1 tvg-id="" tvg-name="US: ELEVEN SPORTS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",ELEVEN SPORTS HD
+http://tyciptv.site:8080/393e2766/c723f42a/7765
+#EXTINF:-1 tvg-id="" tvg-name="US: ELEVEN SPORTS Network" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",ELEVEN SPORTS Network
+http://tyciptv.site:8080/393e2766/c723f42a/19788
+#EXTINF:-1 tvg-id="" tvg-name="US ESPN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",ESPN 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/275080
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",ESPN 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/41918
+#EXTINF:-1 tvg-id="" tvg-name="US ESPN 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",ESPN 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/275065
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US: ESPN DEPORTES FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",ESPN DEPORTES FHD
+http://tyciptv.site:8080/393e2766/c723f42a/6446
+#EXTINF:-1 tvg-id="" tvg-name="US ESPN plus" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",ESPN plus
+http://tyciptv.site:8080/393e2766/c723f42a/275066
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN SEC NETWORK HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",ESPN SEC NETWORK HD
+http://tyciptv.site:8080/393e2766/c723f42a/150615
+#EXTINF:-1 tvg-id="" tvg-name="US FIGHT BOX Network" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FIGHT BOX Network
+http://tyciptv.site:8080/393e2766/c723f42a/273942
+#EXTINF:-1 tvg-id="" tvg-name="US: FIGHT Network / MMA Network" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FIGHT Network / MMA Network
+http://tyciptv.site:8080/393e2766/c723f42a/193555
+#EXTINF:-1 tvg-id="" tvg-name="US: FIGHT Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FIGHT Network HD
+http://tyciptv.site:8080/393e2766/c723f42a/29682
+#EXTINF:-1 tvg-id="" tvg-name="US: FIGHT Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FIGHT Sport 1
+http://tyciptv.site:8080/393e2766/c723f42a/54352
+#EXTINF:-1 tvg-id="" tvg-name="US: FNTSY SPORTS NETWORK HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FNTSY SPORTS NETWORK HD
+http://tyciptv.site:8080/393e2766/c723f42a/150616
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FOX SPORTS 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FOX SPORTS 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/756
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: FOX SPORTS 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FOX SPORTS 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/757
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FOX SPORTS HD
+http://tyciptv.site:8080/393e2766/c723f42a/74369
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS NEWS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FOX SPORTS NEWS HD
+http://tyciptv.site:8080/393e2766/c723f42a/173409
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS Racing HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",FOX SPORTS Racing HD
+http://tyciptv.site:8080/393e2766/c723f42a/2327
+#EXTINF:-1 tvg-id="" tvg-name="US: Fubo Sports Network" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",Fubo Sports Network
+http://tyciptv.site:8080/393e2766/c723f42a/147553
+#EXTINF:-1 tvg-id="" tvg-name="US: GINX eSports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",GINX eSports HD
+http://tyciptv.site:8080/393e2766/c723f42a/83950
+#EXTINF:-1 tvg-id="goltv.us" tvg-name="US: GOL TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",GOL TV HD
+http://tyciptv.site:8080/393e2766/c723f42a/14848
+#EXTINF:-1 tvg-id="" tvg-name="US: GOLF Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",GOLF Channel HD
+http://tyciptv.site:8080/393e2766/c723f42a/66400
+#EXTINF:-1 tvg-id="" tvg-name="US: GOLTV English" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",GOLTV English
+http://tyciptv.site:8080/393e2766/c723f42a/157316
+#EXTINF:-1 tvg-id="" tvg-name="US: Marquee Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",Marquee Sports
+http://tyciptv.site:8080/393e2766/c723f42a/200837
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports (North West) HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC Sports (North West) HD
+http://tyciptv.site:8080/393e2766/c723f42a/3373
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Bay Area" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC Sports Bay Area
+http://tyciptv.site:8080/393e2766/c723f42a/82284
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Boston" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC Sports Boston
+http://tyciptv.site:8080/393e2766/c723f42a/145408
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports California" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC Sports California
+http://tyciptv.site:8080/393e2766/c723f42a/71701
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Chicago" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC Sports Chicago
+http://tyciptv.site:8080/393e2766/c723f42a/35492
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Network FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC Sports Network FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3370
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Philadelphia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC Sports Philadelphia
+http://tyciptv.site:8080/393e2766/c723f42a/35472
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports Washington" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC Sports Washington
+http://tyciptv.site:8080/393e2766/c723f42a/82282
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC St Louis" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",NBC St Louis
+http://tyciptv.site:8080/393e2766/c723f42a/82281
+#EXTINF:-1 tvg-id="" tvg-name="US: SKY PORTS GOLF HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SKY PORTS GOLF HD
+http://tyciptv.site:8080/393e2766/c723f42a/66401
+#EXTINF:-1 tvg-id="" tvg-name="US: SKY SPORTS NEWS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SKY SPORTS NEWS HD
+http://tyciptv.site:8080/393e2766/c723f42a/194202
+
+#EXTINF:-1 tvg-id="" tvg-name="US: Sony Ten Sport 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",Sony Ten Sport 1
+http://tyciptv.site:8080/393e2766/c723f42a/157402
+#EXTINF:-1 tvg-id="" tvg-name="US: SPORT NBA HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SPORT NBA HD
+http://tyciptv.site:8080/393e2766/c723f42a/77672
+#EXTINF:-1 tvg-id="" tvg-name="US: SPORT YES Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SPORT YES Network HD
+http://tyciptv.site:8080/393e2766/c723f42a/78802
+#EXTINF:-1 tvg-id="" tvg-name="US: SPORTS AT&T SPORTSNET" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SPORTS AT&T SPORTSNET
+http://tyciptv.site:8080/393e2766/c723f42a/272316
+#EXTINF:-1 tvg-id="" tvg-name="US: SPORTS ESPN 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SPORTS ESPN 2
+http://tyciptv.site:8080/393e2766/c723f42a/272317
+#EXTINF:-1 tvg-id="" tvg-name="US SPORTS ESPN 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SPORTS ESPN 2
+http://tyciptv.site:8080/393e2766/c723f42a/275109
+#EXTINF:-1 tvg-id="" tvg-name="US: SPORTS UFC" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SPORTS UFC
+http://tyciptv.site:8080/393e2766/c723f42a/195843
+#EXTINF:-1 tvg-id="" tvg-name="US: SPORTS UFC FIGHTPASS FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",SPORTS UFC FIGHTPASS FHD
+http://tyciptv.site:8080/393e2766/c723f42a/272326
+#EXTINF:-1 tvg-id="" tvg-name="US: Sportsman Channel" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",Sportsman Channel
+http://tyciptv.site:8080/393e2766/c723f42a/71787
+#EXTINF:-1 tvg-id="" tvg-name="US UFC FIGHT Pass HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",UFC FIGHT Pass HD
+http://tyciptv.site:8080/393e2766/c723f42a/273545
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC HD Fight" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",UFC HD Fight
+http://tyciptv.site:8080/393e2766/c723f42a/263905
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC Network HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",UFC Network HD
+http://tyciptv.site:8080/393e2766/c723f42a/173131
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC NIGHT PASS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",UFC NIGHT PASS
+http://tyciptv.site:8080/393e2766/c723f42a/201100
+#EXTINF:-1 tvg-id="" tvg-name="US: UFC TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="USA",UFC TV HD
+http://tyciptv.site:8080/393e2766/c723f42a/28682
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EG: dmc Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Egypt",dmc Sports
+http://tyciptv.site:8080/393e2766/c723f42a/270755
+#EXTINF:-1 tvg-id="" tvg-name="EG: Nile Sport" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Egypt",Nile Sport
+http://tyciptv.site:8080/393e2766/c723f42a/267884
+#EXTINF:-1 tvg-id="" tvg-name="EG: ON Sport HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Egypt",ON Sport HD
+http://tyciptv.site:8080/393e2766/c723f42a/265128
+#EXTINF:-1 tvg-id="" tvg-name="EG: Time Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Egypt",Time Sports HD
+http://tyciptv.site:8080/393e2766/c723f42a/265121
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: (Kosovo) SuperSport KOSOVA 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",SuperSport KOSOVA 1
+http://tyciptv.site:8080/393e2766/c723f42a/276922
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/d016a2c0dd5d33df89a4f85a016b9299.png" group-title="Albania",ART Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/23143
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/1f3685cf082119f422fe1bd584cbb48c.png" group-title="Albania",ART Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/23146
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-06/c99a6de77c14416e858ee28aa4ea56f5.png" group-title="Albania",ART Sport 3 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/40061
+#EXTINF:-1 tvg-id="" tvg-name="AL EUROSPORT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",EUROSPORT 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273613
+#EXTINF:-1 tvg-id="" tvg-name="AL EUROSPORT 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",EUROSPORT 2 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273607
+#EXTINF:-1 tvg-id="" tvg-name="AL: Extreme Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",Extreme Sports
+http://tyciptv.site:8080/393e2766/c723f42a/54443
+#EXTINF:-1 tvg-id="" tvg-name="AL FIGHT BOX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",FIGHT BOX
+http://tyciptv.site:8080/393e2766/c723f42a/273939
+#EXTINF:-1 tvg-id="" tvg-name="AL: FreeSports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",FreeSports
+http://tyciptv.site:8080/393e2766/c723f42a/197068
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",K Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1863
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",K Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1864
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",K Sport 3 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1865
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",K Sport 4 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1866
+#EXTINF:-1 tvg-id="" tvg-name="AL: K Sport 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",K Sport 5
+http://tyciptv.site:8080/393e2766/c723f42a/26111
+#EXTINF:-1 tvg-id="" tvg-name="AL: KUTJESA SPORT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",KUTJESA SPORT 1
+http://tyciptv.site:8080/393e2766/c723f42a/47768
+#EXTINF:-1 tvg-id="" tvg-name="AL: Premier Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",Premier Sports 2
+http://tyciptv.site:8080/393e2766/c723f42a/196486
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH SPORT FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/45f826a3eae01cde403b7e2d76d6ec75.png" group-title="Albania",RTSH SPORT FHD
+http://tyciptv.site:8080/393e2766/c723f42a/2568
+#EXTINF:-1 tvg-id="" tvg-name="AL Sport Klub 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",Sport Klub 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273495
+#EXTINF:-1 tvg-id="" tvg-name="AL Sport Klub 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",Sport Klub 2 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273490
+#EXTINF:-1 tvg-id="" tvg-name="AL Sport Klub 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",Sport Klub 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273500
+#EXTINF:-1 tvg-id="" tvg-name="AL: Sport Kosova News HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",Sport Kosova News HD
+http://tyciptv.site:8080/393e2766/c723f42a/82233
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8cb9058e204ef280bf4284ca224cbb51.png" group-title="Albania",Super Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1316
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/fa065ce81523a1f4475c230bdf1c519b.png" group-title="Albania",Super Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1312
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ff2f8e34e8da9fd33f4fde2c5793aae8.png" group-title="Albania",Super Sport 3 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1319
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/e0c350049cb9584a4a13c63aaf405857.png" group-title="Albania",Super Sport 4 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1318
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/6aa451c7c6a38430edde9104eacef07c.png" group-title="Albania",Super Sport 5 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1860
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 6 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/46e80658244482c2382d517fe71207e0.png" group-title="Albania",Super Sport 6 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3638
+#EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport NEWS FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8cc41cbb871d7446ec2250c02c544345.png" group-title="Albania",Super Sport NEWS FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1313
+#EXTINF:-1 tvg-id="" tvg-name="AL TRING SPORT 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",TRING SPORT 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273369
+#EXTINF:-1 tvg-id="" tvg-name="AL TRING SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",TRING SPORT 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273445
+#EXTINF:-1 tvg-id="" tvg-name="AL Tring Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",Tring Sport 3 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273370
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Albania",Tring Sport 4 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1862
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Sport News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/83ff1f0cf5db7bb61b3e671e65f66c59.png" group-title="Albania",Tring Sport News FHD
+http://tyciptv.site:8080/393e2766/c723f42a/1861
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AU ESPN 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",ESPN 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/275068
+#EXTINF:-1 tvg-id="" tvg-name="AU ESPN 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",ESPN 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/275069
+#EXTINF:-1 tvg-id="" tvg-name="AU beIN Sports 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",beIN Sports 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/275755
+#EXTINF:-1 tvg-id="" tvg-name="AU beIN Sports 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",beIN Sports 3 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/275754
+#EXTINF:-1 tvg-id="" tvg-name="AU: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/eb5022da9bcb287a68926e4d356d6271.png" group-title="Australia",beIN Sports 2
+http://tyciptv.site:8080/393e2766/c723f42a/35338
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS News FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/96ec6ada9095cc372eaafc152c5f0d9a.png" group-title="Australia",FOX SPORTS News FHD
+http://tyciptv.site:8080/393e2766/c723f42a/76006
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 501" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/025b7b0a2fc4cd4b6d8e62605d2983be.png" group-title="Australia",FOX SPORTS 501
+http://tyciptv.site:8080/393e2766/c723f42a/71877
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 502" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Australia",FOX SPORTS 502
+http://tyciptv.site:8080/393e2766/c723f42a/81784
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 503" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ee7174dcef9f6b8d8c14a343b1f58be2.png" group-title="Australia",FOX SPORTS 503
+http://tyciptv.site:8080/393e2766/c723f42a/144777
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 504 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/04b1720d47a818ee912cabac91dc6741.png" group-title="Australia",FOX SPORTS 504 HD
+http://tyciptv.site:8080/393e2766/c723f42a/81792
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 505" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="Australia",FOX SPORTS 505
+http://tyciptv.site:8080/393e2766/c723f42a/144772
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 506" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/23f00a5a293143f87508f4363faa074f.png" group-title="Australia",FOX SPORTS 506
+http://tyciptv.site:8080/393e2766/c723f42a/144767
+#EXTINF:-1 tvg-id="" tvg-name="AU: FOX SPORTS 507" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/09b3a7678b7386bc9fe94db1879c24fd.png" group-title="Australia",FOX SPORTS 507
+http://tyciptv.site:8080/393e2766/c723f42a/146819
+#EXTINF:-1 tvg-id="" tvg-name="AU: SKY Racing 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/b740ca727fbdaf0832e14fef10d3aa4f.png" group-title="Australia",SKY Racing 1
+http://tyciptv.site:8080/393e2766/c723f42a/201085
+#EXTINF:-1 tvg-id="" tvg-name="AU: SKY Racing 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/6beb7ff8b62f9f3345e0e36852fd8ed2.png" group-title="Australia",SKY Racing 2
+http://tyciptv.site:8080/393e2766/c723f42a/201086
+#EXTINF:-1 tvg-id="" tvg-name="AU: SKY Sport Austria 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Australia",SKY Sport Austria 3 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/276892
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/d88f061a01b189d39268ab0e98bd457c.png" group-title="Bosnia",Arena Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/36909
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/028a7c0f641af5c7c1cd920149ca6d28.png" group-title="Bosnia",Arena Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/67716
+#EXTINF:-1 tvg-id="" tvg-name="BIH Arena Sport 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bosnia",Arena Sport 3
+http://tyciptv.site:8080/393e2766/c723f42a/273415
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/3d75b356e6c4965076da8ed05a215c72.png" group-title="Bosnia",Arena Sport 4 HD
+http://tyciptv.site:8080/393e2766/c723f42a/67717
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7facf424dd46fbaa61c8e6cefec1a4f9.png" group-title="Bosnia",Arena Sport 5 HD
+http://tyciptv.site:8080/393e2766/c723f42a/67720
+#EXTINF:-1 tvg-id="" tvg-name="BIH: Arena Sport 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bosnia",Arena Sport 6 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/67726
+#EXTINF:-1 tvg-id="" tvg-name="BIH EUROSPORT 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Bosnia",EUROSPORT 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273618
+#EXTINF:-1 tvg-id="" tvg-name="BIH: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f0d5ec405e3de522fe222863d0a6b487.png" group-title="Bosnia",EUROSPORT 2
+http://tyciptv.site:8080/393e2766/c723f42a/67735
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA: beIN Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",beIN Sports HD
+http://tyciptv.site:8080/393e2766/c723f42a/13239
+#EXTINF:-1 tvg-id="bet.ca" tvg-name="CA: BET HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",BET HD
+http://tyciptv.site:8080/393e2766/c723f42a/9295
+
+#EXTINF:-1 tvg-id="" tvg-name="CA TSN 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",TSN 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/274904
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA: TSN 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",TSN 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/771
+#EXTINF:-1 tvg-id="" tvg-name="CA TSN 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",TSN 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/274906
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA: TSN 4 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",TSN 4 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/773
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA: TSN 5 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",TSN 5 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/774
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA SPORTS (FR)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",TVA SPORTS 
+http://tyciptv.site:8080/393e2766/c723f42a/500
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA SPORTS 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",TVA SPORTS 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/72581
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA Sports 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Canada",TVA Sports 2
+http://tyciptv.site:8080/393e2766/c723f42a/13243
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HR Arena Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Arena Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273359
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/1b52bedc3465a84e12cd628ae36cf63a.png" group-title="Croatia",Arena Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3603
+#EXTINF:-1 tvg-id="" tvg-name="HR Arena Sport 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Arena Sport 3 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273414
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f8a1b30c55ab0126e4d6ff908dc61f7a.png" group-title="Croatia",Arena Sport 4 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3607
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/67beefa1cd6ca39015a57210fb33752b.png" group-title="Croatia",Arena Sport 5 HD
+http://tyciptv.site:8080/393e2766/c723f42a/3608
+#EXTINF:-1 tvg-id="" tvg-name="HR: Arena Sport 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Arena Sport 6 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/10961
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HR NOVA SPORT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",NOVA SPORT
+http://tyciptv.site:8080/393e2766/c723f42a/273542
+#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET Sport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",PLANET Sport 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/7454
+#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",PLANET SPORT 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/7455
+#EXTINF:-1 tvg-id="" tvg-name="HR: PLANET SPORT 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",PLANET SPORT 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/7456
+#EXTINF:-1 tvg-id="" tvg-name="HR: Planet Sport 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Planet Sport 4
+http://tyciptv.site:8080/393e2766/c723f42a/51977
+#EXTINF:-1 tvg-id="" tvg-name="HR Sport Klub 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273492
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub 2 HD
+http://tyciptv.site:8080/393e2766/c723f42a/4202
+#EXTINF:-1 tvg-id="" tvg-name="HR Sport Klub 2 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub 2 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273487
+#EXTINF:-1 tvg-id="" tvg-name="HR Sport Klub 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273499
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub 4 HD
+http://tyciptv.site:8080/393e2766/c723f42a/26651
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub 5 HD
+http://tyciptv.site:8080/393e2766/c723f42a/26662
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub 6 HD
+http://tyciptv.site:8080/393e2766/c723f42a/38987
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub FHD
+http://tyciptv.site:8080/393e2766/c723f42a/58928
+#EXTINF:-1 tvg-id="" tvg-name="HR: Sport Klub Golf FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Croatia",Sport Klub Golf FHD
+http://tyciptv.site:8080/393e2766/c723f42a/33648
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU Arena Sport 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",Arena Sport 1 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/273358
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7ed759a558bd3f3cefb008f47bbe92f5.png" group-title="EX-YU",Arena Sport 2 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3462
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU Arena Sport 3 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",Arena Sport 3 HD
+http://tyciptv.site:8080/393e2766/c723f42a/273416
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9270fcacb400c2e501ffc8eeb82bce87.png" group-title="EX-YU",Arena Sport 4 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3465
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/ab5631e4dbbf3901cecd527d9917f895.png" group-title="EX-YU",Arena Sport 5 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/3464
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 6 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",Arena Sport 6 FHD
+http://tyciptv.site:8080/393e2766/c723f42a/145720
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FIGHT Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",FIGHT Channel HD
+http://tyciptv.site:8080/393e2766/c723f42a/67561
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FIGHT Channel World HD (HR)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",FIGHT Channel World HD 
+http://tyciptv.site:8080/393e2766/c723f42a/199237
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: FIGHT Club" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",FIGHT Club
+http://tyciptv.site:8080/393e2766/c723f42a/157397
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SuperSport 1 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",SuperSport 1 HD
+http://tyciptv.site:8080/393e2766/c723f42a/148211
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: SuperSport KOSOVA 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="EX-YU",SuperSport KOSOVA 2
+http://tyciptv.site:8080/393e2766/c723f42a/148214
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@SUKAN_LATINOS",PORTO CANAL HD
 http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/789
