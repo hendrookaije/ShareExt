@@ -5692,6 +5692,47 @@ http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/32
 
 
 
+#EXTM3U
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_970_960_1013_EEEE0000_0_0_0.png" tvg-id="47cee3a20ce79a1723e54c576cd3d9a2" group-title="ShareExt@AUSTRALIA",7HD - QLD
+http://118.208.209.127:9981/stream/channelid/585354823?ticket=C72779BA75755B311404BCD30E7A114038F7FC34&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_2C5_243_1010_EEEE0000_0_0_0.png" tvg-id="78e99c02d7125ccde36a2b4dca364850" group-title="ShareExt@AUSTRALIA",ABC TV HD
+http://118.208.209.127:9981/stream/channelid/43837816?ticket=B6350963409D2862642374428A3E329383F591DE&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_2C2_243_1010_EEEE0000_0_0_0.png" tvg-id="a53da7b16d5c01b9a50600b8742d6223" group-title="ShareExt@AUSTRALIA",ABC TV Plus/Kids
+http://118.208.209.127:9981/stream/channelid/833043877?ticket=18DE1A920A45A2D95280BA67BD6809B6BFB3F260&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_2C4_243_1010_EEEE0000_0_0_0.png" tvg-id="355d6a5341a550604649cc4926b9373e" group-title="ShareExt@AUSTRALIA",ABC ME
+http://118.208.209.127:9981/stream/channelid/1399479605?ticket=C85C22FF2923323095A1396549650016DD6E8A98&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_2C0_243_1010_EEEE0000_0_0_0.png" tvg-id="a6bb64899a7f05226bb4af3690c37f99" group-title="ShareExt@AUSTRALIA",ABC NEWS
+http://118.208.209.127:9981/stream/channelid/157596582?ticket=9476593D0A7611DAF01ABC73834A8D8B1E6BA976&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_3B5_3B0_3271_EEEE0000_0_0_0.png" tvg-id="6e82a6944af47a9ca43a18dfeb98a156" group-title="ShareExt@AUSTRALIA",SBS HD
+http://118.208.209.127:9981/stream/channelid/346456686?ticket=526948720D43C85915B89F9F2982A3610D39DEBF&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_3B6_3B0_3271_EEEE0000_0_0_0.png" tvg-id="f1c6746ae264b48687db941c1a582bf6" group-title="ShareExt@AUSTRALIA",SBS VICELAND HD
+http://118.208.209.127:9981/stream/channelid/1786038001?ticket=175695BA3558588A1CB92119BCF9846F5313218D&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_3B7_3B0_3271_EEEE0000_0_0_0.png" tvg-id="d66306d737307d60fb679006d919719e" group-title="ShareExt@AUSTRALIA",SBS World Movies
+http://118.208.209.127:9981/stream/channelid/1460036566?ticket=B0CFC356F885265F9E53E00FE0308DBF606A5DB0&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_3B3_3B0_3271_EEEE0000_0_0_0.png" tvg-id="1d0e97ecb4b4dbbef09134b4269d8b3c" group-title="ShareExt@AUSTRALIA",SBS Food
+http://118.208.209.127:9981/stream/channelid/1821838877?ticket=1189B919E458B342E5F13406CFA9F0C02507AFEE&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_8E0_810_320C_EEEE0000_0_0_0.png" tvg-id="7d2135771ab649e102812795a869a78a" group-title="ShareExt@AUSTRALIA",9HD Regional
+http://118.208.209.127:9981/stream/channelid/1999970685?ticket=2CCEA1ADC0181D6DC06E5E73D72AFC5B49913976&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_830_810_320C_EEEE0000_0_0_0.png" tvg-id="0584dd88884d8ba518d6b36e4bf9bafb" group-title="ShareExt@AUSTRALIA",9Gem Regional
+http://118.208.209.127:9981/stream/channelid/148734981?ticket=37921AFB2222871577C301DD95FBECCB08C41DF8&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_850_810_320C_EEEE0000_0_0_0.png" tvg-id="a0f690b01a86539672c64fc7c741b105" group-title="ShareExt@AUSTRALIA",9Go! Regional
+http://118.208.209.127:9981/stream/channelid/814806688?ticket=61DA10D3B0B73ABA72ACBB5FD775C24C4C81BF2E&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_8F0_810_320C_EEEE0000_0_0_0.png" tvg-id="49779f9fe5a4a5613e779841a778685e" group-title="ShareExt@AUSTRALIA",9Life Regional
+http://118.208.209.127:9981/stream/channelid/530544457?ticket=8913BCF00E558916C58AFC732BC6996E1CD2F182&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_972_960_1013_EEEE0000_0_0_0.png" tvg-id="852cd3f7fbaa659e1fc4eadf38094444" group-title="ShareExt@AUSTRALIA",7TWO
+http://118.208.209.127:9981/stream/channelid/2010328197?ticket=ABD4214B90FC0164A7A3E4DA3E55E58552C7DECC&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_977_960_1013_EEEE0000_0_0_0.png" tvg-id="8903e6136cedb3d5a0146a5da8cffe16" group-title="ShareExt@AUSTRALIA",7mate HD
+http://118.208.209.127:9981/stream/channelid/333841289?ticket=FF511FD6F034F02A0DA7DBA282BFC715AE73EB8A&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh" tvg-id="971f8ec9fbcd85d02081520475e3c8d7" group-title="ShareExt@AUSTRALIA",7flix
+http://118.208.209.127:9981/stream/channelid/1234050967?ticket=E164E5A43C382C019D4EFC5B474A28391A3F284E&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh" tvg-id="ebe0d7bd5ac14696ab42e8cb7bc5f136" group-title="ShareExt@AUSTRALIA",WIN HD
+http://118.208.209.127:9981/stream/channelid/1037557995?ticket=847CE83E8BFFFC70164B14CD0358699BD8827509&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_782_3280_3271_EEEE0000_0_0_0.png" tvg-id="fb780a7005b57030697b9570d2927970" group-title="ShareExt@AUSTRALIA",WIN Bold
+http://118.208.209.127:9981/stream/channelid/1879734523?ticket=9FB8360CC494EBC8FDEB6A42AB20AF44020D841B&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_786_3280_3271_EEEE0000_0_0_0.png" tvg-id="d722bc4f2f24df82fbcedd8e1e43c851" group-title="ShareExt@AUSTRALIA",WIN Peach
+http://118.208.209.127:9981/stream/channelid/1337729751?ticket=B226B0F781A19BF02D0693B961FE2A8CDD668778&profile=pass
+#EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_790_3280_3271_EEEE0000_0_0_0.png" tvg-id="4d0046db4b42dfea1a564e5002fa0514" group-title="ShareExt@AUSTRALIA",Sky News on WIN
+http://118.208.209.127:9981/stream/channelid/1531314253?ticket=1414C816DDBAFFF5C8BB0E63F396B52349652767&profile=pass
 
 
 
