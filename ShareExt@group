@@ -5431,6 +5431,40 @@ http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="ShareExt@ASIANSports",Usee Sport1
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-useesport
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="ShareExt@ASIANSports",Usee Sport2
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-useesports2
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="ShareExt@ASIANSports",CHAMPION TV 1 HD
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-champion1
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="ShareExt@ASIANSports",CHAMPION TV 2 HD
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-champion2
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="ShareExt@ASIANSports",Bein1 id
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein1
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="ShareExt@ASIANSports",Bein2 id
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-bein2
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@ASIANSports",FOX SPORTS 1 HD ID
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@ASIANSports",FOX SPORTS 2 HD ID
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@ASIANSports",FOX SPORTS 3 HD ID
+https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",true Sport 1
 http://160.119.77.116:8081/iptv/hd-tsport1.stream/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@ASIANSports",true Sport 2
