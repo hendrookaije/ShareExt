@@ -5660,6 +5660,9 @@ http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 
 
 
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",FOX Action Movies HD 
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/15114
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",LOTUS MACAU
 http://live-hls.macaulotustv.com:80/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Cinema",MAHA Movie
@@ -6075,12 +6078,16 @@ http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Assp1
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/23453
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Assp2
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/23452
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Assp3
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/23451
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",Assp4
+http://cloudcdn.tk:80/TadekPA/ZWbK05593/23450
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",SkynetSport
 http://4digital.ddns.net:11223/ts/0
