@@ -4952,15 +4952,19 @@ http://iptvtree.net:8080/Line1051/f4fffd47/165776
 
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",Astro SuperSport 1 My
+http://tv.wakds.xyz:8080/pptvy/76937/3581
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",Astro SuperSport 2 My
+http://tv.wakds.xyz:8080/pptvy/76937/3582
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",Astro SuperSport 3 My
+http://tv.wakds.xyz:8080/pptvy/76937/3583
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/pXZzNDd1/111.png" group-title="SPORT LIVE",Astro SuperSport 4 My
+http://tv.wakds.xyz:8080/pptvy/76937/3584
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 
@@ -5815,12 +5819,16 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AstroSport1
+http://tv.wakds.xyz:8080/pptvy/76937/4170
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AstroSport2
+http://tv.wakds.xyz:8080/pptvy/76937/4171
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AstroSport3
+http://tv.wakds.xyz:8080/pptvy/76937/4172
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AstroSport4
+http://tv.wakds.xyz:8080/pptvy/76937/4173
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Malaysia",AstroArena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
