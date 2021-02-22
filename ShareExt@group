@@ -864,6 +864,46 @@ http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/53980
 
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC GOLD EPL 1 HD" tvg-logo="" group-title="SPORT_BALL",NBC GOLD EPL 1 HD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/40366
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC GOLD EPL 2 HD" tvg-logo="" group-title="SPORT_BALL",NBC GOLD EPL 2 HD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/40365
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC GOLD EPL 3 HD" tvg-logo="" group-title="SPORT_BALL",NBC GOLD EPL 3 HD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/40364
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC GOLD EPL 4 HD" tvg-logo="" group-title="SPORT_BALL",NBC GOLD EPL 4 HD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/40363
+#EXTINF:-1 tvg-ID="" tvg-name="US: NBC GOLD EPL 5 HD" tvg-logo="" group-title="SPORT_BALL",NBC GOLD EPL 5 HD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/40362
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: SETANTA SPORTS PLUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT_BALL",SETANTA SPORTS PLUS FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/5478
+#EXTINF:-1 tvg-ID="" tvg-name="AZ: SETANTA SPORTS EURASIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT_BALL",SETANTA SPORTS EURASIA FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/5479
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="UK: BT SPORTS 1 HD Backup" tvg-logo="http://i.imgur.com/F2R303x.png" group-title="SPORT_BALL",BT SPORTS 1 HD Backup
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/40205
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="UK: BT Sports 2 FHD" tvg-logo="https://4.bp.blogspot.com/-Ab-kjVgRpts/XA0U-sSGA0I/AAAAAAAAAiM/6DUcpJyScsM9NaBGksOa74iFiQs05BciQCEwYBhgL/s1600/BT-Sport-Extra-1-UK%2B-%2BCopie-min.jpg" group-title="SPORT_BALL",BT Sports 2 FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/8619
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="UK: BT SPORTS 3 HD Backup" tvg-logo="http://static.iptv-epg.com/gb/BTSport3.uk.png" group-title="SPORT_BALL",BT SPORTS 3 HD Backup
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/40203
+#EXTINF:-1 tvg-ID="" tvg-name="UK: ELEVEN LALIGA FHD" tvg-logo="" group-title="SPORT_BALL",ELEVEN LALIGA FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/29488
+#EXTINF:-1 tvg-ID="elevensports.uk" tvg-name="UK: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="SPORT_BALL",ELEVEN SPORTS 1 FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/28281
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="UK: Eleven Sports 2 FHD" tvg-logo="" group-title="SPORT_BALL",Eleven Sports 2 FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/29062
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK: PREMIER SPORTS FHD" tvg-logo="https://media.irishpost.co.uk/uploads/2017/05/premier-logo-hd-copy.jpg" group-title="SPORT_BALL",Premier Sports 2
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/48721
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="UK: PREMIER SPORTS FHD" tvg-logo="https://media.irishpost.co.uk/uploads/2017/05/premier-logo-hd-copy.jpg" group-title="SPORT_BALL",PREMIER SPORTS FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/26852
+#EXTINF:-1 tvg-ID="rmc.sport.1.fr" tvg-name="FR: RMC SPORT 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="SPORT_BALL",RMC SPORT 1 FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/31277
+#EXTINF:-1 tvg-ID="rmc.sport.2.fr" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="SPORT_BALL",RMC SPORT 2 HD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/31276
+#EXTINF:-1 tvg-ID="rmc.sport.3.fr" tvg-name="FR: RMC SPORT 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="SPORT_BALL",RMC SPORT 3 FHD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/31275
+#EXTINF:-1 tvg-ID="rmc.sport.4.fr" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="SPORT_BALL",RMC SPORT 4 HD
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/31274
+#EXTINF:-1 tvg-ID="rmc.sport.live.5.fr" tvg-name="FR: RMC SPORT LIVE 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_RMC_Sport_2018.svg" group-title="SPORT_BALL",RMC SPORT LIVE 5
+http://m3u.area51iptv.site:7899/Sulaeko1/Abbiy26/31272
 
 
 
