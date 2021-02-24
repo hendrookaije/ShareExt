@@ -5903,30 +5903,39 @@ http://160.119.77.116:8081/iptv/hd-bein10.stream/chunks.m3u8
 
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="ShareExt@ASIANSports",Usee Sport1
+http://asep-iwan.my.id/premium/useesport.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesport
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="ShareExt@ASIANSports",Usee Sport2
+http://asep-iwan.my.id/premium/useesports2.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesports2
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="ShareExt@ASIANSports",CHAMPION TV 1 HD
+http://asep-iwan.my.id/premium/champion1.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion1
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="ShareExt@ASIANSports",CHAMPION TV 2 HD
+http://asep-iwan.my.id/premium/champion2.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion2
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="ShareExt@ASIANSports",Bein1 id
+http://asep-iwan.my.id/premium/bein1.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein1
 
 #EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="ShareExt@ASIANSports",Bein2 id
+http://asep-iwan.my.id/premium/bein2.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein2
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@ASIANSports",FOX SPORTS 1 HD ID
+http://asep-iwan.my.id/premium/foxsport1.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport1
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@ASIANSports",FOX SPORTS 2 HD ID
+http://asep-iwan.my.id/premium/foxsport2.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport2
 
 #EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@ASIANSports",FOX SPORTS 3 HD ID
+http://asep-iwan.my.id/premium/foxsport3.m3u8
 https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport3
 
 
@@ -6154,7 +6163,7 @@ http://62.210.247.122:25461/Chilean50conn/sPDmqSHTFT/32
 
 
 
-#EXTM3U
+
 #EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_970_960_1013_EEEE0000_0_0_0.png" tvg-id="47cee3a20ce79a1723e54c576cd3d9a2" group-title="ShareExt@AUSTRALIA",7HD - QLD
 http://118.208.209.127:9981/stream/channelid/585354823?ticket=C72779BA75755B311404BCD30E7A114038F7FC34&profile=pass
 #EXTINF:-1 logo="\\192.168.1.8\Picons\tvh/1_0_1_2C5_243_1010_EEEE0000_0_0_0.png" tvg-id="78e99c02d7125ccde36a2b4dca364850" group-title="ShareExt@AUSTRALIA",ABC TV HD
