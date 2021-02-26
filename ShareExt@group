@@ -7343,6 +7343,48 @@ http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="ShareExt@Sports",Usee Sport1
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesport
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="ShareExt@Sports",Usee Sport2
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesports2
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="ShareExt@Sports",CHAMPION TV 1 HD
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion1
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="ShareExt@Sports",CHAMPION TV 2 HD
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion2
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="ShareExt@Sports",Bein1 id
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein1
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="ShareExt@Sports",Bein2 id
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein2
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@Sports",FOX SPORTS 1 HD ID
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport1
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@Sports",FOX SPORTS 2 HD ID
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport2
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="ShareExt@Sports",FOX SPORTS 3 HD ID
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport3
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",EGG
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=egg
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",NBA
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=nba
+
+
+
+
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Sports",SkynetSport
 http://4digital.ddns.net:11223/ts/0
 
